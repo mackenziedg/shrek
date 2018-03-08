@@ -2068,13 +2068,13 @@ about my reputation.
 360
 00:24:13,780 --> 00:24:17,790
 MUSIC
-<i>- You're living in the past
-It's a new generation. - Damn!</i>
+You're living in the past
+It's a new generation.
 
 361
 00:24:17,870 --> 00:24:20,660
 MUSIC
-<i>A girl can do what she wants to do.</i>
+A girl can do what she wants to do.
 
 362
 00:24:20,750 --> 00:24:23,000
@@ -2095,9 +2095,9 @@ Oh, no, no, no, no, no Not me.
 365
 00:24:30,920 --> 00:24:34,300
 MUSIC
-<i>- Me, me, me.
+Me, me, me.
 DONKEY
-Hey, Shrek, tag me! Tag me!</i>
+Hey, Shrek, tag me! Tag me!
 
 366
 00:24:34,390 --> 00:24:37,140
@@ -2119,8 +2119,8 @@ Ah!
 369
 00:24:42,140 --> 00:24:44,190
 MUSIC
-<i>- And I'm always feeling good
-when I'm having fun. - Yeah!</i>
+And I'm always feeling good
+when I'm having fun. - Yeah!
 
 370
 00:24:44,270 --> 00:24:46,360
@@ -2162,7 +2162,7 @@ Not me, not me.
 377
 00:25:02,410 --> 00:25:04,880
 MUSIC
-<i> Not me.</i>
+Not me.
 
 378
 00:25:08,000 --> 00:25:13,220
@@ -2271,2097 +2271,2621 @@ What kind of quest?
 
 396
 00:26:19,620 --> 00:26:21,950
+DONKEY
 Let me get this straight.
 You're gonna go fight a dragon...
 
 397
 00:26:22,040 --> 00:26:24,749
+DONKEY
 and rescue a princess just so Farquaad
 will give you back a swamp...
 
 398
 00:26:24,750 --> 00:26:27,959
+DONKEY
 which you only don't have because he filled
 it full of freaks in the first place.
 
 399
 00:26:27,960 --> 00:26:30,118
+DONKEY
 Is that about right?
 
 400
 00:26:30,131 --> 00:26:32,300
+SHREK
 Maybe there's a good reason
 donkeys shouldn't talk.
 
 401
 00:26:32,380 --> 00:26:35,920
+DONKEY
 I don't get it. Why don't you just
 pull some of that ogre stuff on him?
 
 402
 00:26:36,010 --> 00:26:37,930
+DONKEY
 Throttle him, lay siege
 to his fortress,
 
 403
 00:26:38,010 --> 00:26:40,850
+DONKEY
 grind his bones to make your
 bread, the whole ogre trip.
 
 404
 00:26:40,930 --> 00:26:42,850
+SHREK
 Oh, I know what.
 
 405
 00:26:42,930 --> 00:26:45,140
+SHREK
 Maybe I could have decapitated
 an entire village...
 
 406
 00:26:45,230 --> 00:26:47,350
+SHREK
 and put their heads on a pike,
 
 407
 00:26:47,440 --> 00:26:51,060
+SHREK
 gotten a knife, cut open their
 spleen and drink their fluids.
 
 408
 00:26:51,150 --> 00:26:53,280
+SHREK
 Does that sound good to you?
 
 409
 00:26:53,360 --> 00:26:55,990
+DONKEY
 Uh, no, not really, no.
 
 410
 00:26:56,070 --> 00:26:59,870
+SHREK
 For your information, there's a lot
 more to ogres than people think.
 
 411
 00:26:59,950 --> 00:27:02,700
-- Example?
-- Example?
+DONKEY
+Example?
+SHREK
+Example?
 
 412
 00:27:02,780 --> 00:27:08,920
-- Okay, um, ogres are like onions.
-- They stink?
+SHREK
+Okay, um, ogres are like onions.
+DONKEY
+They stink?
 
 413
 00:27:09,000 --> 00:27:11,290
-- Yes... No!
-- They make you cry? - No!
+SHREK
+Yes... No!
+DONKEY
+They make you cry?
+SHREK
+No!
 
 414
 00:27:11,380 --> 00:27:14,800
+DONKEY
 You leave them out in the sun, they get all
 brown, start sprouting little white hairs.
 
 415
 00:27:14,880 --> 00:27:16,880
+SHREK
 No! Layers!
 
 416
 00:27:16,970 --> 00:27:19,300
+SHREK
 Onions have layers.
 
 417
 00:27:19,380 --> 00:27:22,680
+SHREK
 Ogres have layers!
 Onions have layers.
 
 418
 00:27:22,760 --> 00:27:25,180
+SHREK
 You get it? We both have layers.
 
 419
 00:27:27,100 --> 00:27:30,690
+DONKEY
 Oh, you both have layers. Oh.
 
 420
 00:27:30,770 --> 00:27:34,150
+DONKEY
 You know, not everybody likes onions.
 
 421
 00:27:34,230 --> 00:27:36,860
+DONKEY
 Cake! Everybody loves cakes!
 Cakes have layers.
 
 422
 00:27:36,940 --> 00:27:40,860
+SHREK
 I don't care... what
 everyone likes.
 
 423
 00:27:40,950 --> 00:27:44,660
+SHREK
 Ogres are not like cakes.
 
 424
 00:27:46,500 --> 00:27:49,870
+DONKEY
 You know what else everybody likes?
 Parfaits.
 
 425
 00:27:49,960 --> 00:27:51,880
+DONKEY
 Have you ever met a person, you
 say, Let's get some parfait,
 
 426
 00:27:51,960 --> 00:27:53,880
+DONKEY
 they say, No, I don't
 like no parfait?
 
 427
 00:27:53,960 --> 00:27:56,710
-- Parfaits are delicious.
-- No!
+DONKEY
+Parfaits are delicious.
+SHREK
+No!
 
 428
 00:27:56,800 --> 00:27:59,550
+SHREK
 You dense, irritating,
 miniature beast of burden!
 
 429
 00:27:59,630 --> 00:28:02,550
+SHREK
 Ogres are like onions!
 End of story.
 
 430
 00:28:02,640 --> 00:28:04,600
+SHREK
 Bye-bye. See ya later.
 
 431
 00:28:08,430 --> 00:28:12,860
+DONKEY
 Parfaits may be the most delicious
 thing on the whole damn planet.
 
 432
 00:28:12,940 --> 00:28:15,150
+SHREK
 You know, I think I
 preferred your humming.
 
 433
 00:28:15,230 --> 00:28:17,900
+DONKEY
 Do you have a tissue or something?
 I'm making a mess.
 
 434
 00:28:17,990 --> 00:28:20,900
+DONKEY
 Just the word parfait
 make me start slobbering.
 
 435
 00:28:25,330 --> 00:28:31,210
+MUSIC
 I'm on my way from misery
 to happiness today.
 
 436
 00:28:31,290 --> 00:28:33,790
+MUSIC
 Uh-huh, uh-huh Uh-huh, uh-huh
 
 437
 00:28:33,880 --> 00:28:39,340
+MUSIC
 I'm on my way from misery
 to happiness today.
 
 438
 00:28:39,420 --> 00:28:41,880
+MUSIC
 Uh-huh, uh-huh Uh-huh, uh-huh.
 
 439
 00:28:41,970 --> 00:28:45,890
+MUSIC
 And everything that you
 receive up yonder.
 
 440
 00:28:45,970 --> 00:28:49,890
+MUSIC
 Is what you give to
 me the day I wander
 
 441
 00:28:49,980 --> 00:28:52,940
+MUSIC
 I'm on my way
 
 442
 00:28:54,020 --> 00:28:56,940
+MUSIC
 I'm on my way
 
 443
 00:28:58,030 --> 00:29:00,110
+MUSIC
+MUSIC
 I'm on my way.
 
 444
 00:29:00,190 --> 00:29:02,650
+DONKEY
 Ooh! Shrek! Did you do that?
 
 445
 00:29:02,740 --> 00:29:06,530
+DONKEY
 You gotta warn somebody before you
 just crack one off. My mouth was open.
 
 446
 00:29:06,620 --> 00:29:10,330
+SHREK
 Believe me, Donkey, if it
 was me, you'd be dead.
 
 447
 00:29:10,410 --> 00:29:13,170
+SHREK
 It's brimstone.
 
 448
 00:29:13,250 --> 00:29:16,420
-- We must be getting close.
-- Yeah, right, brimstone.
+SHREK
+We must be getting close.
+DONKEY
+Yeah, right, brimstone.
 
 449
 00:29:16,500 --> 00:29:18,533
+DONKEY
 Don't be talking about
 it's the brimstone. I
 
 450
 00:29:18,546 --> 00:29:20,590
+DONKEY
 know what I smell. It
 wasn't no brimstone.
 
 451
 00:29:20,670 --> 00:29:22,630
+DONKEY
 It didn't come off
 no stone neither.
 
 452
 00:29:40,650 --> 00:29:43,990
+SHREK
 Sure, it's big enough, but
 look at the location.
 
 453
 00:29:47,120 --> 00:29:51,830
+DONKEY
 Uh, Shrek? Uh, remember when
 you said ogres have layers?
 
 454
 00:29:51,910 --> 00:29:53,830
+SHREK
 Oh, aye.
 
 455
 00:29:53,910 --> 00:29:57,500
+DONKEY
 Well, I have a bit of
 a confession to make.
 
 456
 00:29:57,580 --> 00:30:00,960
+DONKEY
 Donkeys don't have layers. We wear our
 fear right out there on our sleeves.
 
 457
 00:30:01,050 --> 00:30:03,078
+SHREK
 Wait a second. Donkeys
 don't have sleeves.
 
 458
 00:30:03,091 --> 00:30:05,130
+DONKEY
 You know what I mean.
 
 459
 00:30:05,220 --> 00:30:07,890
+SHREK
 You can't tell me you're
 afraid of heights.
 
 460
 00:30:07,970 --> 00:30:10,253
+DONKEY
 I'm just a little
 uncomfortable about being on
 
 461
 00:30:10,266 --> 00:30:12,560
+DONKEY
 a rickety bridge over a
 boiling lake of lava!
 
 462
 00:30:12,640 --> 00:30:16,690
+SHREK
 Come on, Donkey. I'm right
 here beside ya, okay?
 
 463
 00:30:16,770 --> 00:30:19,440
+SHREK
 For emotional support,
 
 464
 00:30:19,520 --> 00:30:24,070
+SHREK
 we'll just tackle this thing together
 one little baby step at a time.
 
 465
 00:30:24,150 --> 00:30:26,070
-- Really?
-- Really, really.
+DONKEY
+Really?
+SHREK
+Really, really.
 
 466
 00:30:26,150 --> 00:30:29,370
-- Okay, that makes me feel so much better.
-- Just keep moving.
+DONKEY
+Okay, that makes me feel so much better.
+SHREK
+Just keep moving.
 
 467
 00:30:29,450 --> 00:30:34,040
-- And don't look down.
-- Okay, don't look down. Don't look down.
+SHREK
+And don't look down.
+DONKEY
+Okay, don't look down. Don't look down.
 
 468
 00:30:34,120 --> 00:30:37,500
+DONKEY
 Don't look down. Keep on moving.
 Don't look down.
 
 469
 00:30:37,580 --> 00:30:41,380
+DONKEY
 Shrek! I'm looking down!
 
 470
 00:30:41,460 --> 00:30:44,380
+DONKEY
 Oh, God, I can't do this!
 Just let me off, please!
 
 471
 00:30:44,460 --> 00:30:48,010
-- But you're already halfway.
-- But I know that half is safe!
+SHREK
+But you're already halfway.
+DONKEY
+But I know that half is safe!
 
 472
 00:30:48,090 --> 00:30:50,890
+SHREK
 Okay, fine. I don't have time for this.
 You go back.
 
 473
 00:30:50,970 --> 00:30:53,390
-- Shrek, no! Wait!
-- Just, Donkey...
+DONKEY
+Shrek, no! Wait!
+SHREK
+Just, Donkey...
 
 474
 00:30:53,470 --> 00:30:56,560
-- Let's have a dance then, shall we?
-- Don't do that!
+SHREK
+Let's have a dance then, shall we?
+DONKEY
+Don't do that!
 
 475
 00:30:56,640 --> 00:31:00,520
+SHREK
 Oh, I'm sorry. Do what?
 
 476
 00:31:00,610 --> 00:31:03,690
-- Oh, this?
-- Yes, that!
+SHREK
+Oh, this?
+DONKEY
+Yes, that!
 
 477
 00:31:03,780 --> 00:31:07,200
+SHREK
 Yes? Yes, do it. Okay.
 
 478
 00:31:07,280 --> 00:31:09,570
+DONKEY
 No, Shrek!
 
 479
 00:31:09,660 --> 00:31:12,780
-- No! Stop it!
-- You said do it! I'm doing it.
+DONKEY
+No! Stop it!
+SHREK
+You said do it! I'm doing it.
 
 480
 00:31:12,870 --> 00:31:17,120
+DONKEY
 I'm gonna die. I'm gonna die.
 Shrek, I'm gonna die.
 
 481
 00:31:17,210 --> 00:31:19,710
+DONKEY
 Oh!
 
 482
 00:31:19,790 --> 00:31:23,800
+SHREK
 That'll do, Donkey.
 That'll do.
 
 483
 00:31:27,170 --> 00:31:29,430
+DONKEY
 Cool.
 
 484
 00:31:29,510 --> 00:31:32,260
+DONKEY
 So where is this
 fire-breathing pain-in-the-neck anyway?
 
 485
 00:31:32,350 --> 00:31:36,100
+SHREK
 Inside, waiting for
 us to rescue her.
 
 486
 00:31:36,180 --> 00:31:39,100
+DONKEY
 I was talking about the dragon, Shrek.
 
 487
 00:31:54,580 --> 00:31:56,500
+SHREK
 You afraid?
 
 488
 00:31:56,580 --> 00:31:59,870
-No, but... Shh.
+DONKEY
+No, but...
+SHREK
+Shh.
 
 489
 00:31:59,960 --> 00:32:03,500
+DONKEY
 Oh, good. Me neither.
 
 490
 00:32:03,590 --> 00:32:06,960
+DONKEY
 'Cause there's nothing
 wrong with being afraid.
 
 491
 00:32:07,050 --> 00:32:10,300
+DONKEY
 Fear's a sensible response
 to an unfamiliar situation.
 
 492
 00:32:10,380 --> 00:32:12,430
+DONKEY
 Unfamiliar dangerous
 situation, I might add.
 
 493
 00:32:12,510 --> 00:32:15,219
+DONKEY
 With a dragon that breathes fire and
 eats knights and breathes fire,
 
 494
 00:32:15,220 --> 00:32:18,680
+DONKEY
 it sure doesn't mean you're a
 coward if you're a little scared.
 
 495
 00:32:18,770 --> 00:32:22,770
+DONKEY
 I sure as heck am not a coward. I know that.
 
 496
 00:32:22,860 --> 00:32:26,190
+SHREK
 Donkey, two things, okay?
 
 497
 00:32:26,280 --> 00:32:28,820
+SHREK
 Shut... up.
 
 498
 00:32:28,900 --> 00:32:31,660
+DONKEY
 Now go over there and see
 if you can find any stairs.
 
 499
 00:32:31,740 --> 00:32:34,370
+DONKEY
 Stairs? I thought we was
 looking for the princess.
 
 500
 00:32:34,450 --> 00:32:39,330
+SHREK
 The princess will be up the stairs in
 the highest room in the tallest tower.
 
 501
 00:32:39,410 --> 00:32:43,000
-- What makes you think she'll be there?
-- I read it in a book once.
+DONKEY
+What makes you think she'll be there?
+SHREK
+I read it in a book once.
 
 502
 00:32:43,080 --> 00:32:47,000
+DONKEY
 Cool. You handle the dragon.
 I'll handle the stairs.
 
 503
 00:32:47,090 --> 00:32:50,130
+DONKEY
 I'll find those stairs.
 I'll whip their butt too.
 
 504
 00:32:50,220 --> 00:32:52,180
+DONKEY
 Those stairs won't know
 which way they're going.
 
 505
 00:32:56,680 --> 00:32:58,640
+DONKEY
 I'm gonna take drastic steps.
 
 506
 00:32:58,720 --> 00:33:01,520
+DONKEY
 Kick it to the kerb. Don't mess with me.
 I'm the stair master.
 
 507
 00:33:01,600 --> 00:33:06,190
+DONKEY
 I've mastered the stairs. I wish I had a
 step right here. I'd step all over it.
 
 508
 00:33:09,150 --> 00:33:12,700
+SHREK
 Well, at least we know where the
 princess is, but where's the...
 
 509
 00:33:12,780 --> 00:33:17,030
+DONKEY
 Dragon!
 
 510
 00:33:30,630 --> 00:33:32,880
+SHREK
 Donkey, look out!
 
 511
 00:33:44,520 --> 00:33:46,520
+SHREK
 Got ya!
 
 512
 00:33:49,780 --> 00:33:55,030
+SHREK
 Whoa! Whoa! Whoa!
 
 513
 00:34:09,000 --> 00:34:13,630
+DONKEY
 Oh! Aah! Aah!
 
 514
 00:34:22,310 --> 00:34:25,730
+DONKEY
 No. Oh, no. No!
 
 515
 00:34:25,810 --> 00:34:29,440
+DONKEY
 Oh, what large teeth you have.
 
 516
 00:34:29,520 --> 00:34:31,428
+DONKEY
 I mean, white, sparkling teeth.
 I know you
 
 517
 00:34:31,441 --> 00:34:33,360
+DONKEY
 probably hear this all
 the time from your food,
 
 518
 00:34:33,440 --> 00:34:37,570
+DONKEY
 but you must bleach, 'cause that is
 one dazzling smile you got there.
 
 519
 00:34:37,660 --> 00:34:40,160
+DONKEY
 Do I detect a hint
 of minty freshness?
 
 520
 00:34:40,240 --> 00:34:45,000
+DONKEY
 And you know what else? You're...
 You're a girl dragon!
 
 521
 00:34:45,080 --> 00:34:49,590
+DONKEY
 Oh, sure! I mean, of course
 you're a girl dragon.
 
 522
 00:34:49,670 --> 00:34:53,460
+DONKEY
 You're just reeking
 of feminine beauty.
 
 523
 00:34:53,550 --> 00:34:55,880
+DONKEY
 What's the matter with you? You
 got something in your eye?
 
 524
 00:34:55,970 --> 00:34:58,800
+DONKEY
 Ooh. Oh. Oh.
 
 525
 00:34:58,890 --> 00:35:01,389
+DONKEY
 Man, I'd really love to stay, but,
 you know, I'm, uh...
 
 526
 00:35:01,390 --> 00:35:05,350
+DONKEY
 I'm an asthmatic, and I don't know if it'd
 work out if you're gonna blow smoke rings.
 
 527
 00:35:05,430 --> 00:35:07,350
+DONKEY
 Shrek!
 
 528
 00:35:07,440 --> 00:35:11,150
+DONKEY
 No! Shrek! Shrek!
 
 529
 00:35:11,230 --> 00:35:13,150
+DONKEY
 Shrek!
 
 530
 00:35:44,430 --> 00:35:45,850
+FIONA
 Oh! Oh!
 
 531
 00:35:45,930 --> 00:35:47,850
-- Wake up!
-- What?
+SHREK
+Wake up!
+FIONA
+What?
 
 532
 00:35:47,940 --> 00:35:49,560
+SHREK
 Are you Princess Fiona?
 
 533
 00:35:49,650 --> 00:35:54,980
+FIONA
 I am, awaiting a knight
 so bold as to rescue me.
 
 534
 00:35:55,070 --> 00:35:57,070
+SHREK
 Oh, that's nice. Now let's go!
 
 535
 00:35:57,150 --> 00:35:59,150
+FIONA   
 But wait, Sir Knight.
 
 536
 00:35:59,240 --> 00:36:01,530
+FIONA
 This be-ith our first meeting.
 
 537
 00:36:01,620 --> 00:36:05,330
+FIONA
 Should it not be a
 wonderful, romantic moment?
 
 538
 00:36:05,410 --> 00:36:09,750
-- Yeah, sorry, lady. There's no time.
-- Hey, wait. What are you doing?
+SHREK
+Yeah, sorry, lady. There's no time.
+FIONA
+Hey, wait. What are you doing?
 
 539
 00:36:09,830 --> 00:36:11,920
+FIONA
 You should sweep
 me off my feet...
 
 540
 00:36:12,000 --> 00:36:15,380
+FIONA
 out yonder window and down a
 rope on to your Valiant steed.
 
 541
 00:36:15,460 --> 00:36:18,260
+SHREK
 You've had a lot of time
 to plan this, haven't you?
 
 542
 00:36:18,340 --> 00:36:22,590
+FIONA
 Mm-hmm.
 
 543
 00:36:22,680 --> 00:36:25,560
+FIONA
 But we have to
 savour this moment!
 
 544
 00:36:25,640 --> 00:36:28,390
+FIONA
 You could recite an
 epic poem for me.
 
 545
 00:36:28,480 --> 00:36:30,940
+FIONA
 A ballad? A sonnet!
 
 546
 00:36:31,020 --> 00:36:34,270
-- A Limerick? Or something!
-- I don't think so.
+FIONA
+A Limerick? Or something!
+SHREK
+I don't think so.
 
 547
 00:36:34,360 --> 00:36:38,780
+FIONA
 Can I at least know the
 name of my champion?
 
 548
 00:36:38,860 --> 00:36:40,780
+SHREK
 Um, Shrek.
 
 549
 00:36:40,860 --> 00:36:44,580
+FIONA
 Sir Shrek.
 
 550
 00:36:44,660 --> 00:36:49,410
+FIONA
 I pray that you take this favour
 as a token of my gratitude.
 
 551
 00:36:50,540 --> 00:36:52,540
+SHREK
 Thanks!
 
 552
 00:36:56,550 --> 00:36:58,380
+FIONA
 You didn't slay the dragon?
 
 553
 00:36:58,460 --> 00:37:00,920
+SHREK
 It's on my to-do list. Now come on!
 
 554
 00:37:01,010 --> 00:37:03,590
+FIONA
 But this isn't right!
 
 555
 00:37:03,680 --> 00:37:05,930
+FIONA
 You were meant to charge in,
 sword drawn, banner flying.
 
 556
 00:37:06,010 --> 00:37:08,100
+FIONA
 That's what all the
 other knights did.
 
 557
 00:37:08,180 --> 00:37:10,480
+SHREK
 Yeah, right before
 they burst into flame.
 
 558
 00:37:10,560 --> 00:37:14,100
+FIONA
 That's not the point. Oh!
 
 559
 00:37:14,190 --> 00:37:16,650
+FIONA
 Wait. Where are you going?
 The exit's over there.
 
 560
 00:37:16,730 --> 00:37:18,780
+SHREK
 Well, I have to save my ass.
 
 561
 00:37:18,860 --> 00:37:22,070
+FIONA
 What kind of knight are you?
 
 562
 00:37:22,150 --> 00:37:24,570
+SHREK
 One of a kind.
 
 563
 00:37:24,660 --> 00:37:27,030
+DONKEY
 Slowdown. Slowdown, baby, please.
 
 564
 00:37:27,120 --> 00:37:31,330
+DONKEY
 I believe it's healthy to get to know
 someone over a long period of time.
 
 565
 00:37:31,410 --> 00:37:34,000
+DONKEY
 Just call me old-fashioned.
 
 566
 00:37:34,080 --> 00:37:37,590
+DONKEY
 I don't want to rush into
 a physical relationship.
 
 567
 00:37:37,670 --> 00:37:41,130
+DONKEY
 I'm not emotionally ready for
 a commitment of, uh, this...
 
 568
 00:37:41,220 --> 00:37:43,510
+DONKEY
 Magnitude really is the
 word I'm looking for.
 
 569
 00:37:43,590 --> 00:37:47,100
+DONKEY
 Magnitude... Hey, that is
 unwanted physical contact.
 
 570
 00:37:47,180 --> 00:37:49,640
+DONKEY
 Hey, what are you doing?
 
 571
 00:37:49,720 --> 00:37:52,980
+DONKEY
 Okay, okay. Let's just backup a little
-and take this one step a ta time.
+and take this one step at a time.
 
 572
 00:37:53,060 --> 00:37:57,190
+DONKEY
 We really should get to know each
 other first as friends or pen pals.
 
 573
 00:37:57,270 --> 00:38:01,490
+DONKEY
+DONKEY
 I'm on the road a lot, but I
 just love receiving cards...
 
 574
 00:38:01,570 --> 00:38:03,990
+DONKEY
 I'd really love
 to stay, but...
 
 575
 00:38:04,070 --> 00:38:06,660
+DONKEY
 Don't do that! That's my tail!
 That's my personal tail.
 
 576
 00:38:06,740 --> 00:38:08,438
+DONKEY
 You're gonna tear it off. I
 don't give permission...
 
 577
 00:38:08,451 --> 00:38:10,160
+DONKEY
 What are you gonna do with that?
 
 578
 00:38:10,240 --> 00:38:14,040
+DONKEY
 Hey, now. No way. No! No!
 
 579
 00:38:14,120 --> 00:38:16,880
+DONKEY
 No, no! No. No, no, no!
 No! Oh!
 
 580
 00:38:43,740 --> 00:38:45,700
-- Hi, Princess!
-- It talks!
+DONKEY
+Hi, Princess!
+FIONA
+It talks!
 
 581
 00:38:45,780 --> 00:38:49,530
+SHREK
 Yeah, it's getting him to
 shut up that's the trick.
 
 582
 00:38:54,790 --> 00:38:56,420
+SHREK
 Oh!
 
 583
 00:39:25,110 --> 00:39:27,030
+SHREK
 Okay, you two,
 head for the exit!
 
 584
 00:39:28,160 --> 00:39:30,700
+SHREK
 I'll take care of the dragon.
 
 585
 00:39:37,290 --> 00:39:42,710
+SHREK
 Run!
 
 586
 00:40:24,290 --> 00:40:28,970
+FIONA
 You did it!
 
 587
 00:40:29,050 --> 00:40:31,930
+FIONA
 You rescued me! You're amazing.
 You're...
 
 588
 00:40:32,010 --> 00:40:35,760
+FIONA
 You're wonderful. You're...
 
 589
 00:40:35,850 --> 00:40:38,140
+FIONA
 a little unorthodox I'll admit.
 
 590
 00:40:38,230 --> 00:40:43,150
+FIONA
 But thy deed is great,
 and thine heart is pure.
 
 591
 00:40:43,230 --> 00:40:47,030
+FIONA
 I am eternally in your debt.
 
 592
 00:40:47,110 --> 00:40:51,450
+FIONA
 And where would a brave knight
 be without his noble steed?
 
 593
 00:40:51,530 --> 00:40:53,853
+DONKEY
 I hope you heard that. She
 called me a noble steed.
 
 594
 00:40:53,866 --> 00:40:56,200
+DONKEY
 She think I'm a steed.
 
 595
 00:40:56,290 --> 00:40:59,450
+FIONA
 The battle is won.
 
 596
 00:40:59,540 --> 00:41:02,040
+FIONA
 You may remove your
 helmet, good Sir Knight.
 
 597
 00:41:02,120 --> 00:41:04,710
-- Uh, no.
-- Why not?
+SHREK
+Uh, no.
+FIONA
+Why not?
 
 598
 00:41:04,790 --> 00:41:07,000
+SHREK
 I have helmet hair.
 
 599
 00:41:07,090 --> 00:41:10,300
+FIONA
 Please. I would'st look upon
 the face of my rescuer.
 
 600
 00:41:10,380 --> 00:41:12,970
+SHREK
 No, no, you wouldn't... 'St.
 
 601
 00:41:13,050 --> 00:41:15,510
+FIONA
 But how will you kiss me?
 
 602
 00:41:15,600 --> 00:41:19,350
+SHREK
 What? That wasn't in
 the job description.
 
 603
 00:41:19,430 --> 00:41:21,810
+DONKEY
 Maybe it's a perk.
 
 604
 00:41:21,890 --> 00:41:26,320
+FIONA
 No, it's destiny. Oh, you
 must know how it goes.
 
 605
 00:41:26,400 --> 00:41:30,190
+FIONA
 A princess locked in a tower
 and beset by a dragon...
 
 606
 00:41:30,280 --> 00:41:33,200
+FIONA
 is rescued by a brave knight,
 
 607
 00:41:33,280 --> 00:41:36,580
+FIONA
 and then they share
 true love's first kiss.
 
 608
 00:41:36,660 --> 00:41:38,740
+DONKEY
 Hmm? With Shrek? You think...
 Wait.
 
 609
 00:41:38,830 --> 00:41:42,000
+DONKEY
 Wait. You think that
 Shrek is your true love?
 
 610
 00:41:42,080 --> 00:41:44,080
+FIONA
 Well, yes.
 
 611
 00:41:48,130 --> 00:41:50,590
+DONKEY
 You think Shrek is
 your true love!
 
 612
 00:41:50,670 --> 00:41:52,590
+FIONA
 What is so funny?
 
 613
 00:41:52,670 --> 00:41:55,760
+SHREK
 Let's just say I'm
 not your type, okay?
 
 614
 00:41:55,840 --> 00:41:59,350
+FIONA
 Of course, you are.
 You're my rescuer.
 
 615
 00:41:59,430 --> 00:42:01,890
+FIONA
 Now... Now remove your helmet.
 
 616
 00:42:01,980 --> 00:42:04,190
+SHREK
 Look. I really don't think
 this is a good idea.
 
 617
 00:42:04,270 --> 00:42:06,270
-- Just take off the helmet.
-- I'm not going to.
+FIONA
+Just take off the helmet.
+SHREK
+I'm not going to.
 
 618
 00:42:06,360 --> 00:42:07,520
-- Take it off.
-- No!
+FIONA
+Take it off.
+SHREK
+No!
 
 619
 00:42:07,610 --> 00:42:09,690
-- Now!
-- Okay!
+FIONA
+Now!
+SHREK
+Okay!
 
 620
 00:42:09,780 --> 00:42:14,280
+SHREK
 Easy. As you command,
 Your Highness.
 
 621
 00:42:24,330 --> 00:42:27,750
+FIONA
 You... You're a... an ogre.
 
 622
 00:42:27,840 --> 00:42:31,760
+SHREK
 Oh, you were expecting
 Prince Charming.
 
 623
 00:42:31,840 --> 00:42:34,340
+FIONA
 Well, yes, actually.
 
 624
 00:42:36,260 --> 00:42:39,510
+FIONA
 Oh, no. This is all wrong.
 
 625
 00:42:39,600 --> 00:42:41,890
+FIONA
 You're not supposed
 to be an ogre.
 
 626
 00:42:41,970 --> 00:42:47,230
+SHREK
 Princess, I was sent to
 rescue you by Lord Farquaad, okay?
 
 627
 00:42:47,310 --> 00:42:49,230
+SHREK
 He's the one who
 wants to marry you.
 
 628
 00:42:49,310 --> 00:42:51,230
+FIONA
 Then why didn't he
 come rescue me?
 
 629
 00:42:51,320 --> 00:42:55,650
+SHREK
 Good question. You should ask
 him that when we get there.
 
 630
 00:42:55,740 --> 00:42:58,780
+FIONA
 But I have to be rescued
 by my true love,
 
 631
 00:42:58,870 --> 00:43:01,620
+FIONA
 not by some ogre and his...
 his pet.
 
 632
 00:43:01,700 --> 00:43:03,750
+DONKEY
 So much for noble steed.
 
 633
 00:43:03,830 --> 00:43:06,460
+SHREK
 You're not making
 my job any easier.
 
 634
 00:43:06,540 --> 00:43:09,920
+FIONA
 I'm sorry, but your job
 is not my problem.
 
 635
 00:43:10,000 --> 00:43:15,260
+FIONA
 You can tell Lord Farquaad that if
 he wants to rescue me properly,
 
 636
 00:43:15,340 --> 00:43:17,680
+FIONA
 I'll be waiting for
 him right here.
 
 637
 00:43:17,760 --> 00:43:22,810
+SHREK
 Hey! I'm no one's messenger boy, all right?
 I'm a delivery boy.
 
 638
 00:43:22,890 --> 00:43:25,140
+FIONA
 You wouldn't dare.
 
 639
 00:43:25,230 --> 00:43:27,230
-- Put me down!
-- Ya coming, Donkey?
+FIONA
+Put me down!
+SHREK
+Ya coming, Donkey?
 
 640
 00:43:27,310 --> 00:43:29,270
+DONKEY
 I'm right behind ya.
 
 641
 00:43:29,350 --> 00:43:32,940
+FIONA
 Put me down, or you will
 suffer the consequences!
 
 642
 00:43:33,030 --> 00:43:37,530
+FIONA
 This is not dignified! Put me down!
 
 643
 00:43:37,610 --> 00:43:40,490
+DONKEY
 Okay, so here's
 another question.
 
 644
 00:43:40,570 --> 00:43:43,620
+DONKEY
 Say there's a woman that digs you, right,
 but you don't really like her that way.
 
 645
 00:43:43,700 --> 00:43:46,159
+DONKEY
 How do you let her down real easy
 so her feelings aren't hurt,
 
 646
 00:43:46,160 --> 00:43:48,670
+DONKEY
 but you don't get burned
 to a crisp and eaten?
 
 647
 00:43:48,750 --> 00:43:51,500
+FIONA
 You just tell her she's
 not your true love.
 
 648
 00:43:51,590 --> 00:43:54,300
+FIONA
 Everyone knowest what happens
 when you find your...
 
 649
 00:43:54,380 --> 00:43:56,970
+FIONA
 Hey!
 
 650
 00:43:57,050 --> 00:43:59,340
+FIONA
 The sooner we get to
 DuLoc the better.
 
 651
 00:43:59,430 --> 00:44:02,350
+DONKEY
 You're gonna love it there, Princess.
 It's beautiful!
 
 652
 00:44:02,430 --> 00:44:06,180
+FIONA
 And what of my groom-to-be? Lord Farquaad?
 What's he like?
 
 653
 00:44:06,270 --> 00:44:08,390
+SHREK
 Let me put it this
 way, Princess.
 
 654
 00:44:08,480 --> 00:44:12,480
+SHREK
 Men of Farquaad's stature
 are in short supply.
 
 655
 00:44:14,570 --> 00:44:18,650
+DONKEY
 I don't know. There are those
 who think little of him.
 
 656
 00:44:20,780 --> 00:44:23,660
+FIONA
 Stop it. Stop it, both of you.
 
 657
 00:44:23,740 --> 00:44:28,710
+FIONA
 You're just jealous you can never measure
 up to a great ruler like Lord Farquaad.
 
 658
 00:44:28,790 --> 00:44:31,710
+SHREK
 Yeah, well, maybe
 you're right, Princess.
 
 659
 00:44:31,790 --> 00:44:35,090
+SHREK
 But I'll let you do the measuring
 when you see him tomorrow.
 
 660
 00:44:35,170 --> 00:44:39,380
+FIONA
 Tomorrow? It'll take that long?
 
 661
 00:44:39,470 --> 00:44:44,180
-- Shouldn't we stop to make camp?
-- No, that'll take longer.
+FIONA
+Shouldn't we stop to make camp?
+SHREK
+No, that'll take longer.
 
 662
 00:44:44,260 --> 00:44:48,680
-- We can keep going.
-- But there's robbers in the woods.
+SHREK
+We can keep going.
+FIONA
+But there's robbers in the woods.
 
 663
 00:44:48,770 --> 00:44:52,100
+DONKEY
 Whoa! Time out, Shrek! Camping
 is starting to sound good.
 
 664
 00:44:52,190 --> 00:44:56,280
+SHREK
 Hey, come on. I'm scarier than anything
 we're going to see in this forest.
 
 665
 00:44:56,360 --> 00:44:58,740
+FIONA
 I need to find
 somewhere to camp now!
 
 666
 00:45:05,620 --> 00:45:09,710
-- Hey! Over here.
-- Shrek, we can do better than that.
+SHREK
+Hey! Over here.
+DONKEY
+Shrek, we can do better than that.
 
 667
 00:45:09,790 --> 00:45:12,370
+DONKEY
 I don't think this is
 fit for a princess.
 
 668
 00:45:12,460 --> 00:45:15,250
+FIONA
 No, no, it's perfect. It just
 needs a few homey touches.
 
 669
 00:45:15,340 --> 00:45:20,260
+SHREK
 Homey touches? Like what?
 
 670
 00:45:20,340 --> 00:45:24,600
+FIONA
 A door? Well, gentlemen,
 I bid thee good night.
 
 671
 00:45:24,680 --> 00:45:27,060
+DONKEY
 You want me to read you a
 bedtime story? I will.
 
 672
 00:45:27,140 --> 00:45:29,470
+FIONA
 I said good night!
 
 673
 00:45:31,940 --> 00:45:33,900
+DONKEY
 Shrek, what are you doing?
 
 674
 00:45:33,980 --> 00:45:37,020
+SHREK
 I just... You know... Oh, come on.
 
 675
 00:45:37,110 --> 00:45:39,740
+SHREK
 I was just kidding.
 
 676
 00:45:45,030 --> 00:45:48,620
+SHREK
 And, uh, that one,
 that's Throwback,
 
 677
 00:45:48,700 --> 00:45:52,120
+SHREK
 the only ogre to ever spit
 over three wheat fields.
 
 678
 00:45:52,210 --> 00:45:55,290
+DONKEY
 Right. Yeah.
 
 679
 00:45:55,380 --> 00:45:58,300
+DONKEY
 Hey, can you tell my
 future from these stars?
 
 680
 00:45:58,380 --> 00:46:01,970
+SHREK
 The stars don't tell the future, Donkey.
 They tell stories.
 
 681
 00:46:02,050 --> 00:46:05,640
+SHREK
 Look there's Bloodnut, the Flatulent.
 
 682
 00:46:05,720 --> 00:46:09,350
-- You can guess what he's famous for.
-- I know you're making this up.
+SHREK
+You can guess what he's famous for.
+DONKEY
+I know you're making this up.
 
 683
 00:46:09,430 --> 00:46:12,140
+SHREK
 No, look. There he is,
 
 684
 00:46:12,230 --> 00:46:15,310
+SHREK
 and there's the group of hunters
 running away from his stench.
 
 685
 00:46:15,400 --> 00:46:17,980
+DONKEY
 That is nothing but a
 bunch of little dots.
 
 686
 00:46:18,070 --> 00:46:21,990
+SHREK
 Sometimes things are
 more than they appear.
 
 687
 00:46:22,070 --> 00:46:24,240
+DONKEY
 Hmm?
 
 688
 00:46:24,320 --> 00:46:26,370
+SHREK
 Forget it.
 
 689
 00:46:29,200 --> 00:46:32,960
+DONKEY
 Hey, Shrek, what we gonna do
 when we get our swamp anyway?
 
 690
 00:46:33,040 --> 00:46:34,830
+SHREK
 Our swamp?
 
 691
 00:46:34,920 --> 00:46:37,000
+DONKEY
 You know, when we're through
 rescuing the princess.
 
 692
 00:46:37,080 --> 00:46:41,840
+SHREK
 We? Donkey, there's no we.
 There's no our.
 
 693
 00:46:41,920 --> 00:46:44,170
+SHREK
 There's just me and my swamp.
 
 694
 00:46:44,260 --> 00:46:48,510
+SHREK
 The first thing I'm gonna do is build
 a ten-foot wall around my land.
 
 695
 00:46:48,600 --> 00:46:51,100
+DONKEY
 You cut me deep, Shrek.
 
 696
 00:46:51,180 --> 00:46:54,520
+DONKEY
 You cut me real deep just now.
 
 697
 00:46:54,600 --> 00:46:56,520
+SHREK
 You know what I think?
 
 698
 00:46:56,600 --> 00:46:59,730
+SHREK
 I think this whole wall thing is
 just a way to keep somebody out.
 
 699
 00:46:59,820 --> 00:47:03,990
-- No, do ya think?
-- Are you hiding something?
+SHREK
+No, do ya think?
+DONKEY
+Are you hiding something?
 
 700
 00:47:04,070 --> 00:47:06,030
+SHREK
 Never mind, Donkey.
 
 701
 00:47:06,110 --> 00:47:09,530
+DONKEY
 Oh, this is another one of
 those onion things, isn't it?
 
 702
 00:47:09,620 --> 00:47:13,200
+SHREK
 No, this is one of those drop-it
 and leave-it-alone things.
 
 703
 00:47:13,290 --> 00:47:17,040
-- Why don't you want to talk about it?
-- Why do you want to?
+DONKEY
+Why don't you want to talk about it?
+SHREK
+Why do you want to?
 
 704
 00:47:17,120 --> 00:47:18,920
-- Why are you blocking?
-- I'm not blocking.
+DONKEY
+Why are you blocking?
+SHREK
+I'm not blocking.
 
 705
 00:47:19,000 --> 00:47:21,250
-- Oh, yes, you are.
-- Donkey, I'm warning you.
+DONKEY
+Oh, yes, you are.
+SHREK
+Donkey, I'm warning you.
 
 706
 00:47:21,340 --> 00:47:24,840
-- Who you trying to keep out?
-- Everyone! Okay?
+DONKEY
+Who you trying to keep out?
+SHREK
+Everyone! Okay?
 
 707
 00:47:26,090 --> 00:47:28,550
+DONKEY
 Oh, now we're getting somewhere.
 
 708
 00:47:28,640 --> 00:47:31,930
+SHREK
 Oh! For the love of Pete!
 
 709
 00:47:32,010 --> 00:47:34,430
+DONKEY
 What's your problem? What you
 got against the whole world?
 
 710
 00:47:34,520 --> 00:47:36,730
+SHREK
 I'm not the one with
 the problem, okay?
 
 711
 00:47:36,810 --> 00:47:39,770
+SHREK
 It's the world that seems
 to have a problem with me.
 
 712
 00:47:39,860 --> 00:47:43,730
+SHREK
 People take one look at me and go, Aah!
 Help! Run!
 
 713
 00:47:43,820 --> 00:47:47,570
+SHREK
 A big, stupid, ugly ogre!
 
 714
 00:47:47,650 --> 00:47:51,870
+SHREK
 They judge me
 before they even know me.
 
 715
 00:47:51,950 --> 00:47:53,870
+SHREK
 That's why I'm
 better off alone.
 
 716
 00:48:01,790 --> 00:48:04,000
+DONKEY
 You know what?
 
 717
 00:48:04,090 --> 00:48:09,760
+DONKEY
 When we met, I didn't think you was
 just a big, stupid, ugly ogre.
 
 718
 00:48:09,840 --> 00:48:12,760
+SHREK
 Yeah, I know.
 
 719
 00:48:12,850 --> 00:48:16,270
+DONKEY
 So, uh, are there any
 donkeys up there?
 
 720
 00:48:16,350 --> 00:48:19,730
+SHREK
 Well, there's, um, Gabby,
 
 721
 00:48:19,810 --> 00:48:22,110
+SHREK
 the Small and Annoying.
 
 722
 00:48:22,190 --> 00:48:27,110
+DONKEY
 Okay, I see it now. The big shiny
 one, right there. That one there?
 
 723
 00:48:27,190 --> 00:48:30,360
-- That's the moon.
-- Oh, okay.
+SHREK
+That's the moon.
+DONKEY
+Oh, okay.
 
 724
 00:48:51,720 --> 00:48:54,140
+FARQUAAD
 Again. Show me again.
 
 725
 00:48:58,600 --> 00:49:02,690
+FARQUAAD
 Mirror, mirror, show her to me.
 Show me the princess.
 
 726
 00:49:02,770 --> 00:49:06,820
+MIRROR
 Hmph.
 
 727
 00:49:06,900 --> 00:49:11,700
+FARQUAAD
 Ah. Perfect.
 
 728
 00:50:15,010 --> 00:50:17,890
+FARQUAAD
 Mmm, yeah, you know I
 like it like that.
 
 729
 00:50:17,970 --> 00:50:22,230
-- Come on, baby. I said I like it.
-- Donkey, wake up.
+DONKEY
+Come on, baby. I said I like it.
+SHREK
+Donkey, wake up.
 
 730
 00:50:22,310 --> 00:50:24,850
-- Huh? What?
-- Wake up.
+DONKEY
+Huh? What?
+SHREK
+Wake up.
 
 731
 00:50:24,940 --> 00:50:26,900
-- What?
-- Good morning.
+DONKEY
+What?
+SHREK
+Good morning.
 
 732
 00:50:26,980 --> 00:50:30,230
+FIONA
 How do you like your eggs?
 
 733
 00:50:30,320 --> 00:50:34,280
-- Good morning, Princess!
-- What's all this about?
+DONKEY
+Good morning, Princess!
+SHREK
+What's all this about?
 
 734
 00:50:34,360 --> 00:50:38,330
+FIONA
 We kind of got off to a
 bad start yesterday.
 
 735
 00:50:38,410 --> 00:50:40,410
+FIONA
 I wanted to make it up to you.
 
 736
 00:50:40,490 --> 00:50:45,040
+FIONA
 After all, you did rescue me.
 
 737
 00:50:45,120 --> 00:50:48,130
+SHREK
 Uh, thanks.
 
 738
 00:50:48,210 --> 00:50:52,010
+FIONA
 Well, eat up. We've got
 a big day ahead of us.
 
 739
 00:50:56,470 --> 00:50:58,430
+DONKEY
 Shrek!
 
 740
 00:50:58,510 --> 00:51:00,390
+SHREK
 What? It's a compliment.
 
 741
 00:51:00,470 --> 00:51:03,430
+SHREK
 Better out than in, I always say.
 
 742
 00:51:03,520 --> 00:51:07,270
+DONKEY
 Well, it's no way to behave in
 front of a princess.
 
 743
 00:51:07,350 --> 00:51:09,980
-- Thanks.
-- She's as nasty as you are.
+FIONA
+Thanks.
+DONKEY
+She's as nasty as you are.
 
 744
 00:51:10,070 --> 00:51:14,900
+SHREK
 You know, you're not
 exactly what I expected.
 
 745
 00:51:14,990 --> 00:51:20,080
+FIONA
 Maybe you shouldn't judge people
 before you get to know them.
 
 746
 00:51:22,870 --> 00:51:25,160
+ROBIN HOOD
 La Liberte! Hey!
 
 747
 00:51:25,250 --> 00:51:27,170
+SHREK
 Princess!
 
 748
 00:51:27,250 --> 00:51:29,920
+FIONA
 What are you doing?
 
 749
 00:51:30,000 --> 00:51:32,920
+ROBIN HOOD
 Be still, Mon Cherie,
 for I am your saviour!
 
 750
 00:51:33,010 --> 00:51:37,470
+ROBIN HOOD
 And I am rescuing you from this green...
 
 751
 00:51:37,550 --> 00:51:40,100
-- Beast.
-- Hey!
+ROBIN HOOD
+Beast.
+SHREK
+Hey!
 
 752
 00:51:40,180 --> 00:51:42,510
+SHREK
 That's my princess!
 Go find your own!
 
 753
 00:51:42,600 --> 00:51:47,640
+ROBIN HOOD
 Please, monster! Can't you
 see I'm a little busy here?
 
 754
 00:51:47,730 --> 00:51:51,320
+FIONA
 Look, pal, I don't know
 who you think you are!
 
 755
 00:51:51,400 --> 00:51:53,980
+ROBIN HOOD
 Oh! Of course! Oh, how rude.
 
 756
 00:51:54,070 --> 00:51:56,150
+ROBIN HOOD
 Please let me
 introduce myself.
 
 757
 00:51:56,240 --> 00:51:59,110
+ROBIN HOOD
 Oh, Merry Men!
 
 758
 00:52:03,240 --> 00:52:05,200
+MERRY MEN
 Ta, dah, dah, dah, wooh
 
 759
 00:52:05,290 --> 00:52:07,370
+ROBIN HOOD
 I steal from the rich
 and give to the needy.
 
 760
 00:52:07,460 --> 00:52:09,580
-<i>- He takes a wee percentage.
-- But I'm not greedy</i>
+MERRY MEN
+He takes a wee percentage.
+ROBIN HOOD
+But I'm not greedy
 
 761
 00:52:09,670 --> 00:52:11,670
+ROBIN HOOD
 I rescue pretty damsels
 Man, I'm good.
 
 762
 00:52:11,750 --> 00:52:14,710
-<i>- What a guy, Monsieur Hood.
-- Break it down.</i>
+MERRY MEN
+What a guy, Monsieur Hood.
+ROBIN HOOD
+Break it down.
 
 763
 00:52:18,430 --> 00:52:20,680
+ROBIN HOOD
 I like an honest fight
 and a saucy little maid.
 
 764
 00:52:20,760 --> 00:52:23,041
-<i>- What he's basically saying
-is he likes to get... - Paid.</i>
+MERRY MEN
+What he's basically saying
+is he likes to get... 
+ROBIN HOOD
+Paid.
 
 765
 00:52:23,100 --> 00:52:25,680
-<i>- So. - When an ogre in the
-bush grabs a lady by the tush.</i>
+ROBIN HOOD
+So. When an ogre in the
+bush grabs a lady by the tush.
 
 766
 00:52:25,770 --> 00:52:28,060
-<i>- That's bad.
-- That's bad.</i>
+ROBIN HOOD
+That's bad.
+MERRY MEN
+That's bad.
 
 767
 00:52:28,140 --> 00:52:30,400
+ROBIN HOOD
 When a beauty's with a beast
 it makes me awfully mad.
 
 768
 00:52:30,480 --> 00:52:32,400
+MERRY MEN
 He's mad He's
 really, really mad
 
 769
 00:52:32,480 --> 00:52:34,439
+ROBIN HOOD
 I'll take my blade and ram
 it through your heart.
 
 770
 00:52:34,440 --> 00:52:39,030
+ROBIN HOOD
 Keep your eyes on me, boys
 'cause I'm about to start.
 
 771
 00:52:44,620 --> 00:52:47,250
+FIONA
 Man, that was annoying!
 
 772
 00:52:47,330 --> 00:52:49,080
+MERRY MEN
 Oh, you little...
 
 773
 00:53:16,320 --> 00:53:19,400
+FIONA
 Um, shall we?
 
 774
 00:53:20,740 --> 00:53:23,620
-Ho ID the phone.
+SHREK
+Hold the phone.
 
 775
 00:53:24,200 --> 00:53:27,160
+SHREK
 Oh! Whoa, whoa, whoa.
 Hold on now.
 
 776
 00:53:27,240 --> 00:53:29,250
-- Where did that come from?
-- What?
+SHREK
+Where did that come from?
+FIONA
+What?
 
 777
 00:53:29,330 --> 00:53:32,210
+SHREK
 That! Back there.
 That was amazing!
 
 778
 00:53:32,290 --> 00:53:34,210
+SHREK
 Where did you learn that?
 
 779
 00:53:34,290 --> 00:53:37,420
+FIONA
 Well... When one lives alone,
 
 780
 00:53:37,500 --> 00:53:40,260
+FIONA
 uh, one has to learn these
 things in case there's a...
 
 781
 00:53:40,340 --> 00:53:42,970
-- There's an arrow in your butt!
-- What?
+FIONA
+There's an arrow in your butt!
+SHREK
+What?
 
 782
 00:53:43,050 --> 00:53:46,850
-- Oh, would you look at that?
-- Oh, no. This is all my fault.
+SHREK
+Oh, would you look at that?
+FIONA
+Oh, no. This is all my fault.
 
 783
 00:53:46,930 --> 00:53:48,850
-- I'm so sorry.
-- Why? What's wrong?
+FIONA
+I'm so sorry.
+DONKEY
+Why? What's wrong?
 
 784
 00:53:48,930 --> 00:53:50,588
+FIONA
 Shrek's hurt.
 
 785
 00:53:50,601 --> 00:53:52,270
+FIONA
 Shrek's hurt. Shrek's hurt?
 Oh, no, Shrek's gonna die.
 
 786
 00:53:52,350 --> 00:53:54,238
+SHREK
 Donkey, I'm okay.
 
 787
 00:53:54,251 --> 00:53:56,150
+DONKEY
 You can't do this to me. I'm
 too young for you to die.
 
 788
 00:53:56,230 --> 00:53:58,360
+DONKEY
 Keep your legs elevated.
 Turn your head and cough.
 
 789
 00:53:58,440 --> 00:54:01,450
-- Does anyone know the Heimlich?
-- Donkey! Calm down.
+DONKEY
+Does anyone know the Heimlich?
+SHREK
+Donkey! Calm down.
 
 790
 00:54:01,530 --> 00:54:03,833
+FIONA
 If you want to help
 Shrek, run into the woods
 
 791
 00:54:03,846 --> 00:54:06,160
+FIONA
 and find me a blue
 flower with red thorns.
 
 792
 00:54:06,240 --> 00:54:09,830
+DONKEY
 Blue flower, red thorns. Okay, I'm on it.
 Blue flower, red thorns.
 
 793
 00:54:09,910 --> 00:54:13,370
+DONKEY
 Don't die, Shrek. If you see a long
 tunnel, stay away from the light!
 
 794
 00:54:13,460 --> 00:54:16,630
-- Donkey!
-- Oh, yeah. Right. Blue flower, red thorns.
+FIONA
+Donkey!
+SHREK
+Donkey!
+DONKEY
+Oh, yeah. Right. Blue flower, red thorns.
 
 795
 00:54:16,710 --> 00:54:19,000
-- Blue flower, red thorns.
-- What are the flowers for?
+DONKEY
+Blue flower, red thorns.
+SHREK
+What are the flowers for?
 
 796
 00:54:19,090 --> 00:54:21,300
-- For getting rid of Donkey.
-- Ah.
+FIONA
+For getting rid of Donkey.
+SHREK
+Ah.
 
 797
 00:54:21,380 --> 00:54:23,760
+FIONA
 Now you hold still, and
 I'll yank this thing out.
 
 798
 00:54:23,840 --> 00:54:26,050
+SHREK
 Ow! Hey! Easy
 with the yanking.
 
 799
 00:54:26,140 --> 00:54:28,760
-- I'm sorry, but it has to come out.
-- No, it's tender.
+FIONA
+I'm sorry, but it has to come out.
+SHREK
+No, it's tender.
 
 800
 00:54:28,850 --> 00:54:30,600
+FIONA
 Now, hold on.
 
 801
 00:54:30,680 --> 00:54:31,713
+SHREK
 What you're doing is
 the opposite of help.
 
 802
 00:54:31,726 --> 00:54:32,770
+FIONA
 Don't move.
 
 803
 00:54:32,850 --> 00:54:35,520
-- Look, time out.
-- Would you...
+SHREK
+Look, time out.
+FIONA
+Would you...
 
 804
 00:54:35,600 --> 00:54:40,070
+FIONA
 Okay. What do you propose we do?
 
 805
 00:54:40,150 --> 00:54:41,493
+DONKEY
 Blue flower, red thorns.
 Blue flower, red thorns.
 
 806
 00:54:41,506 --> 00:54:42,860
+DONKEY
 Blue flower, red thorns.
 
 807
 00:54:42,950 --> 00:54:45,320
+DONKEY
 This would be so much easier
 if I wasn't colour-blind!
 
 808
 00:54:45,410 --> 00:54:47,490
-- Blue flower, red thorns.
-- Ow!
+DONKEY
+Blue flower, red thorns.
+SHREK
+Ow!
 
 809
 00:54:47,570 --> 00:54:49,990
-Ho ID on, Shrek! I'm coming!
+DONKEY
+Hold on, Shrek! I'm coming!
 
 810
 00:54:51,500 --> 00:54:53,620
+SHREK
 Ow! Not good.
 
 811
 00:54:53,710 --> 00:54:56,250
+FIONA
 Okay. Okay, I can nearly see the head.
 
 812
 00:54:56,330 --> 00:54:58,960
-- It's just about...
-- Ow! Ohh!
+FIONA
+It's just about...
+SHREK
+Ow! Ohh!
 
 813
 00:55:00,800 --> 00:55:03,420
+DONKEY
 Ahem.
 
 814
 00:55:03,510 --> 00:55:06,890
+SHREK
 Nothing happened.
 We were just, uh...
 
 815
 00:55:06,970 --> 00:55:09,680
+DONKEY
 Look, if you wanted to be alone,
 all you had to do was ask.
 
 816
 00:55:09,760 --> 00:55:13,020
+SHREK
 Oh, come on! That's the
 last thing on my mind.
 
 817
 00:55:13,100 --> 00:55:16,770
+SHREK
 The princess here was just...
 Ugh!
 
 818
 00:55:19,940 --> 00:55:22,650
-- Ow!
-- Hey, what's that?
+SHREK
+Ow!
+DONKEY
+Hey, what's that?
 
 819
 00:55:22,730 --> 00:55:25,570
+DONKEY
 That's... Is that blood?
 
 820
 00:55:41,880 --> 00:55:45,550
+MUSIC
 My beloved monster and me.
 
 821
 00:55:46,800 --> 00:55:51,310
+MUSIC
 We go everywhere together.
 
 822
 00:55:51,390 --> 00:55:56,100
+MUSIC
 Wearing a raincoat
 that has four sleeves.
 
 823
 00:55:56,190 --> 00:56:00,810
-<i>- Gets us through all kinds of weather.
-- Aah!</i>
+MUSIC
+Gets us through all kinds of weather.
+UNKNOWN
+Aah!
 
 824
 00:56:00,900 --> 00:56:06,150
+MUSIC
 She will always be
 the only thing.
 
 825
 00:56:06,240 --> 00:56:10,740
+MUSIC
 That comes between me
 and the awful sting.
 
 826
 00:56:10,820 --> 00:56:15,910
+MUSIC
 That comes from living in a
 world that's so damn mean.
 
 827
 00:56:25,170 --> 00:56:29,300
+MUSIC
 Oh, oh-oh-oh-oh.
 
 828
 00:56:43,770 --> 00:56:45,730
+MUSIC
 Hey!
 
 829
 00:56:45,820 --> 00:56:49,990
-<i>La-la, la-la, la-la-la-la.</i>
+MUSIC
+La-la, la-la, la-la-la-la.
 
 830
 00:56:50,070 --> 00:56:54,120
+MUSIC
 La-la, la-la, la-la.
 
 831
 00:56:56,120 --> 00:56:58,040
+SHREK
 There it is, Princess.
 
 832
 00:56:58,120 --> 00:57:00,460
+SHREK
 Your future awaits you.
 
 833
 00:57:00,540 --> 00:57:02,790
-- That's DuLoc?
-- Yeah, I know.
+FIONA
+That's DuLoc?
+DONKEY
+Yeah, I know.
 
 834
 00:57:02,880 --> 00:57:05,550
+DONKEY
 You know, Shrek thinks Lord Farquaad's
 compensating for something,
 
 835
 00:57:05,630 --> 00:57:08,130
+DONKEY
 which I think means he
 has a really... Ow!
 
 836
 00:57:08,220 --> 00:57:10,130
+SHREK
 Um, I, uh...
 
 837
 00:57:10,220 --> 00:57:12,640
-- I guess we better move on.
-- Sure.
+SHREK
+I guess we better move on.
+FIONA
+Sure.
 
 838
 00:57:12,720 --> 00:57:14,810
+FIONA
 But, Shrek?
 
 839
 00:57:14,890 --> 00:57:17,680
+FIONA
 I'm... I'm worried about Donkey.
 
 840
 00:57:17,770 --> 00:57:20,140
-- What?
-- I mean, look at him.
+SHREK
+What?
+FIONA
+I mean, look at him.
 
 841
 00:57:20,230 --> 00:57:23,230
-- He doesn't look so good.
-- What are you talking about? I'm fine.
+FIONA
+He doesn't look so good.
+DONKEY
+What are you talking about? I'm fine.
 
 842
 00:57:23,310 --> 00:57:28,320
+FIONA
 That's what they always say, and then
 next thing you know, you're on your back.
 
 843
 00:57:28,400 --> 00:57:30,860
-- Dead.
-- You know, she's right.
+FIONA
+Dead.
+SHREK
+You know, she's right.
 
 844
 00:57:30,950 --> 00:57:33,820
+SHREK
 You look awful. Do you
 want to sit down?
 
 845
 00:57:33,910 --> 00:57:36,620
-- I'll make you some tea.
-- I didn't want to say nothing,
+FIONA
+I'll make you some tea.
+DONKEY
+I didn't want to say nothing,
 
 846
 00:57:36,700 --> 00:57:39,450
+DONKEY
 but I got this twinge in my neck, and
 when I turn my head like this, look.
 
 847
 00:57:39,540 --> 00:57:41,460
+DONKEY
 Ow! See?
 
 848
