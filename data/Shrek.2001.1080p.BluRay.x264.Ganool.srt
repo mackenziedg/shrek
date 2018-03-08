@@ -1,200 +1,242 @@
 ﻿1
 00:00:47,960 --> 00:00:52,840
-<i>Once upon a time there
-was a lovely princess.</i>
+SHREK
+Once upon a time there
+was a lovely princess.
 
 2
 00:00:52,920 --> 00:00:56,680
-<i>But she had an enchantment
-upon her of a fearful sort...</i>
+SHREK
+But she had an enchantment
+upon her of a fearful sort...
 
 3
 00:00:56,760 --> 00:01:01,640
-<i>which could only be broken
-by love's first kiss.</i>
+SHREK
+which could only be broken
+by love's first kiss.
 
 4
 00:01:01,720 --> 00:01:04,060
-<i>She was locked away
-in a castle...</i>
+SHREK
+She was locked away
+in a castle...
 
 5
 00:01:04,140 --> 00:01:08,360
-<i>guarded by a terrible
-fire-breathing dragon.</i>
+SHREK
+guarded by a terrible
+fire-breathing dragon.
 
 6
 00:01:08,440 --> 00:01:12,820
-<i>Many brave knights had attempted to
-free her from this dreadful prison,</i>
+SHREK
+Many brave knights had attempted to
+free her from this dreadful prison,
 
 7
 00:01:12,900 --> 00:01:15,650
-<i>but none prevailed.</i>
+SHREK
+but none prevailed.
 
 8
 00:01:15,740 --> 00:01:17,910
-<i>She waited in the
-dragon's keep...</i>
+SHREK
+She waited in the
+dragon's keep...
 
 9
 00:01:17,990 --> 00:01:20,910
-<i>in the highest room of
-the tallest tower...</i>
+SHREK
+in the highest room of
+the tallest tower...
 
 10
 00:01:20,990 --> 00:01:25,540
-<i>for her true love and
-true love's first kiss.</i>
+SHREK
+for her true love and
+true love's first kiss.
 
 11
 00:01:25,620 --> 00:01:28,580
+SHREK
 Like that's ever gonna happen.
 
 12
 00:01:28,670 --> 00:01:32,420
+SHREK
 What a load of...
 
 13
 00:01:32,500 --> 00:01:37,090
+MUSIC
 Somebody once told me the
 world is gonna roll me
 
 14
 00:01:37,180 --> 00:01:41,140
+MUSIC
 I am not the sharpest
 tool in the shed.
 
 15
 00:01:41,220 --> 00:01:46,140
+MUSIC
 She was looking kind of dumb
 with her finger and her thumb.
 
 16
 00:01:46,230 --> 00:01:49,940
+MUSIC
 In the shape of an
 I on her forehead.
 
 17
 00:01:50,020 --> 00:01:52,940
+MUSIC
 The years start coming and
 they don't stop coming.
 
 18
 00:01:53,030 --> 00:01:55,860
+MUSIC
 Fed to the rules and I
 hit the ground running.
 
 19
 00:01:55,940 --> 00:01:58,200
+MUSIC
 Didn't make sense not
 to live for fun.
 
 20
 00:01:58,280 --> 00:02:00,490
+MUSIC
 Your brain gets smart but
 your head gets dumb.
 
 21
 00:02:00,570 --> 00:02:02,490
+MUSIC
 So much to do So much to see.
 
 22
 00:02:02,580 --> 00:02:05,160
+MUSIC
 So what's wrong with
 taking the backstreets.
 
 23
 00:02:05,250 --> 00:02:07,290
+MUSIC
 You'll never know
 if you don't go.
 
 24
 00:02:07,370 --> 00:02:09,830
+MUSIC
 You'll never shine
 if you don't glow.
 
 25
 00:02:09,920 --> 00:02:11,840
+MUSIC
 Hey, now You're an all-star.
 
 26
 00:02:11,920 --> 00:02:14,300
+MUSIC
 Get your game on, go play.
 
 27
 00:02:14,380 --> 00:02:18,300
+MUSIC
 Hey, now, you're a rock star
 Get the show on, get paid.
 
 28
 00:02:18,380 --> 00:02:22,350
+MUSIC
 And all that glitters is gold.
 
 29
 00:02:22,430 --> 00:02:27,850
+MUSIC
 Only shooting stars
 break the mould.
 
 30
 00:02:27,940 --> 00:02:29,940
+MUSIC
 It's a cool place and
 they say it gets colder.
 
 31
 00:02:30,020 --> 00:02:32,190
+MUSIC
 You're bundled up now but
 wait till you get older.
 
 32
 00:02:32,270 --> 00:02:34,400
+MUSIC
 But the meteor men
 beg to differ.
 
 33
 00:02:34,480 --> 00:02:36,400
+MUSIC
 Judging by the hole in
 the satellite picture.
 
 34
 00:02:36,490 --> 00:02:39,200
+MUSIC
 The ice we skate is
 getting pretty thin.
 
 35
 00:02:39,280 --> 00:02:41,319
+MUSIC
 The water's getting warm
 so you might as well swim.
 
 36
 00:02:41,320 --> 00:02:43,240
+MUSIC
 My world's on fire
 How about yours.
 
 37
 00:02:43,330 --> 00:02:45,990
+MUSIC
 That's the way I like it
 and I'll never get bored.
 
 38
 00:02:46,080 --> 00:02:48,710
-<i> Hey, now, you're an all-star.</i>
+MUSIC
+Hey, now, you're an all-star.
 
 39
 00:02:48,790 --> 00:02:52,380
+MUSIC
 Get your game on, go play.
 
 40
 00:02:52,460 --> 00:02:55,590
+MUSIC
 Hey, now, you're a rock star
 Get the show on, get paid.
 
 41
 00:02:55,670 --> 00:02:59,380
+MUSIC
 And all that glitters is gold.
 
 42
 00:02:59,470 --> 00:03:04,390
+MUSIC
 Only shooting stars
 break the mould.
 
@@ -209,234 +251,293 @@ Go. Go. Go.
 
 45
 00:03:13,520 --> 00:03:16,070
+MUSIC
 Hey, now You're an all-star.
 
 46
 00:03:16,150 --> 00:03:19,240
+MUSIC
 Get your game on, go play.
 
 47
 00:03:19,320 --> 00:03:23,570
+MUSIC
 Hey, now, you're a rock star
 Get the show on, get paid.
 
 48
 00:03:23,660 --> 00:03:27,540
+MUSIC
 And all that glitters is gold.
 
 49
 00:03:27,620 --> 00:03:32,920
+MUSIC
 Only shooting stars
 break the mould.
 
 50
 00:03:37,630 --> 00:03:40,880
-- Think it's in there?
-- AI right. Let's get it!
+MEN
+Think it's in there?
+All right. Let's get it!
 
 51
 00:03:40,970 --> 00:03:43,720
-Whoa. Ho ID on. Do you know
+MEN
+Whoa. Hold on. Do you know
 what that thing can do to you?
 
 52
 00:03:43,800 --> 00:03:46,760
+MEN
 Yeah, it'll grind your
 bones for its bread.
 
 53
 00:03:46,850 --> 00:03:50,810
+SHREK
 Yes, well, actually, that would be a giant.
 
 54
 00:03:50,890 --> 00:03:54,940
+SHREK
 Now, ogres...
 They're much worse.
 
 55
 00:03:55,020 --> 00:03:57,940
+SHREK
 They'll make a suit from
 your freshly peeled skin.
 
 56
 00:03:58,030 --> 00:04:00,110
-- No!
-- They'll shave your liver.
+MEN
+No!
+SHREK
+They'll shave your liver.
 
 57
 00:04:00,190 --> 00:04:03,450
+SHREK
 Squeeze the jelly
 from your eyes!
 
 58
 00:04:03,530 --> 00:04:06,070
-- Actually, it's quite good on toast.
-- Back! Back, beast!
+SHREK
+Actually, it's quite good on toast.
+MEN
+Back! Back, beast!
 
 59
 00:04:06,160 --> 00:04:08,290
+MEN
 Back! I warn ya!
 
 60
 00:04:11,210 --> 00:04:14,580
+SHREK
 Right.
 
 61
 00:04:29,430 --> 00:04:33,980
+SHREK
 This is the part where you run away.
 
 62
 00:04:40,780 --> 00:04:43,820
+SHREK
 And stay out!
 
 63
 00:04:45,700 --> 00:04:48,780
+SHREK
 Wanted. Fairy tale creatures.
 
 64
 00:04:54,210 --> 00:04:56,670
+GUARD
 All right. This one's full.
 
 65
 00:04:57,290 --> 00:04:59,380
+GUARD
 Take it away!
 
 66
 00:04:59,460 --> 00:05:03,340
-- Move it along. Come on! Get up!
-- Next!
+GUARD
+Move it along. Come on! Get up!
+Next!
 
 67
 00:05:03,420 --> 00:05:06,340
+GUARD
 Give me that! Your
 flying days are over.
 
 68
 00:05:06,430 --> 00:05:09,050
+GUARD
 That's 20 pieces of silver
 for the witch. Next!
 
 69
 00:05:09,140 --> 00:05:11,850
-- Get up! Come on!
-- Twenty pieces.
+GUARD
+Get up! Come on!
+Twenty pieces.
 
 70
 00:05:11,930 --> 00:05:14,310
+GUARD
 Sit down there!
 
 71
 00:05:14,390 --> 00:05:16,900
+GUARD
 Keep quiet!
 
 72
 00:05:16,980 --> 00:05:19,860
+LITTLE BEAR
 This cage is too small.
 
 73
 00:05:19,940 --> 00:05:22,060
+DONKEY
 Please don't turn me in. I'll
 never be stubborn again.
 
 74
 00:05:22,110 --> 00:05:24,110
+UNKNOWN
 I can change. Please!
 Give me another chance!
 
 75
 00:05:24,190 --> 00:05:26,570
-- Oh, shut up. Oh!
-- Next!
+OLD WOMAN
+Oh, shut up. Oh!
+Next!
 
 76
 00:05:26,660 --> 00:05:29,530
-- What have you got?
-- This little wooden puppet.
+GUARD
+What have you got?
+GIPETTO
+This little wooden puppet.
 
 77
 00:05:29,620 --> 00:05:34,540
+PINOCCHIO
 I'm not a puppet.
 I'm a real boy.
 
 78
 00:05:34,620 --> 00:05:37,000
+GUARD
 Five shillings for
 the possessed toy.
 
 79
 00:05:37,080 --> 00:05:39,170
-- Take it away.
-- Father, please! Don't let them do this!
+GUARD
+Take it away.
+PINOCCHIO
+Father, please! Don't let them do this!
 
 80
 00:05:39,250 --> 00:05:41,170
-- Help me!
-- Next. What have you got?
+PINOCCHIO
+Help me!
+GUARD
+Next. What have you got?
 
 81
 00:05:41,250 --> 00:05:43,880
+OLD WOMAN
 Well, I've got a talking donkey.
 
 82
 00:05:43,960 --> 00:05:48,510
+GUARD
 Right. Well, that's good for ten
 shillings, if you can prove it.
 
 83
 00:05:48,590 --> 00:05:52,510
+OLD WOMAN
 Oh, go ahead, little fella.
 
 84
 00:05:52,600 --> 00:05:54,520
+GUARD
 Well?
 
 85
 00:05:54,600 --> 00:05:57,310
+OLD WOMAN
 Oh, oh, he's just... He's
 just a little nervous.
 
 86
 00:05:57,390 --> 00:06:01,360
+OLD WOMAN
 He's really quite a chatterbox.
 Talk, you bone headed dolt...
 
 87
 00:06:01,440 --> 00:06:04,030
-- That's it. I've heard enough. Guards!
-- No, no, he talks!
+GUARD
+That's it. I've heard enough. Guards!
+OLD WOMAN
+No, no, he talks!
 
 88
 00:06:04,110 --> 00:06:08,240
+OLD WOMAN
 He does. I can talk.
 I love to talk.
 
 89
 00:06:08,320 --> 00:06:11,240
+OLD WOMAN
 I'm the talkingest damn
 thing you ever saw.
 
 90
 00:06:11,330 --> 00:06:13,870
-- Get her out of my sight.
-- No, no!
+GUARD
+Get her out of my sight.
+OLD WOMAN
+No, no!
 
 91
 00:06:13,950 --> 00:06:18,370
+OLD WOMAN
 I swear! Oh! He can talk!
 
 92
 00:06:20,710 --> 00:06:23,090
+DONKEY
 Hey! I can fly!
 
 93
 00:06:23,170 --> 00:06:24,800
-- He can fly!
-- He can fly!
+PETER PAN
+He can fly!
+3 LITTLE PIGS
+He can fly!
 
 94
 00:06:24,880 --> 00:06:27,930
-- He can talk!
-- Ha, ha! That's right, fool!
+GUARD
+He can talk!
+DONKEY
+Ha, ha! That's right, fool!
 
 95
 00:06:28,010 --> 00:06:30,260
@@ -445,1389 +546,1727 @@ talking donkey.
 
 96
 00:06:30,340 --> 00:06:32,970
+DONKEY
 You might have seen a house
 fly, maybe even a super fly,
 
 97
 00:06:33,060 --> 00:06:36,100
+DONKEY
 but I bet you are not
 never seen a donkey fly.
 
 98
 00:06:36,180 --> 00:06:38,100
+DONKEY
 Ha, ha!
 
 99
 00:06:38,190 --> 00:06:40,100
+DONKEY
 Uh-oh.
 
 100
 00:06:42,480 --> 00:06:44,440
+GUARD
 Seize him!
 
 101
 00:06:46,400 --> 00:06:49,240
+GUARD
 After him! He's getting away!
 
 102
 00:06:57,080 --> 00:07:00,290
+GUARD
 Get him! This way! Turn!
 
 103
 00:07:05,500 --> 00:07:07,800
+GUARD
 You there. Ogre!
 
 104
 00:07:07,880 --> 00:07:10,180
+SHREK
 Aye?
 
 105
 00:07:10,260 --> 00:07:12,293
+GUARD
 By the order of
 Lord Farquaad, I am
 
 106
 00:07:12,306 --> 00:07:14,350
+GUARD
 authorised to place you
 both under arrest...
 
 107
 00:07:14,430 --> 00:07:20,020
+GUARD
 and transport you to a designated...
 resettlement facility.
 
 108
 00:07:20,100 --> 00:07:24,150
+SHREK
 Oh, really? You and what army?
 
 109
 00:07:34,910 --> 00:07:36,910
+DONKEY
 Can I say something to you?
 
 110
 00:07:36,990 --> 00:07:40,330
+DONKEY
 Listen, you was really, really
 something back there. Incredible!
 
 111
 00:07:40,410 --> 00:07:46,170
+SHREK
 Are you talking to...
 me? Whoa!
 
 112
 00:07:46,250 --> 00:07:48,223
+DONKEY
 Yes, I was talking to you.
 Can I tell you
 
 113
 00:07:48,236 --> 00:07:50,220
+DONKEY
 that you was great back there?
 Those guards!
 
 114
 00:07:50,300 --> 00:07:53,010
+DONKEY
 They thought they was all of that.
 Then you showed up, and bam!
 
 115
 00:07:53,090 --> 00:07:55,050
+DONKEY
 They was tripping over themselves
 like babes in the woods.
 
 116
 00:07:55,140 --> 00:07:57,060
+DONKEY
 That really made me
 feel good to see that.
 
 117
 00:07:57,140 --> 00:08:00,180
-- Oh, that's great. Really.
-- Man, it's good to be free.
+SHREK
+Oh, that's great. Really.
+DONKEY
+Man, it's good to be free.
 
 118
 00:08:00,270 --> 00:08:05,810
+DONKEY
 Now, why don't you go celebrate your
 freedom with your own friends? Hmm?
 
 119
 00:08:05,900 --> 00:08:09,190
+DONKEY
 But, uh, I don't
 have any friends.
 
 120
 00:08:09,280 --> 00:08:11,950
+DONKEY
 And I'm not going out
 there by myself.
 
 121
 00:08:12,030 --> 00:08:14,570
+DONKEY
 Hey, wait a minute! I got a great idea!
 I'll stick with you.
 
 122
 00:08:14,660 --> 00:08:16,580
+DONKEY
 You're a mean, green,
 fighting machine.
 
 123
 00:08:16,660 --> 00:08:19,060
+DONKEY
 Together we'll scare the spit
 out of anybody that crosses us.
 
 124
 00:08:23,250 --> 00:08:25,920
+DONKEY
 Oh, wow! That was
 really scary.
 
 125
 00:08:26,000 --> 00:08:27,843
+DONKEY
 If you don't mind me saying,
 if that don't work,
 
 126
 00:08:27,856 --> 00:08:29,710
+DONKEY
 your breath certainly
 will get the job done,
 
 127
 00:08:29,800 --> 00:08:33,009
+DONKEY
 'cause you definitely need some Tic Tacs
 or something, 'cause your breath stinks!
 
 128
 00:08:33,010 --> 00:08:36,220
+DONKEY
 You almost burned the
 hair outta my nose,
 
 129
 00:08:36,300 --> 00:08:39,140
+DONKEY
 just like the time...
 
 130
 00:08:39,220 --> 00:08:42,940
+DONKEY
 Then I ate some rotten berries. I had
 strong gases eking out of my butt that day.
 
 131
 00:08:43,020 --> 00:08:45,730
+SHREK
 Why are you following me?
 
 132
 00:08:46,860 --> 00:08:49,400
+DONKEY
 I'll tell you why.
 
 133
 00:08:49,480 --> 00:08:52,400
+DONKEY
 'Cause I'm all alone.
 
 134
 00:08:52,490 --> 00:08:56,240
+DONKEY
 There's no one here beside me.
 
 135
 00:08:56,320 --> 00:08:59,990
+DONKEY
 My problems have all gone.
 
 136
 00:09:00,080 --> 00:09:03,410
+DONKEY
 There's no one to deride me.
 
 137
 00:09:03,500 --> 00:09:05,460
+DONKEY
 But you gotta have friends...
 
 138
 00:09:05,540 --> 00:09:08,590
+SHREK
 Stop singing!
 
 139
 00:09:08,670 --> 00:09:10,710
+SHREK
 It's no wonder you don't
 have any friends.
 
 140
 00:09:10,800 --> 00:09:14,420
+DONKEY
 Wow. Only a true friend
 would be that truly honest.
 
 141
 00:09:14,510 --> 00:09:18,600
+SHREK
 Listen, little donkey. Take a look at me.
 What am I?
 
 142
 00:09:19,640 --> 00:09:21,600
+DONKEY
 Uh...
 
 143
 00:09:23,480 --> 00:09:26,730
-- Really tall?
-- No! I'm an ogre.
+DONKEY
+Really tall?
+SHREK
+No! I'm an ogre.
 
 144
 00:09:26,810 --> 00:09:30,020
+SHREK
 You know. Grab your
 torch and pitchforks.
 
 145
 00:09:30,110 --> 00:09:32,110
+SHREK
 Doesn't that bother you?
 
 146
 00:09:32,190 --> 00:09:34,320
+DONKEY
 Nope.
 
 147
 00:09:34,400 --> 00:09:37,280
-- Really?
-- Really, really.
+SHREK
+Really?
+DONKEY
+Really, really.
 
 148
 00:09:37,360 --> 00:09:40,490
-- Oh.
-- Man, I like you. What's your name?
+SHREK
+Oh.
+DONKEY
+Man, I like you. What's your name?
 
 149
 00:09:40,580 --> 00:09:44,250
+SHREK
 Uh, Shrek.
 
 150
 00:09:44,330 --> 00:09:47,580
+DONKEY
 Shrek? Well, you know what
 I like about you, Shrek?
 
 151
 00:09:47,670 --> 00:09:49,678
+DONKEY
 You got that kind of.
 
 152
 00:09:49,691 --> 00:09:51,710
+DONKEY
 I-don't-care-what-nobody... thinks-of-me
 thing.
 
 153
 00:09:51,800 --> 00:09:55,590
+DONKEY
 I like that. I respect that, Shrek.
 You all right.
 
 154
 00:09:55,670 --> 00:09:59,680
+DONKEY
 Wooh! Look at that. Who'd want
 to live in a place like that?
 
 155
 00:09:59,760 --> 00:10:02,970
+SHREK
 That would be my home.
 
 156
 00:10:03,060 --> 00:10:05,930
+DONKEY
 Oh! And it is lovely!
 Just beautiful.
 
 157
 00:10:06,020 --> 00:10:09,810
+DONKEY
 You are quite a decorator. It's amazing
 what you've done with such a modest budget.
 
 158
 00:10:09,900 --> 00:10:14,650
+DONKEY
 I like that Boulder.
 That is a nice Boulder.
 
 159
 00:10:18,410 --> 00:10:21,120
+DONKEY
 I guess you don't
 entertain much, do you?
 
 160
 00:10:21,200 --> 00:10:22,990
+SHREK
 I like my privacy.
 
 161
 00:10:23,080 --> 00:10:25,660
+DONKEY
 You know, I do too. That's
 another thing we have in common.
 
 162
 00:10:25,750 --> 00:10:28,000
+DONKEY
 Like, I hate it when you
 got somebody in your face.
 
 163
 00:10:28,080 --> 00:10:30,028
+DONKEY
 You're trying to give them a
 hint, and they won't leave.
 
 164
 00:10:30,041 --> 00:10:32,000
+DONKEY
 There's that awkward silence.
 
 165
 00:10:35,130 --> 00:10:37,840
-- Can I stay with you?
-- Uh, what?
+DONKEY
+Can I stay with you?
+SHREK
+Uh, what?
 
 166
 00:10:37,930 --> 00:10:40,510
+DONKEY
 Can I stay with you, please?
 
 167
 00:10:40,590 --> 00:10:42,890
-- Of course!
-- Really?
+SHREK
+Of course!
+DONKEY
+Really?
 
 168
 00:10:42,970 --> 00:10:45,350
-- No.
-- Please! I don't wanna go back there!
+SHREK
+No.
+DONKEY
+Please! I don't wanna go back there!
 
 169
 00:10:45,430 --> 00:10:49,350
+DONKEY
 You don't know what it's like to be
 considered a freak. Well, maybe you do.
 
 170
 00:10:49,440 --> 00:10:52,020
+DONKEY
 But that's why we gotta stick together.
 You gotta let me stay!
 
 171
 00:10:52,110 --> 00:10:55,230
-- Please! Please!
-- Okay! Okay!
+DONKEY
+Please! Please!
+SHREK
+Okay! Okay!
 
 172
 00:10:55,320 --> 00:10:57,900
-- But one night only.
-- Ah! Thank you!
+DONKEY
+But one night only.
+SHREK
+Ah! Thank you!
 
 173
 00:10:57,990 --> 00:11:00,320
-- What are you... No! No!
-- This is gonna be fun!
+SHREK
+What are you... No! No!
+DONKEY
+This is gonna be fun!
 
 174
 00:11:00,410 --> 00:11:02,320
+DONKEY
 We can stay up late,
 swapping manly stories,
 
 175
 00:11:02,410 --> 00:11:05,200
+DONKEY
 and in the morning
 I'm making waffles.
 
 176
 00:11:05,290 --> 00:11:08,540
-- Oh!
-- Where do, uh, I sleep?
+SHREK
+Oh!
+DONKEY
+Where do, uh, I sleep?
 
 177
 00:11:08,620 --> 00:11:10,370
+SHREK
 Outside!
 
 178
 00:11:10,460 --> 00:11:13,540
+DONKEY
 Oh, well, I guess that's cool.
 
 179
 00:11:13,630 --> 00:11:15,710
+DONKEY
 I mean, I don't know you,
 and you don't know me,
 
 180
 00:11:15,800 --> 00:11:18,170
+DONKEY
 so I guess outside
 is best, you know.
 
 181
 00:11:18,260 --> 00:11:21,260
+DONKEY
 Here I go.
 
 182
 00:11:23,430 --> 00:11:27,520
+DONKEY
 Good night.
 
 183
 00:11:27,600 --> 00:11:29,588
+DONKEY
 I mean, I do like the outdoors.
 I'm a donkey.
 
 184
 00:11:29,601 --> 00:11:31,600
+DONKEY
 I was born outside.
 
 185
 00:11:31,690 --> 00:11:34,360
+DONKEY
 I'll just be sitting by myself
 outside, I guess, you know.
 
 186
 00:11:34,440 --> 00:11:36,730
+DONKEY
 By myself, outside.
 
 187
 00:11:36,820 --> 00:11:41,610
+DONKEY
 I'm all alone There's
 no one here beside me.
 
 188
 00:12:45,890 --> 00:12:48,510
+SHREK
 I thought I told you to stay outside.
 
 189
 00:12:48,600 --> 00:12:52,270
+DONKEY
 I am outside.
 
 190
 00:12:57,770 --> 00:13:01,570
+BLIND MOUSE
 Well, gents, it's a far cry from the
 farm, but what choice do we have?
 
 191
 00:13:01,650 --> 00:13:04,150
+BLIND MOUSE
 It's not home, but
 it'll do just fine.
 
 192
 00:13:04,240 --> 00:13:06,160
+BLIND MOUSE
 What a lovely bed.
 
 193
 00:13:06,240 --> 00:13:08,580
-- Got ya.
-- I found some cheese.
+SHREK
+Got ya.
+BLIND MOUSE
+I found some cheese.
 
 194
 00:13:08,660 --> 00:13:11,160
-- Ow!
-- Blah! Awful stuff.
+SHREK
+Ow!
+BLIND MOUSE
+Blah! Awful stuff.
 
 195
 00:13:12,910 --> 00:13:15,500
-- Is that you, Gorder?
-- How did you know?
+BLIND MOUSE
+Is that you, Gorder?
+BLIND MOUSE
+How did you know?
 
 196
 00:13:15,580 --> 00:13:18,500
+SHREK
 Enough! What are you
 doing in my house?
 
 197
 00:13:18,590 --> 00:13:20,500
+SHREK
 Hey!
 
 198
 00:13:20,590 --> 00:13:23,220
+SHREK
 Oh, no, no, no.
 
 199
 00:13:23,300 --> 00:13:25,083
+SHREK
 Dead broad off the table.
 
 200
 00:13:25,096 --> 00:13:26,890
+DWARF
 Where are we supposed to put her?
 The bed's taken.
 
 201
 00:13:26,970 --> 00:13:30,140
+SHREK
 Huh?
 
 202
 00:13:30,220 --> 00:13:32,850
+BIG BAD WOLF
 What?
 
 203
 00:13:32,930 --> 00:13:37,690
+SHREK
 I live in a swamp. I put up signs.
 I'm a terrifying ogre!
 
 204
 00:13:37,770 --> 00:13:40,400
+SHREK
 What do I have to do to
 get a little privacy?
 
 205
 00:13:40,480 --> 00:13:42,900
-- Aah!
-- Oh, no.
+UNKNOWN
+Aah!
+SHREK
+Oh, no.
 
 206
 00:13:42,990 --> 00:13:45,700
+SHREK
 Oh, no.
 
 207
 00:13:45,780 --> 00:13:49,370
+SHREK
 No! No!
 
 208
 00:13:49,450 --> 00:13:52,370
+UNKNOWN
 What?
 
 209
 00:13:52,450 --> 00:13:54,370
-- Quit it.
-- Don't push.
+UNKNOWN
+Quit it.
+UNKNOWN
+Don't push.
 
 210
 00:13:58,790 --> 00:14:01,710
+SHREK
 What are you doing
 in my swamp?
 
 211
 00:14:01,800 --> 00:14:04,210
+SHREK
 Swamp! Swamp! Swamp!
 
 212
 00:14:04,300 --> 00:14:07,510
+UNKNOWN
 Oh, dear!
 
 213
 00:14:07,590 --> 00:14:09,220
+UNKNOWN
 Whoa!
 
 214
 00:14:09,300 --> 00:14:12,680
+SHREK
 All right, get out of here.
 All of you, move it!
 
 215
 00:14:12,760 --> 00:14:15,180
+SHREK
 Come on! Let's go! Hapaya!
 Hapaya! Hey!
 
 216
 00:14:15,270 --> 00:14:17,230
-- Quickly. Come on!
-- No, no!
+SHREK
+Quickly. Come on!
+UNKNOWN
+No, no!
 
 217
 00:14:17,310 --> 00:14:19,520
+UNKNOWN
 No, no. Not there. Not there.
 
 218
 00:14:19,610 --> 00:14:23,110
+UNKNOWN
 Oh!
 
 219
 00:14:23,190 --> 00:14:26,070
+DONKEY
 Hey, don't look at me.
 I didn't invite them.
 
 220
 00:14:26,150 --> 00:14:28,240
+PINOCCHIO
 Oh, gosh, no one invited us.
 
 221
 00:14:28,320 --> 00:14:30,910
-- What?
-- We were forced to come here.
+SHREK
+What?
+PINOCCHIO
+We were forced to come here.
 
 222
 00:14:30,990 --> 00:14:33,120
-- By who?
-- Lord Farquaad.
+SHREK
+By who?
+LITTLE PIG
+Lord Farquaad.
 
 223
 00:14:33,200 --> 00:14:37,960
+LITTLE PIG
 He huffed und he puffed und he...
 signed an eviction notice.
 
 224
 00:14:38,040 --> 00:14:40,750
+SHREK
 All right.
 
 225
 00:14:40,830 --> 00:14:45,090
+SHREK
 Who knows where this
 Farquaad guy is?
 
 226
 00:14:45,170 --> 00:14:47,970
+DONKEY
 Oh, I do. I know where he is.
 
 227
 00:14:48,050 --> 00:14:51,760
+SHREK
 Does anyone else know
 where to find him?
 
 228
 00:14:53,220 --> 00:14:55,470
-- Any one at all?
-- Me! Me!
+SHREK
+Any one at all?
+DONKEY
+Me! Me!
 
 229
 00:14:55,560 --> 00:14:57,480
-- Anyone?
-- Oh! Oh, pick me!
+SHREK
+Anyone?
+DONKEY
+Oh! Oh, pick me!
 
 230
 00:14:57,560 --> 00:14:59,980
+DONKEY
 Oh, I know! I know! Me, me!
 
 231
 00:15:00,060 --> 00:15:03,190
+SHREK
 Okay, fine.
 
 232
 00:15:03,270 --> 00:15:07,820
+SHREK
 Attention, all
 fairy tale things.
 
 233
 00:15:07,900 --> 00:15:12,620
+SHREK
 Do not get comfortable. Your
 welcome is officially worn out.
 
 234
 00:15:12,700 --> 00:15:16,410
+SHREK
 In fact, I'm gonna see this
 guy Farquaad right now...
 
 235
 00:15:16,500 --> 00:15:19,620
+SHREk
 and get you all off my land
 and back where you came from!
 
 236
 00:15:27,170 --> 00:15:30,130
+SHREK
 Oh! You!
 
 237
 00:15:30,220 --> 00:15:32,140
+SHREK
 You're coming with me.
 
 238
 00:15:32,220 --> 00:15:34,560
+DONKEY
 All right, that's what
 I like to hear, man.
 
 239
 00:15:34,640 --> 00:15:38,430
+DONKEY  
 Shrek and Donkey, two stalwart friends,
 off on a whirlwind big-city adventure.
 
 240
 00:15:38,520 --> 00:15:40,520
+DONKEY
 I love it!
 
 241
 00:15:40,600 --> 00:15:43,770
-<i>- On the road again Sing it with me, Shrek.
-- Hey. Oh, oh!</i>
+DONKEY
+On the road again Sing it with me, Shrek.
+Hey. Oh, oh!
 
 242
 00:15:43,860 --> 00:15:45,820
+DONKEY
 I can't wait to get
 on the road again.
 
 243
 00:15:45,900 --> 00:15:47,820
+SHREK
 What did I say about singing?
 
 244
 00:15:47,900 --> 00:15:49,820
-- Can I whistle?
-- No.
+DONKEY
+Can I whistle?
+SHREK
+No.
 
 245
 00:15:49,900 --> 00:15:52,700
-- Can I hum it?
-- All right, hum it.
+DONKEY
+Can I hum it?
+SHREK
+All right, hum it.
 
 246
 00:16:22,480 --> 00:16:25,520
+FARQUAAD
 That's enough. He's
 ready to talk.
 
 247
 00:16:38,450 --> 00:16:40,910
+FARQUAAD
 Run, run, run, as
 fast as you can.
 
 248
 00:16:41,000 --> 00:16:44,540
+FARQUAAD
 You can't catch me. I'm
 the gingerbread man!
 
 249
 00:16:44,630 --> 00:16:48,210
-- You're a monster.
-- I'm not the monster here. You are.
+GINGERBREAD MAN
+You're a monster.
+FARQUAAD
+I'm not the monster here. You are.
 
 250
 00:16:48,300 --> 00:16:52,550
+FARQUAAD
 You and the rest of that fairy tale
 trash, poisoning my perfect world.
 
 251
 00:16:52,630 --> 00:16:54,550
+FARQUAAD
 Now, tell me! Where
 are the others?
 
 252
 00:16:54,640 --> 00:16:57,180
+GINGERBREAD MAN
 Eat me!
 
 253
 00:16:57,260 --> 00:17:00,180
+FARQUAAD
 I've tried to be fair
 to you creatures.
 
 254
 00:17:00,270 --> 00:17:03,770
+FARQUAAD
 Now my patience has reached its end!
 Tell me or I'll...
 
 255
 00:17:03,850 --> 00:17:06,650
+GINGERBREAD MAN
 No, no, not the buttons.
 Not my gumdrop buttons.
 
 256
 00:17:06,730 --> 00:17:08,730
+FARQUAAD
 All right then.
 Who's hiding them?
 
 257
 00:17:08,820 --> 00:17:14,150
+GINGERBREAD MAN
 Okay, I'll tell you. Do
 you know the muffin man?
 
 258
 00:17:14,240 --> 00:17:16,570
-- The muffin man?
-- The muffin man.
+FARQUAAD
+The muffin man?
+GINGERBREAD MAN
+The muffin man.
 
 259
 00:17:16,660 --> 00:17:20,080
+FARQUAAD
 Yes, I know the muffin man,
 who lives on Drury Lane?
 
 260
 00:17:20,160 --> 00:17:23,580
+GINGERBREAD MAN
 Well, she's married
 to the muffin man.
 
 261
 00:17:23,660 --> 00:17:25,790
-- The muffin man?
-- The muffin man!
+FARQUAAD
+The muffin man?
+GINGERBREAD MAN
+The muffin man!
 
 262
 00:17:25,870 --> 00:17:28,880
+GINGERBREAD MAN
 She's married to the muffin man.
 
 263
 00:17:28,960 --> 00:17:30,630
+GUARD
 My Lord! We found it.
 
 264
 00:17:30,710 --> 00:17:33,920
+FARQUAAD
 Then what are you waiting for?
 Bring it in.
 
 265
 00:17:45,310 --> 00:17:47,810
+GINGERBREAD MAN
 Oh!
 
 266
 00:17:47,900 --> 00:17:52,230
-- Magic mirror...
-- Don't tell him anything!
+FARQUAAD
+Magic mirror...
+GINGERBREAD MAN
+Don't tell him anything!
 
 267
 00:17:52,320 --> 00:17:54,650
+GINGERBREAD MAN
 No!
 
 268
 00:17:54,740 --> 00:17:58,490
+FARQUAAD
 Evening.
 
 269
 00:17:58,570 --> 00:18:00,450
+FARQUAAD
 Mirror, mirror, on the wall.
 
 270
 00:18:00,530 --> 00:18:03,910
+FARQUAAD
 Is this not the most perfect
 kingdom of them all?
 
 271
 00:18:04,000 --> 00:18:06,580
+FARQUAAD
 Well, technically
 you're not a king.
 
 272
 00:18:06,670 --> 00:18:10,090
+FARQUAAD
 Uh, Thelonius.
 
 273
 00:18:10,170 --> 00:18:13,800
-- You were saying?
-- What I mean is, you're not a king yet.
+FARQUAAD
+You were saying?
+MIRROR
+What I mean is, you're not a king yet.
 
 274
 00:18:13,880 --> 00:18:17,470
+MIRROR
 But you can become one. All you
 have to do is marry a princess.
 
 275
 00:18:17,550 --> 00:18:20,550
+FARQUAAD
 Go on.
 
 276
 00:18:20,640 --> 00:18:24,270
+MIRROR
 So, just sit back
 and relax, my Lord,
 
 277
 00:18:24,350 --> 00:18:28,650
+MIRROR
 because it's time for you to meet
 today's eligible bachelorettes.
 
 278
 00:18:28,730 --> 00:18:32,320
+MIRROR
 And here they are!
 
 279
 00:18:32,400 --> 00:18:37,360
+MIRROR
 Bachelorette number one is a mentally
 abused shut-in from a kingdom far, faraway.
 
 280
 00:18:37,450 --> 00:18:39,700
+MIRROR
 She likes Sushi and
 hot tubbing anytime.
 
 281
 00:18:39,780 --> 00:18:43,240
+MIRROR
 Her hobbies include cooking and
 cleaning for her two evil sisters.
 
 282
 00:18:43,330 --> 00:18:45,700
+MIRROR
 Please welcome Cinderella.
 
 283
 00:18:45,790 --> 00:18:49,830
+MIRROR
 Bachelorette number two is a cape-wearing
 girl from the land of fancy.
 
 284
 00:18:49,920 --> 00:18:52,630
+MIRROR
 Although she lives with seven
 other men, she's not easy.
 
 285
 00:18:52,710 --> 00:18:56,170
+MIRROR
 Just kiss her dead, frozen lips and
 find out what a live wire she is.
 
 286
 00:18:56,260 --> 00:19:00,010
+MIRROR
 Come on. Give it
 up for Snow White!
 
 287
 00:19:00,090 --> 00:19:02,720
+MIRROR
 And last, but
 certainly not least,
 
 288
 00:19:02,800 --> 00:19:04,890
+MIRROR
 bachelorette number three
 is a fiery redhead...
 
 289
 00:19:04,970 --> 00:19:07,520
+MIRROR
 from a dragon-guarded castle
 surrounded by hot boiling lava!
 
 290
 00:19:07,600 --> 00:19:09,650
+MIRROR
 But don't let that cool you off.
 
 291
 00:19:09,730 --> 00:19:12,900
+MIRROR
 She's a loaded pistol who likes pina
 coladas and getting caught in the rain.
 
 292
 00:19:12,980 --> 00:19:17,030
+MIRROR
 Yours for the rescuing,
 Princess Fiona!
 
 293
 00:19:17,110 --> 00:19:19,570
+MIRROR
 So will it be
 bachelorette number one,
 
 294
 00:19:19,660 --> 00:19:23,160
+MIRROR
 bachelorette number two or
 bachelorette number three?
 
 295
 00:19:23,240 --> 00:19:25,410
-- Two! Two!
-- Three! Three!
+GUARDS
+Two! Two!
+Three! Three!
 
 296
 00:19:25,490 --> 00:19:26,830
-- Two! Two!
-- Three!
+GUARDS
+Two! Two!
+Three!
 
 297
 00:19:26,910 --> 00:19:29,040
+FARQUAAD
 Three? One? Three?
 
 298
 00:19:29,120 --> 00:19:31,170
+THEOLONIUS
 Three! Pick number
 three, my Lord!
 
 299
 00:19:31,250 --> 00:19:35,000
+FARQUAAD
 Okay, okay, uh, number three!
 
 300
 00:19:35,090 --> 00:19:39,840
+MIRROR
 Lord Farquaad, you've
 chosen Princess Fiona.
 
 301
 00:19:39,930 --> 00:19:43,720
+UNKNOWN
 If you love pina coladas.
 
 302
 00:19:43,800 --> 00:19:47,140
-<i>- And getting caught in the rain.
-- Princess Fiona.</i>
+UNKNOWN
+And getting caught in the rain.
+Princess Fiona.
 
 303
 00:19:47,220 --> 00:19:49,390
-<i>- If you're not into yoga.
-- She's perfect.</i>
+UNKNOWN
+If you're not into yoga.
+FARQUAAD
+She's perfect.</i>
 
 304
 00:19:49,480 --> 00:19:52,230
+FARQUAAD
 All I have to do is just
 find someone who can go...
 
 305
 00:19:52,310 --> 00:19:54,570
+MIRROR
 But I probably should mention the
 little thing that happens at night.
 
 306
 00:19:54,650 --> 00:19:56,570
-- I'll do it.
-- Yes, but after sunset...
+FARQUAAD
+I'll do it.
+MIRROR
+Yes, but after sunset...
 
 307
 00:19:56,650 --> 00:20:00,740
+FARQUAAD
 Silence! I will make this
 Princess Fiona my queen,
 
 308
 00:20:00,820 --> 00:20:04,990
+FARQUAAD
 and DuLoc will finally
 have the perfect king!
 
 309
 00:20:05,080 --> 00:20:07,290
+FARQUAAD
 Captain, assemble
 your finest men.
 
 310
 00:20:07,370 --> 00:20:11,250
+FARQUAAD
 We're going to
 have a tournament.
 
 311
 00:20:12,920 --> 00:20:15,920
+DONKEY
 But that's it. That's it right there.
 That's DuLoc.
 
 312
 00:20:16,000 --> 00:20:18,050
+DONKEY
 I told ya I'd find it.
 
 313
 00:20:18,130 --> 00:20:22,260
+SHREK
 So, that must be Lord
 Farquaad's castle.
 
 314
 00:20:22,340 --> 00:20:24,430
+DONKEY
 Uh-huh. That's the place.
 
 315
 00:20:24,510 --> 00:20:27,930
+SHREK
 Do you think maybe he's
 compensating for something?
 
 316
 00:20:32,190 --> 00:20:34,150
+DONKEY
 Hey, wait. Wait up, Shrek.
 
 317
 00:20:34,230 --> 00:20:37,110
+MAN
 Hurry, darling. We're late.
 Hurry.
 
 318
 00:20:38,690 --> 00:20:42,240
+SHREK
 Hey, you!
 
 319
 00:20:42,320 --> 00:20:45,160
+SHREK
 Wait a second. Look,
 I'm not gonna eat ya.
 
 320
 00:20:45,240 --> 00:20:49,160
+SHREK
 I just... I just...
 
 321
 00:21:19,690 --> 00:21:21,280
+SHREK
 It's quiet.
 
 322
 00:21:23,700 --> 00:21:25,990
+SHREK
 Too quiet.
 
 323
 00:21:28,580 --> 00:21:32,700
-- Where is everybody?
-- Hey, look at this!
+SHREK
+Where is everybody?
+DONKEY
+Hey, look at this!
 
 324
 00:21:46,090 --> 00:21:49,510
+WOODEN PEOPLE
 Welcome to DuLoc
 such a perfect town.
 
 325
 00:21:49,600 --> 00:21:53,020
+WOODEN PEOPLE
 Here we have some rules
 Let us lay them down.
 
 326
 00:21:53,100 --> 00:21:56,980
+WOODEN PEOPLE
 Don't make waves, stay in line
 and we'll get along fine.
 
 327
 00:21:57,060 --> 00:22:00,690
+WOODEN PEOPLE
 DuLoc is a perfect place.
 
 328
 00:22:00,770 --> 00:22:05,320
+WOODEN PEOPLE
 Please keep off of the grass Shine
 your shoes, wipe your... face.
 
 329
 00:22:05,400 --> 00:22:08,990
+WOODEN PEOPLE
 DuLoc is, DuLoc is.
 
 330
 00:22:09,070 --> 00:22:12,540
+WOODEN PEOPLE
 DuLoc is a perfect.
 
 331
 00:22:12,620 --> 00:22:16,040
+WOODEN PEOPLE
 ...Place.
 
 332
 00:22:19,790 --> 00:22:24,010
+DONKEY
 Wow! Let's do that again!
 
 333
 00:22:24,090 --> 00:22:26,760
+SHREK
 No. No. No, no, no! No.
 
 334
 00:22:29,180 --> 00:22:31,560
+FARQUAAD
 Brave knights.
 
 335
 00:22:31,640 --> 00:22:33,693
-<i>You are the best and
-brightest in all the land.</i>
+FARQUAAD
+You are the best and
+brightest in all the land.
 
 336
 00:22:35,850 --> 00:22:38,270
+FARQUAAD
 Today one of you shall
 prove himself...
 
 337
 00:22:38,350 --> 00:22:40,690
+SHREK
 All right. You're going the
 right way for a smacked bottom.
 
 338
 00:22:40,770 --> 00:22:42,690
+DONKEY
 Sorry about that.
 
 339
 00:22:42,770 --> 00:22:48,280
+FARQUAAD
 That champion shall have the honour...
 no, no... the privilege...
 
 340
 00:22:48,360 --> 00:22:52,410
+FARQUAAD
 to go forth and rescue the
 lovely Princess Fiona...
 
 341
 00:22:52,490 --> 00:22:55,830
+FARQUAAD
 from the fiery keep
 oft he dragon.
 
 342
 00:22:55,910 --> 00:23:00,130
+FARQUAAD
 If for any reason the
 winner is unsuccessful,
 
 343
 00:23:00,210 --> 00:23:03,380
+FARQUAAD
 the first runner-up
 will take his place...
 
 344
 00:23:03,460 --> 00:23:06,260
+FARQUAAD
 and so on and so forth.
 
 345
 00:23:06,340 --> 00:23:11,760
+FARQUAAD
 Some of you may die, but it's a
 sacrifice I am willing to make.
 
 346
 00:23:16,890 --> 00:23:19,310
+FARQUAAD
 Let the tournament begin!
 
 347
 00:23:23,020 --> 00:23:24,940
+FARQUAAD
 Oh!
 
 348
 00:23:25,030 --> 00:23:28,280
+FARQUAAD
 What is that?
 
 349
 00:23:28,360 --> 00:23:32,950
-- It's hideous!
-- Ah, that's not very nice.
+FARQUAAD 
+It's hideous!
+SHREK
+Ah, that's not very nice.
 
 350
 00:23:33,030 --> 00:23:35,450
-- It's just a donkey.
-- Huh?
+SHREK
+It's just a donkey.
+DONKEY
+Huh?
 
 351
 00:23:35,540 --> 00:23:38,500
+FARQUAAD
 Indeed. Knights, new plan!
 
 352
 00:23:38,580 --> 00:23:43,290
+FARQUAAD
 The one who kills the ogre will
 be named champion! Have at him!
 
 353
 00:23:43,380 --> 00:23:47,300
-- Get him!
-- Oh, hey! Now come on! Hang on now.
+MEN
+Get him!
+SHREK
+Oh, hey! Now come on! Hang on now.
 
 354
 00:23:47,380 --> 00:23:49,680
+CROWD
 Go ahead! Get him!
 
 355
 00:23:49,760 --> 00:23:53,430
+SHREK
 Can't we just settle
 this over a pint?
 
 356
 00:23:53,510 --> 00:23:54,760
+CROWD
 Kill the beast!
 
 357
 00:23:54,850 --> 00:23:59,310
+SHREK
 No? All right then.
 
 358
 00:23:59,390 --> 00:24:01,480
+SHREK
 Come on!
 
 359
 00:24:09,280 --> 00:24:13,700
+MUSIC
 I don't give a damn
 about my reputation.
 
 360
 00:24:13,780 --> 00:24:17,790
+MUSIC
 <i>- You're living in the past
 It's a new generation. - Damn!</i>
 
 361
 00:24:17,870 --> 00:24:20,660
+MUSIC
 <i>A girl can do what she wants to do.</i>
 
 362
 00:24:20,750 --> 00:24:23,000
+MUSIC
 And that's what I'm gonna do.
 
 363
 00:24:23,080 --> 00:24:27,000
+MUSIC
 And I don't give a damn
 about my bad reputation.
 
 364
 00:24:27,090 --> 00:24:30,840
+MUSIC
 Oh, no, no, no, no, no Not me.
 
 365
 00:24:30,920 --> 00:24:34,300
+MUSIC
 <i>- Me, me, me.
-- Hey, Shrek, tag me! Tag me!</i>
+DONKEY
+Hey, Shrek, tag me! Tag me!</i>
 
 366
 00:24:34,390 --> 00:24:37,140
+MUSIC
 And I don't give a damn
 about my reputation.
 
 367
 00:24:37,220 --> 00:24:39,470
+MUSIC
 Never said I wanted to
 improve my station.
 
 368
 00:24:39,560 --> 00:24:42,060
+UNKNOWN
 Ah!
 
 369
 00:24:42,140 --> 00:24:44,190
+MUSIC
 <i>- And I'm always feeling good
 when I'm having fun. - Yeah!</i>
 
 370
 00:24:44,270 --> 00:24:46,360
+MUSIC
 And I don't have
 to please no one.
 
 371
 00:24:46,440 --> 00:24:48,360
+WOMAN
 The chair! Give him the chair!
 
 372
 00:24:48,440 --> 00:24:51,070
+MUSIC
 And I don't give a damn
 about my bad reputation.
 
 373
 00:24:51,150 --> 00:24:54,320
+MUSIC
 Oh, no, no, no, no, no Not me.
 
 374
 00:24:54,410 --> 00:24:55,820
+MUSIC
 Me, me, me.
 
 375
 00:24:55,910 --> 00:24:58,580
+MUSIC
 Oh, no, no, no, no.
 
 376
 00:24:58,660 --> 00:25:02,330
+MUSIC
 Not me, not me.
 
 377
 00:25:02,410 --> 00:25:04,880
+MUSIC
 <i> Not me.</i>
 
 378
 00:25:08,000 --> 00:25:13,220
+SHREK
 Oh, yeah! Ah! Ah!
 
 379
 00:25:13,300 --> 00:25:16,090
+SHREK
 Thank you! Thank
 you very much!
 
 380
 00:25:16,180 --> 00:25:18,560
+SHREK
 I'm here till Thursday.
 Try the veal! Ha, ha!
 
 381
 00:25:25,020 --> 00:25:26,980
+GUARD
 Shall I give the order, sir?
 
 382
 00:25:27,060 --> 00:25:30,650
+FARQUAAD
 No, I have a better idea.
 
 383
 00:25:30,730 --> 00:25:35,910
+FARQUAAD
 People of DuLoc, I
 give you our champion!
 
 384
 00:25:35,990 --> 00:25:39,870
-- What?
-- Congratulations, ogre.
+SHREK
+What?
+FARQUAAD
+Congratulations, ogre.
 
 385
 00:25:39,950 --> 00:25:44,290
+FARQUAAD
 You've won the honour of embarking
 on a great and noble quest.
 
 386
 00:25:44,370 --> 00:25:48,750
+SHREK
 Quest? I'm already on a quest,
 a quest to get my swamp back.
 
 387
 00:25:48,840 --> 00:25:52,050
-- Your swamp?
-- Yeah, my swamp!
+FARQUAAD
+Your swamp?
+SHREK
+Yeah, my swamp!
 
 388
 00:25:52,130 --> 00:25:54,590
+SHREK
 Where you dumped those
 fairy tale creatures!
 
 389
 00:25:54,680 --> 00:25:57,260
+FARQUAAD
 Indeed.
 
 390
 00:25:57,340 --> 00:25:59,430
+FARQUAAD
 All right, ogre, I'll
 make you a deal.
 
 391
 00:25:59,510 --> 00:26:03,310
+FARQUAAD
 Go on this quest for me, and
 I'll give you your swamp back.
 
 392
 00:26:03,390 --> 00:26:06,100
+SHREK
 Exactly the way it was?
 
 393
 00:26:06,190 --> 00:26:08,940
+FARQUAAD
 Down to the last
 slime-covered toad stool.
 
 394
 00:26:09,020 --> 00:26:12,280
-- And the squatters?
-- As good as gone.
+SHREK
+And the squatters?
+FARQUAAD
+As good as gone.
 
 395
 00:26:15,320 --> 00:26:19,280
+SHREK
 What kind of quest?
 
 396
