@@ -242,11 +242,13 @@ break the mould.
 
 43
 00:03:08,310 --> 00:03:10,230
-- Go!
-- Go!
+MUSIC
+Go!
+Go!
 
 44
 00:03:10,310 --> 00:03:13,440
+MUSIC
 Go. Go. Go.
 
 45
@@ -1347,7 +1349,7 @@ guy Farquaad right now...
 
 235
 00:15:16,500 --> 00:15:19,620
-SHREk
+SHREK
 and get you all off my land
 and back where you came from!
 
@@ -2544,7 +2546,6 @@ I'm on my way
 443
 00:28:58,030 --> 00:29:00,110
 MUSIC
-MUSIC
 I'm on my way.
 
 444
@@ -3288,7 +3289,6 @@ other first as friends or pen pals.
 
 573
 00:37:57,270 --> 00:38:01,490
-DONKEY
 DONKEY
 I'm on the road a lot, but I
 just love receiving cards...
@@ -4890,2303 +4890,2305 @@ Ow! See?
 
 848
 00:57:41,540 --> 00:57:44,140
-- Who's hungry? I'll find us some dinner.
-- I'll get the firewood.
+SHREK
+Who's hungry? I'll find us some dinner.
+FIONA
+I'll get the firewood.
 
 849
 00:57:44,210 --> 00:57:48,710
+DONKEY
 Hey, where you going? Oh,
 man, I can't feel my toes!
 
 850
 00:57:48,800 --> 00:57:51,300
+DONKEY
 I don't have any toes!
 
 851
 00:57:51,380 --> 00:57:53,720
+DONKEY
 I think I need a hug.
 
 852
 00:57:57,260 --> 00:57:59,520
+FIONA
 Mmm.
 
 853
 00:57:59,600 --> 00:58:03,560
+FIONA
 Mmm. This is good.
 This is really good.
 
 854
 00:58:05,770 --> 00:58:08,030
-- What is this?
-- Uh, Weedrat.
+FIONA
+What is this?
+SHREK
+Uh, Weedrat.
 
 855
 00:58:08,110 --> 00:58:10,240
+SHREK
 Rotisserie style.
 
 856
 00:58:10,320 --> 00:58:12,820
+FIONA
 No kidding.
 
 857
 00:58:12,910 --> 00:58:14,820
+FIONA
 Well, this is delicious.
 
 858
 00:58:14,910 --> 00:58:16,990
+SHREK
 Well, they're also
 great in stews.
 
 859
 00:58:17,080 --> 00:58:21,330
+SHREK
 Now, I don't mean to brag, but
 I make a mean Weedrat stew.
 
 860
 00:58:25,040 --> 00:58:29,170
+FIONA
 I guess I'll be dining a
 little differently tomorrow night.
 
 861
 00:58:29,250 --> 00:58:34,340
+SHREK
 Maybe you can come visit
 me in the swamp sometime.
 
 862
 00:58:34,430 --> 00:58:36,600
+SHREK
 I'll cook all kinds
 of stuff for you.
 
 863
 00:58:36,680 --> 00:58:40,560
+SHREK
 Swamp toad soup, fish eye tartar...
 you name it.
 
 864
 00:58:40,640 --> 00:58:43,770
+FIONA
 I'd like that.
 
 865
 00:58:50,690 --> 00:58:53,900
+MUSIC
 See the pyramids
 along the Nile.
 
 866
 00:58:53,990 --> 00:58:56,620
+SHREK
 Um, Princess?
 
 867
 00:58:56,700 --> 00:59:00,950
-<i>- Watch the sun rise from a tropic isle.
-- Yes, Shrek?</i>
+MUSIC
+Watch the sun rise from a tropic isle.
+FIONA
+Yes, Shrek?
 
 868
 00:59:01,040 --> 00:59:04,870
-<i>- I, um, I was wondering.
-- Just remember, darling all the while.</i>
+SHREK
+I, um, I was wondering.
+MUSIC
+Just remember, darling all the while.
 
 869
 00:59:04,960 --> 00:59:07,210
+SHREK
 Are you...
 
 870
 00:59:07,290 --> 00:59:09,880
+MUSIC
 You belong to me.
 
 871
 00:59:09,960 --> 00:59:12,760
+SHREK
 Are you gonna eat that?
 
 872
 00:59:19,560 --> 00:59:23,640
+DONKEY
 - Man, isn't this romantic? Just
-look at that sunset. - Sunset?
+look at that sunset.
+FIONA
+Sunset?
 
 873
 00:59:23,730 --> 00:59:26,270
+FIONA
 Oh, no! I mean, it's late.
 
 874
 00:59:26,350 --> 00:59:28,230
-- I-It's very late.
-- What?
+FIONA
+I-It's very late.
+SHREK
+What?
 
 875
 00:59:28,310 --> 00:59:31,230
+DONKEY
 Wait a minute. I see
 what's going on here.
 
 876
 00:59:31,320 --> 00:59:34,280
-- You're afraid of the dark, aren't you?
-- Yes!
+DONKEY
+You're afraid of the dark, aren't you?
+FIONA
+Yes!
 
 877
 00:59:34,360 --> 00:59:38,370
+FIONA
 Yes, that's it. I'm terrified.
 You know, I'd better go inside.
 
 878
 00:59:38,450 --> 00:59:41,790
+DONKEY
 Don't feel bad, Princess. I used to
 be afraid of the dark, too, until...
 
 879
 00:59:41,870 --> 00:59:44,620
+DONKEY
 Hey, no, wait. I'm still
 afraid of the dark.
 
 880
 00:59:44,710 --> 00:59:47,880
+FIONA
 Good night.
 
 881
 00:59:47,960 --> 00:59:51,000
+SHREK
 Good night.
 
 882
 00:59:51,090 --> 00:59:54,130
+DONKEY
 Ohh!
 
 883
 00:59:54,210 --> 00:59:56,970
+DONKEY
 Now I really see
 what's going on here.
 
 884
 00:59:57,050 --> 00:59:58,970
+SHREK
 Oh, what are you
 talking about?
 
 885
 00:59:59,050 --> 01:00:01,810
+DONKEY
 I don't even wanna hear it. Look,
 I'm an animal, and I got instincts.
 
 886
 01:00:01,890 --> 01:00:04,310
+DONKEY
 I know you two were digging on each other.
 I could feel it.
 
 887
 01:00:04,390 --> 01:00:07,230
+SHREK
 You're crazy. I'm just
 bringing her back to Farquaad.
 
 888
 01:00:07,310 --> 01:00:10,650
+DONKEY
 Oh, come on, Shrek. Wake up
 and smell the pheromones.
 
 889
 01:00:10,730 --> 01:00:13,400
-- Just go on in and tell her how you feel.
-- I...
+DONKEY
+Just go on in and tell her how you feel.
+SHREK
+I...
 
 890
 01:00:13,480 --> 01:00:17,490
+SHREK
 There's nothing to tell. Besides,
 even if I did tell her that,
 
 891
 01:00:17,570 --> 01:00:19,490
+SHREK
 well, you know...
 
 892
 01:00:19,570 --> 01:00:23,080
+SHREK
 and I'm not saying I
 do 'cause I don't...
 
 893
 01:00:23,160 --> 01:00:25,580
+SHREK
 she's a princess, and I'm...
 
 894
 01:00:25,660 --> 01:00:28,330
+DONKEY
 An ogre?
 
 895
 01:00:28,420 --> 01:00:31,080
+SHREK
 Yeah. An ogre.
 
 896
 01:00:31,170 --> 01:00:35,210
-- Hey, where you going?
-- To get... more firewood.
+DONKEY
+Hey, where you going?
+SHREK
+To get... more firewood.
 
 897
 01:00:54,820 --> 01:00:56,150
+DONKEY
 Princess?
 
 898
 01:00:56,240 --> 01:00:58,950
+DONKEY
 Princess Fiona?
 
 899
 01:01:03,200 --> 01:01:06,040
+DONKEY
 Princess, where are you?
 
 900
 01:01:11,290 --> 01:01:13,790
+DONKEY
 Princess?
 
 901
 01:01:16,880 --> 01:01:19,630
+DONKEY
 It's very spooky in here. I
 am not playing no games.
 
 902
 01:01:29,850 --> 01:01:32,270
-- Aah! Oh, no!
-- No, help!
+DONKEY
+Aah!
+FIONA
+Oh, no!
+DONKEY
+No, help!
 
 903
 01:01:32,350 --> 01:01:35,440
-- Shh! - Shrek! Shrek! Shrek!
-- No, it's okay. It's okay.
+FIONA
+Shh!
+DONKEY
+Shrek! Shrek! Shrek!
+FIONA
+No, it's okay. It's okay.
 
 904
 01:01:35,520 --> 01:01:38,400
-- What did you do with the princess?
-- Donkey, I'm the princess.
+DONKEY
+What did you do with the princess?
+FIONA
+Donkey, I'm the princess.
 
 905
 01:01:38,490 --> 01:01:41,240
-- Aah!
-- It's me, in this body.
+DONKEY
+Aah!
+FIONA
+It's me, in this body.
 
 906
 01:01:41,320 --> 01:01:43,870
+DONKEY
 Oh, my God! You
 ate the princess!
 
 907
 01:01:43,950 --> 01:01:45,870
-- Can you hear me?
-- Donkey!
+DONKEY
+Can you hear me?
+FIONA
+Donkey!
 
 908
 01:01:45,950 --> 01:01:48,290
-- Listen, keep breathing! I'll
-get you out of there! - No!
+DONKEY
+Listen, keep breathing! I'll
+get you out of there!
+FIONA
+No!
 
 909
 01:01:48,370 --> 01:01:50,830
-- Shrek! Shrek! Shrek!
-- Shh.
+DONKEY
+Shrek! Shrek! Shrek!
+FIONA
+Shh.
 
 910
 01:01:50,910 --> 01:01:52,750
-- Shrek!
-- This is me.
+DONKEY
+Shrek!
+FIONA
+This is me.
 
 911
 01:01:57,880 --> 01:02:00,760
+DONKEY
 Princess?
 
 912
 01:02:00,840 --> 01:02:04,340
+DONKEY
 What happened to you?
 You're, uh, uh,
 
 913
 01:02:04,430 --> 01:02:06,350
+DONKEY
 uh, different.
 
 914
 01:02:06,430 --> 01:02:08,680
-- I'm ugly, okay?
-- Well, yeah!
+FIONA
+I'm ugly, okay?
+DONKEY
+Well, yeah!
 
 915
 01:02:08,770 --> 01:02:11,890
+DONKEY
 Was it something you ate? 'Cause I
 told Shrek those rats was a bad idea.
 
 916
 01:02:11,980 --> 01:02:14,520
-- You are what you eat, I said. Now...
-- No.
+DONKEY
+You are what you eat, I said. Now...
+FIONA
+No.
 
 917
 01:02:14,610 --> 01:02:17,940
+FIONA
 I... I've been this way
 as long as I can remember.
 
 918
 01:02:18,030 --> 01:02:20,490
-What do you mean? Look, I am not
+DONKEY
+What do you mean? Look, I ain't
 never seen you like this before.
 
 919
 01:02:20,570 --> 01:02:23,740
+FIONA
 It only happens when
 the sun goes down.
 
 920
 01:02:25,160 --> 01:02:28,790
+FIONA
 By night one way,
 by day another.
 
 921
 01:02:28,870 --> 01:02:30,910
+FIONA
 This shall be the norm...
 
 922
 01:02:31,000 --> 01:02:34,120
+FIONA
 until you find true
 love's first kiss...
 
 923
 01:02:34,210 --> 01:02:38,630
+FIONA
 and then take
 love's true form.
 
 924
 01:02:38,710 --> 01:02:42,260
+DONKEY
 Ah, that's beautiful. I
 didn't know you wrote poetry.
 
 925
 01:02:42,340 --> 01:02:44,260
+FIONA
 It's a spell.
 
 926
 01:02:44,340 --> 01:02:46,930
+FIONA
 When I was a little girl,
 
 927
 01:02:47,010 --> 01:02:49,680
+FIONA
 a witch cast a spell on me.
 
 928
 01:02:49,770 --> 01:02:52,310
+FIONA
 Every night I become this.
 
 929
 01:02:52,390 --> 01:02:56,060
+FIONA
 This horrible, ugly beast!
 
 930
 01:02:58,570 --> 01:03:03,610
+FIONA
 I was placed in a tower to await the
 day my true love would rescue me.
 
 931
 01:03:03,700 --> 01:03:06,280
+FIONA
 That's why I have to marry
 Lord Farquaad tomorrow...
 
 932
 01:03:06,370 --> 01:03:09,790
+FIONA
 before the sun sets
 and he sees me...
 
 933
 01:03:11,040 --> 01:03:14,000
+FIONA
 like this.
 
 934
 01:03:14,080 --> 01:03:17,330
+DONKEY
 All right, all right. Calm down.
 Look, it's not that bad.
 
 935
 01:03:17,420 --> 01:03:21,590
+DONKEY
 You're not that ugly. Well, I
 am not gonna lie. You are ugly.
 
 936
 01:03:21,670 --> 01:03:24,680
+DONKEY
 But you only look like this at night.
 Shrek's ugly 24-7.
 
 937
 01:03:24,760 --> 01:03:28,140
+FIONA
 But, Donkey, I'm a princess,
 
 938
 01:03:28,220 --> 01:03:31,810
+FIONA
 and this is not how a
 princess is meant to look.
 
 939
 01:03:31,890 --> 01:03:35,640
+DONKEY
 Princess, how about if you
 don't marry Farquaad?
 
 940
 01:03:35,730 --> 01:03:37,650
+FIONA
 I have to.
 
 941
 01:03:37,730 --> 01:03:40,570
+FIONA
 Only my true love's kiss
 can break the spell.
 
 942
 01:03:40,650 --> 01:03:44,190
+DONKEY
 But, you know, um,
 you're kind of an ogre,
 
 943
 01:03:44,280 --> 01:03:47,700
+DONKEY
 and Shrek... well, you
 got a lot in common.
 
 944
 01:03:47,780 --> 01:03:49,280
+FIONA
 Shrek?
 
 945
 01:03:49,370 --> 01:03:53,200
+SHREK
 Princess, I... Uh, how's
 it going, first of all?
 
 946
 01:03:53,290 --> 01:03:56,080
+SHREK
 Good? Um, good for me too.
 
 947
 01:03:56,170 --> 01:03:58,080
+SHREK
 I'm okay.
 
 948
 01:03:58,170 --> 01:04:03,050
+SHREK
 I saw this flower and thought of
 you because it's pretty and...
 
 949
 01:04:03,130 --> 01:04:07,380
+SHREK
 well, I don't really like it, but I thought
 you might like it 'cause you're pretty.
 
 950
 01:04:07,470 --> 01:04:10,680
+SHREK
 But I like you anyway.
 I'd... uh, uh...
 
 951
 01:04:12,850 --> 01:04:16,390
+SHREK
 I'm in trouble.
 Okay, here we go.
 
 952
 01:04:16,480 --> 01:04:18,980
-<i>I can't just marry whoever I want.</i>
+FIONA
+I can't just marry whoever I want.
 
 953
 01:04:19,060 --> 01:04:21,360
+FIONA
 Take a good look
 at me, Donkey.
 
 954
 01:04:21,440 --> 01:04:23,360
+FIONA
 I mean, really,
 
 955
 01:04:23,440 --> 01:04:26,110
+FIONA
 who could ever love a beast
 so hideous and ugly?
 
 956
 01:04:26,200 --> 01:04:28,610
+FIONA
 Princess and ugly
 don't go together.
 
 957
 01:04:28,700 --> 01:04:31,120
+FIONA
 That's why I can't stay here with Shrek.
 
 958
 01:04:31,200 --> 01:04:35,620
+FIONA
 My only chance to live happily ever
-after is to marry my truelove.
+after is to marry my true love.
 
 959
 01:04:35,700 --> 01:04:39,120
+FIONA
 Don't you see, Donkey?
 
 960
 01:04:39,210 --> 01:04:42,500
+FIONA
 That's just how it has to be.
 
 961
 01:04:42,590 --> 01:04:45,630
+FIONA
 It's the only way
 to break the spell.
 
 962
 01:04:45,710 --> 01:04:48,470
-- You at least gotta tell Shrek the truth.
-- No!
+DONKEY
+You at least gotta tell Shrek the truth.
+FIONA
+No!
 
 963
 01:04:48,550 --> 01:04:51,470
+FIONA
 You can't breathe a word.
 No one must ever know.
 
 964
 01:04:51,550 --> 01:04:53,680
+DONKEY
 What's the point of being able to
 talk if you gotta keep secrets?
 
 965
 01:04:53,760 --> 01:04:56,890
+FIONA
 Promise you won't tell.
 Promise!
 
 966
 01:04:56,980 --> 01:05:00,060
+DONKEY
 All right, all right. I won't tell him.
 But you should.
 
 967
 01:05:00,150 --> 01:05:03,150
+DONKEY
 I just know before this is over, I'm gonna
 need a whole lot of serious therapy.
 
 968
 01:05:03,230 --> 01:05:06,780
+DONKEY
 Look at my eye twitching.
 
 969
 01:05:29,470 --> 01:05:33,220
+FIONA
 I tell him, I tell him not.
 
 970
 01:05:33,680 --> 01:05:37,680
+FIONA
 I tell him, I tell him not.
 
 971
 01:05:37,770 --> 01:05:39,690
+FIONA
 I tell him.
 
 972
 01:05:39,770 --> 01:05:41,850
+FIONA
 Shrek!
 
 973
 01:05:41,940 --> 01:05:44,480
+FIONA
 Shrek, there's
 something I want...
 
 974
 01:06:05,290 --> 01:06:07,500
+FIONA
 Shrek.
 
 975
 01:06:08,920 --> 01:06:10,970
-- Are you all right?
-- Perfect!
+FIONA
+Are you all right?
+SHREK
+Perfect!
 
 976
 01:06:11,050 --> 01:06:13,010
+SHREK
 Never been better.
 
 977
 01:06:13,090 --> 01:06:16,390
+FIONA
 I... I don't... There's
 something I have to tell you.
 
 978
 01:06:16,470 --> 01:06:19,020
+SHREK
 You don't have to tell
 me anything, Princess.
 
 979
 01:06:19,100 --> 01:06:21,190
-- I heard enough last night.
-- You heard what I said?
+SHREK
+I heard enough last night.
+FIONA
+You heard what I said?
 
 980
 01:06:21,270 --> 01:06:23,190
+SHREK
 Every word.
 
 981
 01:06:23,270 --> 01:06:25,440
+FIONA
 I thought you'd understand.
 
 982
 01:06:25,520 --> 01:06:27,440
+SHREK
 Oh, I understand.
 
 983
 01:06:27,520 --> 01:06:31,110
+FIONA
 Like you said, Who could
 love a hideous, ugly beast?
 
 984
 01:06:31,200 --> 01:06:33,860
+FIONA
 But I thought that
 wouldn't matter to you.
 
 985
 01:06:33,950 --> 01:06:35,700
+SHREK
 Yeah? Well, it does.
 
 986
 01:06:38,290 --> 01:06:40,500
+SHREK
 Ah, right on time.
 
 987
 01:06:40,580 --> 01:06:43,460
+SHREK
 Princess, I've brought
 you a little something.
 
 988
 01:06:47,880 --> 01:06:51,550
+DONKEY
 What'd I miss? What'd I miss?
 
 989
 01:06:51,630 --> 01:06:54,260
+DONKEY
 Who said that? Couldn't have been a donkey.
 
 990
 01:06:55,640 --> 01:06:58,100
+FARQUAAD
 Princess Fiona.
 
 991
 01:06:58,180 --> 01:07:00,890
+SHREK
 As promised. Now hand it over.
 
 992
 01:07:00,970 --> 01:07:05,230
+FARQUAAD
 Very well, ogre. The deed to your
 swamp, cleared out, as agreed.
 
 993
 01:07:05,310 --> 01:07:09,860
+FARQUAAD
 Take it and go before
 I change my mind.
 
 994
 01:07:09,940 --> 01:07:12,780
+FARQUAAD
 Forgive me, Princess,
 for startling you,
 
 995
 01:07:12,860 --> 01:07:14,780
+FARQUAAD
 but you startled me,
 
 996
 01:07:14,860 --> 01:07:18,530
+FARQUAAD
 for I have never seen such
 a radiant beauty before.
 
 997
 01:07:18,620 --> 01:07:21,620
+FARQUAAD
 I am Lord Farquaad.
 
 998
 01:07:21,700 --> 01:07:25,580
+FIONA
 Lord Farquaad? Oh, no, no.
 
 999
 01:07:27,151 --> 01:07:28,630
+FIONA
 Forgive me, my Lord, for
 I was just saying...
 
 1000
 01:07:28,710 --> 01:07:34,170
+FIONA
 a short... farewell.
 
 1001
 01:07:34,260 --> 01:07:38,890
+FARQUAAD
 That is so sweet. You don't have
 to waste good manners on the ogre.
 
 1002
 01:07:38,970 --> 01:07:40,890
+FARQUAAD
 It's not like it has feelings.
 
 1003
 01:07:40,970 --> 01:07:44,940
+FIONA
 No, you're right. It doesn't.
 
 1004
 01:07:45,020 --> 01:07:49,020
+FARQUAAD
 Princess Fiona, beautiful,
 fair, flawless Fiona.
 
 1005
 01:07:49,110 --> 01:07:52,110
+FARQUAAD
 I ask your hand in marriage.
 
 1006
 01:07:52,190 --> 01:07:57,240
+FARQUAAD
 Will you be the perfect bride
 for the perfect groom?
 
 1007
 01:08:00,530 --> 01:08:05,710
+FIONA
 Lord Farquaad, I accept.
 Nothing would make...
 
 1008
 01:08:05,790 --> 01:08:08,960
+FARQUAAD
 Excellent! I'll start the
 plans, for tomorrow we wed!
 
 1009
 01:08:09,040 --> 01:08:10,960
+FIONA
 No! I mean, uh,
 
 1010
 01:08:11,040 --> 01:08:13,420
+FIONA
 why wait?
 
 1011
 01:08:13,510 --> 01:08:17,340
+FIONA
 Let's get married today
 before the sun sets.
 
 1012
 01:08:17,430 --> 01:08:20,140
+FARQUAAD
 Oh, anxious, are we?
 You're right.
 
 1013
 01:08:20,220 --> 01:08:24,140
+FARQUAAD
 The sooner, the better.
 There's so much to do!
 
 1014
 01:08:24,220 --> 01:08:26,560
+FARQUAAD
 There's the caterer, the cake,
 the band, the guest list.
 
 1015
 01:08:26,640 --> 01:08:29,650
+FARQUAAD
 Captain, round up some guests!
 
 1016
 01:08:29,730 --> 01:08:32,440
+FIONA
 Fare-thee-well, ogre.
 
 1017
 01:08:32,520 --> 01:08:35,110
+DONKEY
 Shrek, what are you doing?
 You're letting her get away.
 
 1018
 01:08:35,190 --> 01:08:36,539
+SHREK
 Yeah? So what?
 
 1019
 01:08:36,552 --> 01:08:37,911
+DONKEY
 Shrek, there's something
 about her you don't know.
 
 1020
 01:08:37,990 --> 01:08:40,410
+DONKEY
 Look, I talked to her last night.
 She's...
 
 1021
 01:08:40,490 --> 01:08:44,540
+SHREK
 I know you talked to her last night.
 You're great pals, aren't ya?
 
 1022
 01:08:44,620 --> 01:08:48,370
+SHREK
 Now, if you two are such good friends,
 why don't you follow her home?
 
 1023
 01:08:48,460 --> 01:08:50,420
+DONKEY
 Shrek, I... I wanna
 go with you.
 
 1024
 01:08:50,500 --> 01:08:53,460
+SHREK
 I told you, didn't I? You're
 not coming home with me.
 
 1025
 01:08:53,550 --> 01:08:57,510
+SHREK
 I live alone! My swamp!
 Me! Nobody else!
 
 1026
 01:08:57,590 --> 01:08:59,680
+SHREK
 Understand? Nobody!
 
 1027
 01:08:59,760 --> 01:09:04,600
+SHREK
 Especially useless, pathetic,
 annoying, talking donkeys!
 
 1028
 01:09:04,680 --> 01:09:07,850
-- But I thought...
-- Yeah. You know what?
+DONKEY
+But I thought...
+SHREK
+Yeah. You know what?
 
 1029
 01:09:07,940 --> 01:09:10,150
+SHREK
 You thought wrong!
 
 1030
 01:09:11,900 --> 01:09:13,820
+DONKEY
 Shrek.
 
 1031
 01:09:19,610 --> 01:09:23,620
+MUSIC
 I heard there was
 a secret chord.
 
 1032
 01:09:23,700 --> 01:09:26,750
+MUSIC
 That David played and
 it pleased the Lord.
 
 1033
 01:09:26,830 --> 01:09:31,670
+MUSIC
 But you don't really
 care for music, do ya.
 
 1034
 01:09:33,420 --> 01:09:36,760
+MUSIC
 It goes like this the
 fourth, the fifth.
 
 1035
 01:09:36,840 --> 01:09:39,380
+MUSIC
 The minor fall the major lift.
 
 1036
 01:09:39,470 --> 01:09:46,100
+MUSIC
 The baffled king
 composing hallelujah.
 
 1037
 01:09:46,180 --> 01:09:49,430
+MUSIC
 Hallelujah.
 
 1038
 01:09:49,520 --> 01:09:52,940
+MUSIC
 Hallelujah.
 
 1039
 01:09:53,020 --> 01:09:56,940
+MUSIC
 Hallelujah.
 
 1040
 01:09:57,030 --> 01:10:01,780
+MUSIC
 Hallelujah.
 
 1041
 01:10:03,700 --> 01:10:07,200
+MUSIC
 Baby, I've been here before
 
 1042
 01:10:07,290 --> 01:10:10,410
+MUSIC
 I know this room I've
 walked this floor
 
 1043
 01:10:10,500 --> 01:10:15,590
+MUSIC
 I used to live alone
 before I knew you
 
 1044
 01:10:17,300 --> 01:10:20,380
+MUSIC
 I've seen your flag
 on the marble arch.
 
 1045
 01:10:20,470 --> 01:10:23,800
+MUSIC
 But love is not a
 victory march.
 
 1046
 01:10:23,890 --> 01:10:28,310
+MUSIC
 It's a cold and it's
 a broken hallelujah.
 
 1047
 01:10:29,930 --> 01:10:33,060
+MUSIC
 Hallelujah.
 
 1048
 01:10:33,150 --> 01:10:36,270
+MUSIC
 Hallelujah.
 
 1049
 01:10:36,360 --> 01:10:39,400
+MUSIC
 Hallelujah.
 
 1050
 01:10:39,480 --> 01:10:40,160
+MUSIC
 Hallelujah.
 
 1051
 01:10:46,740 --> 01:10:50,580
+MUSIC
 And all I ever
 learned from love
 
 1052
 01:10:50,660 --> 01:10:53,040
+MUSIC
 I show to shoot at someone.
 
 1053
 01:10:53,120 --> 01:10:55,710
-<i>Who outdrew you.</i>
+MUSIC
+Who outdrew you.
 
 1054
 01:10:55,790 --> 01:10:59,510
+MUSIC
 And it's not a cry you
 can hear at night.
 
 1055
 01:10:59,590 --> 01:11:02,630
+MUSIC
 It's not somebody
 who's seen the light.
 
 1056
 01:11:02,720 --> 01:11:09,770
-<i>It's a cold and it's a broken hallelujah.</i>
+MUSIC
+It's a cold and it's a broken hallelujah.
 
 1057
 01:11:09,850 --> 01:11:12,640
+MUSIC
 Hallelujah.
 
 1058
 01:11:12,730 --> 01:11:15,980
+MUSIC
 Hallelujah.
 
 1059
 01:11:16,060 --> 01:11:19,320
+MUSIC
 Hallelujah.
 
 1060
 01:11:19,400 --> 01:11:20,080
+MUSIC
 Hallelujah.
 
 1061
 01:11:34,290 --> 01:11:36,290
+SHREK
 Donkey?
 
 1062
 01:11:36,380 --> 01:11:38,590
+SHREK
 What are you doing?
 
 1063
 01:11:38,670 --> 01:11:41,630
+DONKEY
 I would think, of all people, you would
 recognise a wall when you see one.
 
 1064
 01:11:41,710 --> 01:11:43,630
+SHREK
 Well, yeah.
 
 1065
 01:11:43,720 --> 01:11:47,090
+SHREK
 But the wall's supposed to go
 around my swamp, not through it.
 
 1066
 01:11:47,180 --> 01:11:49,970
+DONKEY
 It is around your half. See, that's
 your half, and this is my half.
 
 1067
 01:11:50,060 --> 01:11:52,640
+SHREK
 Oh! Your half. Hmm.
 
 1068
 01:11:52,720 --> 01:11:55,270
+DONKEY
 Yes, my half. I helped
 rescue the princess.
 
 1069
 01:11:55,350 --> 01:11:57,600
+DONKEY
 I did half the work, I
-get half the Booty.
+get half the booty.
 
 1070
 01:11:57,690 --> 01:12:01,020
+DONKEY
 Now hand me that big old rock, the
 one that looks like your head.
 
 1071
 01:12:01,110 --> 01:12:03,440
-- Back off!
-- No, you back off.
+SHREK
+Back off!
+DONKEY
+No, you back off.
 
 1072
 01:12:03,530 --> 01:12:05,530
-- This is my swamp!
-- Our swamp.
+SHREK
+This is my swamp!
+DONKEY
+Our swamp.
 
 1073
 01:12:05,610 --> 01:12:07,530
-- Let go, Donkey!
-- You let go.
+SHREK
+Let go, Donkey!
+DONKEY
+You let go.
 
 1074
 01:12:07,610 --> 01:12:09,580
-- Stubborn jackass!
-- Smelly ogre.
+SHREK
+Stubborn jackass!
+DONKEY
+Smelly ogre.
 
 1075
 01:12:09,660 --> 01:12:11,870
+SHREK
 Fine!
 
 1076
 01:12:11,950 --> 01:12:13,608
+DONKEY
 Hey, come back here. I'm
 not through with you yet.
 
 1077
 01:12:13,621 --> 01:12:15,290
+SHREK
 Well, I'm through with you.
 
 1078
 01:12:15,370 --> 01:12:18,630
+DONKEY
 Uh-uh. You know, with you
 it's always, Me, me, me!
 
 1079
 01:12:18,710 --> 01:12:21,300
+DONKEY
 Well, guess what!
 Now it's my turn!
 
 1080
 01:12:21,380 --> 01:12:23,510
+DONKEY
 So you just shut up
 and pay attention!
 
 1081
 01:12:23,590 --> 01:12:25,550
+DONKEY
 You are mean to me.
 
 1082
 01:12:25,630 --> 01:12:28,140
+DONKEY
 You insult me and you don't
 appreciate anything that I do!
 
 1083
 01:12:28,220 --> 01:12:31,310
+DONKEY
 You're always pushing me
 around or pushing me away.
 
 1084
 01:12:31,390 --> 01:12:35,230
+SHREK
 Oh, yeah? Well, if I treated you
 so bad, how come you came back?
 
 1085
 01:12:35,310 --> 01:12:38,520
+DONKEY
 Because that's what friends do!
 They forgive each other!
 
 1086
 01:12:38,600 --> 01:12:41,820
+SHREK
 Oh, yeah. You're
 right, Donkey.
 
 1087
 01:12:41,900 --> 01:12:46,110
+SHREK
 I forgive you... for
 stabbing me in the back!
 
 1088
 01:12:46,200 --> 01:12:51,620
+DONKEY
 Ohh! You're so wrapped up in layers, onion
 boy, you're afraid of your own feelings.
 
 1089
 01:12:51,700 --> 01:12:55,160
-- Go away! - There you are, doing it
+SHREK
+Go away!
+DONKEY
+There you are, doing it
 again just like you did to Fiona.
 
 1090
 01:12:55,250 --> 01:12:57,830
+DONKEY
 All she ever do was like
 you, maybe even love you.
 
 1091
 01:12:57,920 --> 01:13:02,040
+SHREK
 Love me? She said I was
 ugly, a hideous creature.
 
 1092
 01:13:02,130 --> 01:13:04,050
+SHREK
 I heard the two
 of you talking.
 
 1093
 01:13:04,130 --> 01:13:06,050
+DONKEY
 She wasn't talking about you.
 
 1094
 01:13:06,130 --> 01:13:08,470
+DONKEY
 She was talking about,
 uh, somebody else.
 
 1095
 01:13:11,010 --> 01:13:13,430
+SHREK
 She wasn't talking about me?
 
 1096
 01:13:13,510 --> 01:13:15,810
+SHREK
 Well, then who was
 she talking about?
 
 1097
 01:13:15,890 --> 01:13:18,689
+DONKEY
 Uh-uh, no way. I am not saying anything.
 You don't wanna listen to me.
 
 1098
 01:13:18,690 --> 01:13:20,980
-- Right? Right?
-- Donkey!
+DONKEY
+Right? Right?
+SHREK
+Donkey!
 
 1099
 01:13:21,060 --> 01:13:23,610
-- No!
-- Okay, look.
+DONKEY
+No!
+SHREK
+Okay, look.
 
 1100
 01:13:23,690 --> 01:13:25,610
+SHREK
 I'm sorry, all right?
 
 1101
 01:13:27,240 --> 01:13:29,150
+SHREK
 Hmph.
 
 1102
 01:13:30,490 --> 01:13:34,120
+SHREK
 I'm sorry.
 
 1103
 01:13:34,200 --> 01:13:38,460
+SHREK
 I guess I am just a
 big, stupid, ugly ogre.
 
 1104
 01:13:39,670 --> 01:13:41,630
+SHREK
 Can you forgive me?
 
 1105
 01:13:43,840 --> 01:13:45,750
+DONKEY
 Hey, that's what friends
 are for, right?
 
 1106
 01:13:45,840 --> 01:13:48,510
+SHREK
 Right. Friends?
 
 1107
 01:13:48,590 --> 01:13:50,510
+DONKEY
 Friends.
 
 1108
 01:13:50,590 --> 01:13:53,550
+SHREK
 So, um,
 
 1109
 01:13:53,640 --> 01:13:55,890
+SHREK
 what did Fiona say about me?
 
 1110
 01:13:55,970 --> 01:13:59,100
+DONKEY
 What are you asking me for? Why
 don't you just go ask her?
 
 1111
 01:13:59,180 --> 01:14:02,190
+SHREK
 The wedding! We'll
 never make it in time.
 
 1112
 01:14:02,270 --> 01:14:05,480
+DONKEY
 Ha-ha-ha! Never fear, for where
 there's a will, there's a way,
 
 1113
 01:14:05,570 --> 01:14:07,690
+DONKEY
 and I have a way.
 
 1114
 01:14:12,070 --> 01:14:14,530
+SHREK
 Donkey?
 
 1115
 01:14:14,620 --> 01:14:16,990
+DONKEY
 I guess it's just my
 animal magnetism.
 
 1116
 01:14:17,080 --> 01:14:20,250
+SHREK
 Aw, come here, you.
 
 1117
 01:14:20,330 --> 01:14:21,718
+DONKEY
 All right, all right.
 Don't get all slobbery.
 
 1118
 01:14:21,731 --> 01:14:23,130
+DONKEY
 No one likes a kiss ass.
 
 1119
 01:14:23,210 --> 01:14:25,750
+DONKEY
 All right, hop on
 and hold on tight.
 
 1120
 01:14:25,840 --> 01:14:29,340
+DONKEY
 I haven't had a chance to
 install the seat belts yet.
 
 1121
 01:14:35,760 --> 01:14:38,270
+SHREK
 Wooh!
 
 1122
 01:15:01,000 --> 01:15:03,540
+PRIEST
 People of DuLoc,
 
 1123
 01:15:03,620 --> 01:15:06,290
+PRIEST
 we gather here today...
 
 1124
 01:15:06,380 --> 01:15:08,420
+PRIEST
 to bear witness...
 
 1125
 01:15:08,500 --> 01:15:10,420
-- to the union...
-- Um...
+PRIEST
+to the union...
+FIONA
+Um...
 
 1126
 01:15:10,510 --> 01:15:12,970
-- of our new king...
-- Excuse me.
+PRIEST
+of our new king...
+FIONA
+Excuse me.
 
 1127
 01:15:13,050 --> 01:15:15,720
+FIONA
 Could we just skip ahead to the I do's?
 
 1128
 01:15:15,800 --> 01:15:17,720
+FARQUAAD
 Go on.
 
 1129
 01:15:22,770 --> 01:15:26,400
+DONKEY
 Go ahead, have some fun. If we need
 you, I'll whistle. How about that?
 
 1130
 01:15:29,020 --> 01:15:30,940
+DONKEY
 Shrek, wait, wait!
 Wait a minute!
 
 1131
 01:15:31,030 --> 01:15:33,700
-- You wanna do this right, don't you?
-- What are you talking about?
+DONKEY
+You wanna do this right, don't you?
+SHREK
+What are you talking about?
 
 1132
 01:15:33,780 --> 01:15:35,700
+DONKEY
 There's a line you
 gotta wait for.
 
 1133
 01:15:35,780 --> 01:15:38,280
+DONKEY
 The preacher's gonna say, Speak
 now or forever hold your peace.
 
 1134
 01:15:38,370 --> 01:15:42,120
-- That's when you say, I object!
-- I don't have time for this!
+SHREK
+That's when you say, I object!
+DONKEY
+I don't have time for this!
 
 1135
 01:15:42,200 --> 01:15:43,910
+DONKEY
 Wait. What are you doing?
 Listen to me!
 
 1136
 01:15:44,000 --> 01:15:45,920
-- Look, you love this woman, don't you?
-- Yes.
+DONKEY
+Look, you love this woman, don't you?
+SHREK
+Yes.
 
 1137
 01:15:46,000 --> 01:15:47,290
-- You wanna hold her?
-- Yes.
+DONKEY
+You wanna hold her?
+SHREK
+Yes.
 
 1138
 01:15:47,380 --> 01:15:49,590
-- Please her?
-- Yes!
+DONKEY
+Please her?
+SHREK
+Yes!
 
 1139
 01:15:49,670 --> 01:15:52,300
+DONKEY
 Then you got to, got to
 try a little tenderness.
 
 1140
 01:15:52,380 --> 01:15:55,130
-- The chicks love that romantic crap!
-- All right! Cut it out.
+DONKEY
+The chicks love that romantic crap!
+SHREK
+All right! Cut it out.
 
 1141
 01:15:55,220 --> 01:15:58,850
-- When does this guy say the line?
-- We gotta check it out.
+SHREK
+When does this guy say the line?
+DONKEY
+We gotta check it out.
 
 1142
 01:15:58,930 --> 01:16:02,100
+PRIEST
 And so, by the power vested in me,
 
 1143
 01:16:02,180 --> 01:16:05,440
-- What do you see?
-- The whole town's in there.
+SHREK
+What do you see?
+DONKEY
+The whole town's in there.
 
 1144
 01:16:05,520 --> 01:16:08,650
-- I now pronounce you husband and wife,
-- They're at the altar.
+PRIEST
+I now pronounce you husband and wife,
+DONKEY
+They're at the altar.
 
 1145
 01:16:08,730 --> 01:16:11,280
-- King and queen.
-- Mother Fletcher! He already said it.
+PRIEST
+King and queen.
+DONKEY
+Mother Fletcher! He already said it.
 
 1146
 01:16:11,360 --> 01:16:13,990
+SHREK
 Oh, for the love of Pete!
 
 1147
 01:16:15,240 --> 01:16:17,280
+SHREK
 I object!
 
 1148
 01:16:17,360 --> 01:16:19,450
+FIONA
 Shrek?
 
 1149
 01:16:19,530 --> 01:16:21,450
+FARQUAAD
 Oh, now what does he want?
 
 1150
 01:16:25,040 --> 01:16:28,080
+SHREK
 Hi, everyone. Having
 a good time, are ya?
 
 1151
 01:16:28,170 --> 01:16:30,380
+SHREK
 I love DuLoc, first of all.
 
 1152
 01:16:30,460 --> 01:16:32,960
-- Very clean.
-- What are you doing here?
+SHREK
+Very clean.
+FIONA
+What are you doing here?
 
 1153
 01:16:33,050 --> 01:16:35,970
+FARQUAAD
 Really, it's rude enough being
 alive when no one wants you,
 
 1154
 01:16:36,050 --> 01:16:39,390
-- but showing up uninvited to a wedding...
-- Fiona!
+FARQUAAD
+but showing up uninvited to a wedding...
+SHREK
+Fiona!
 
 1155
 01:16:39,470 --> 01:16:42,470
-- I need to talk to you.
-- Oh, now you wanna talk?
+SHREK
+I need to talk to you.
+FIONA
+Oh, now you wanna talk?
 
 1156
 01:16:42,560 --> 01:16:45,520
+FIONA
 It's a little late for that,
 so if you'll excuse me...
 
 1157
 01:16:45,600 --> 01:16:47,980
-- But you can't marry him.
-- And why not?
+SHREK
+But you can't marry him.
+FIONA
+And why not?
 
 1158
 01:16:48,060 --> 01:16:51,940
+SHREK
 Because... Because he's just
 marrying you so he can be king.
 
 1159
 01:16:52,020 --> 01:16:54,400
+FARQUAAD
 Outrageous! Fiona,
 don't listen to him.
 
 1160
 01:16:54,480 --> 01:16:58,110
-- He's not your true love.
-- And what do you know about true love?
+SHREK
+He's not your true love.
+FIONA
+And what do you know about true love?
 
 1161
 01:16:58,200 --> 01:17:00,570
+SHREK
 Well, I... Uh...
 
 1162
 01:17:00,660 --> 01:17:04,040
-- I mean...
-- Oh, this is precious.
+SHREK
+I mean...
+FARQUAAD
+Oh, this is precious.
 
 1163
 01:17:04,120 --> 01:17:08,790
+FARQUAAD
 The ogre has fallen
 in love with the princess!
 
 1164
 01:17:08,870 --> 01:17:11,130
+FARQUAAD
 Oh, good Lord.
 
 1165
 01:17:11,210 --> 01:17:13,130
+FARQUAAD
 An ogre and a princess!
 
 1166
 01:17:18,760 --> 01:17:21,260
+FIONA
 Shrek, is this true?
 
 1167
 01:17:22,680 --> 01:17:25,220
+FARQUAAD
 Who cares? It's preposterous!
 
 1168
 01:17:25,310 --> 01:17:28,940
+FARQUAAD
 Fiona, my love, we're but a kiss
 away from our happily ever after.
 
 1169
 01:17:29,020 --> 01:17:31,610
+FARQUAAD
 Now kiss me! Mmmm!
 
 1170
 01:17:35,690 --> 01:17:39,030
+FIONA
 By night one way,
 by day another.
 
 1171
 01:17:40,950 --> 01:17:43,700
+FIONA
 I wanted to show you before.
 
 1172
 01:18:06,270 --> 01:18:08,810
+SHREK
 Well, uh,
 
 1173
 01:18:08,890 --> 01:18:10,890
+SHREK
 that explains a lot.
 
 1174
 01:18:10,980 --> 01:18:14,650
+FARQUAAD
 Ugh! It's disgusting!
 
 1175
 01:18:14,730 --> 01:18:16,780
+FARQUAAD
 Guards! Guards!
 
 1176
 01:18:16,860 --> 01:18:20,030
+FARQUAAD
 I order you to get that out
 of my sight now! Get them!
 
 1177
 01:18:20,110 --> 01:18:22,910
-- Get them both!
-- No, no!
+FARQUAAD
+Get them both!
+SHREK
+No, no!
 
 1178
 01:18:22,990 --> 01:18:24,853
+FARQUAAD
 This hocus-pocus alters nothing.
 
 1179
 01:18:24,866 --> 01:18:26,740
+FARQUAAD
 Marriage is binding, and
 that makes me king!
 
 1180
 01:18:26,830 --> 01:18:29,120
-- See? See?
-- No, let go of me! Shrek!
+FARQUAAD
+See? See?
+FIONA
+No, let go of me! Shrek!
 
 1181
 01:18:29,200 --> 01:18:30,910
-- No!
-- Don't just stand there, you morons.
+SHREK
+No!
+FARQUAAD
+Don't just stand there, you morons.
 
 1182
 01:18:31,000 --> 01:18:33,540
+SHREK
 Get out of my way! Fiona!
 
 1183
 01:18:36,210 --> 01:18:38,710
+SHREK
 Arrgh!
 
 1184
 01:18:38,800 --> 01:18:41,800
+FARQUAAD
 I'll make you regret the day we met.
 I'll see you drawn and quartered!
 
 1185
 01:18:41,880 --> 01:18:44,800
-- You'll beg for death to save you!
-- No! Shrek!
+FARQUAAD
+You'll beg for death to save you!
+FIONA
+No! Shrek!
 
 1186
 01:18:44,890 --> 01:18:48,390
-- And as for you, my wife,
-- Fiona!
+FARQUAAD
+And as for you, my wife,
+SHREK
+Fiona!
 
 1187
 01:18:48,470 --> 01:18:51,140
+FARQUAAD
 I'll have you locked back in that
 tower for the rest of your days!
 
 1188
 01:18:51,230 --> 01:18:53,060
+FARQUAAD
 I am king!
 
 1189
 01:18:53,150 --> 01:18:56,940
+FARQUAAD
 I will have order! I will have perfection!
 I will have...
 
 1190
 01:18:58,230 --> 01:19:01,280
+FARQUAAD
 Aaah!
 
 1191
 01:19:01,360 --> 01:19:04,110
-- Aah!
-- All right. Nobody move.
+FARQUAAD
+Aah!
+DONKEY
+All right. Nobody move.
 
 1192
 01:19:04,200 --> 01:19:06,280
+DONKEY
 I got a dragon here, and
 I'm not afraid to use it.
 
 1193
 01:19:06,370 --> 01:19:08,990
+DONKEY
 I'm a donkey on the edge!
 
 1194
 01:19:13,670 --> 01:19:16,080
+DONKEY
 Celebrity marriages. They
 never last, do they?
 
 1195
 01:19:18,250 --> 01:19:20,090
+DONKEY
 Go ahead, Shrek.
 
 1196
 01:19:21,470 --> 01:19:23,760
+SHREK
 Uh, Fiona?
 
 1197
 01:19:24,890 --> 01:19:27,100
+FIONA
 Yes, Shrek?
 
 1198
 01:19:27,180 --> 01:19:31,230
+SHREK
 I... I love you.
 
 1199
 01:19:31,310 --> 01:19:33,560
+FIONA
 Really?
 
 1200
 01:19:34,650 --> 01:19:37,650
+SHREK
 Really, really.
 
 1201
 01:19:37,730 --> 01:19:39,650
+FIONA
 I love you too.
 
 1202
 01:19:45,110 --> 01:19:46,780
+CONGREGATION
 Aawww!
 
 1203
 01:19:48,700 --> 01:19:51,950
-Until you find truelove's first kiss...
+FIONA
+Until you find true love's first kiss...
 
 1204
 01:19:52,040 --> 01:19:55,330
+FIONA
 and then take love's true form.
 
 1205
 01:20:18,900 --> 01:20:21,820
+FIONA
 Take love's true form.
 Take love's true form.
 
 1206
 01:20:27,990 --> 01:20:30,490
+SHREK
 Fiona?
 
 1207
 01:20:33,000 --> 01:20:35,580
+SHREK
 Fiona.
 
 1208
 01:20:35,660 --> 01:20:38,210
+SHREK
 Are you all right?
 
 1209
 01:20:38,290 --> 01:20:40,210
+FIONA
 Well, yes.
 
 1210
 01:20:40,290 --> 01:20:43,550
+FIONA
 But I don't understand.
 
 1211
 01:20:43,630 --> 01:20:45,760
+FIONA
 I'm supposed to be beautiful.
 
 1212
 01:20:48,470 --> 01:20:50,720
+FIONA
 But you are beautiful.
 
 1213
 01:20:53,270 --> 01:20:55,730
+DONKEY
 I was hoping this would
 be a happy ending.
 
 1214
 01:20:59,520 --> 01:21:03,940
-<i>I thought love was only
-true in fairy tales</i>
+MUSIC
+I thought love was only
+true in fairy tales
 
 1215
 01:21:04,030 --> 01:21:05,490
+MUSIC
 Oy!
 
 1216
 01:21:05,570 --> 01:21:09,280
-<i>Meant for someone
-else but not for me.</i>
+MUSIC
+Meant for someone
+else but not for me.
 
 1217
 01:21:11,700 --> 01:21:14,660
-<i>Love was out to get me.</i>
+MUSIC
+Love was out to get me.
 
 1218
 01:21:14,750 --> 01:21:17,540
-<i>That's the way it seemed.</i>
+MUSIC
+That's the way it seemed.
 
 1219
 01:21:17,620 --> 01:21:22,090
-<i>Disappointment haunted
-all my dreams.</i>
+MUSIC
+Disappointment haunted
+all my dreams.
 
 1220
 01:21:22,170 --> 01:21:25,460
-<i>And then I saw her face.</i>
+MUSIC
+And then I saw her face.
 
 1221
 01:21:25,550 --> 01:21:28,340
-<i>Now I'm a believer.</i>
+MUSIC
+Now I'm a believer.
 
 1222
 01:21:28,430 --> 01:21:30,970
-<i>And not a trace.</i>
+MUSIC
+And not a trace.
 
 1223
 01:21:31,050 --> 01:21:33,810
-<i>Of doubt in my mind.</i>
+MUSIC
+Of doubt in my mind.
 
 1224
 01:21:33,890 --> 01:21:37,940
-<i>- I'm in love.
-- Ooh-ahh.</i>
+MUSIC
+I'm in love.
+Ooh-ahh.
 
 1225
 01:21:38,020 --> 01:21:40,480
-<i>I'm a believer I
-couldn't leave her.</i>
+MUSIC
+I'm a believer I
+couldn't leave her.
 
 1226
 01:21:40,560 --> 01:21:42,770
-<i>If I tried</i>
+MUSIC
+If I tried
 
 1227
 01:21:42,860 --> 01:21:46,900
+GINGERBREAD MAN
 God bless us, every one.
 
 1228
 01:21:46,990 --> 01:21:50,530
+MUSIC
 Come on, y'all! Then I
 saw her face Ha-ha!
 
 1229
 01:21:50,610 --> 01:21:53,740
+MUSIC
 Now I'm a believer Listen!
 
 1230
 01:21:53,830 --> 01:21:56,620
+MUSIC
 Not a trace.
 
 1231
 01:21:56,700 --> 01:21:59,500
+MUSIC
 Of doubt in my mind
 
 1232
 01:21:59,580 --> 01:22:02,840
+MUSIC
 I'm in love Ooh-ahh
 
 1233
 01:22:02,920 --> 01:22:07,170
+MUSIC
 I'm a believer I couldn't
 leave her if I tried.
 
 1234
 01:22:07,260 --> 01:22:10,130
-- Ooh!
-- Uh!
+MUSIC
+Ooh!
+MUSIC
+Uh!
 
 1235
 01:22:10,220 --> 01:22:12,800
+MUSIC
 Then I saw her face.
 
 1236
 01:22:12,890 --> 01:22:15,850
+MUSIC
 Now I'm a believer Hey!
 
 1237
 01:22:15,930 --> 01:22:18,730
+MUSIC
 Not a trace Uhh! Yeah.
 
 1238
 01:22:18,810 --> 01:22:22,060
+MUSIC
 Of doubt in my mind
 One more time!
 
 1239
 01:22:22,150 --> 01:22:26,690
+MUSIC
 I'm in love I'm a believer.
 
 1240
 01:22:26,780 --> 01:22:28,610
+MUSIC
 Come on!
 
 1241
 01:22:28,690 --> 01:22:30,610
+MUSIC
 I believe, I believe
 I believe, I believe
 
 1242
 01:22:30,700 --> 01:22:33,370
+MUSIC
 I believe, I believe I believe,
 I believe, I believe, hey.
 
 1243
 01:22:33,450 --> 01:22:36,030
+MUSIC
 Y'all sing it with me! I.
 
 1244
 01:22:36,120 --> 01:22:37,790
+MUSIC
 Believe
 
 1245
 01:22:37,870 --> 01:22:40,830
+MUSIC
 I believe People in the back!
 
 1246
 01:22:40,910 --> 01:22:43,830
-- I believe.
-- I'm a believer
+MUSIC
+I believe.
+MUSIC
+I'm a believer
 
 1247
 01:22:43,920 --> 01:22:46,880
+MUSIC
 I believe
 
 1248
 01:22:46,960 --> 01:22:49,840
+MUSIC
 I believe
 
 1249
 01:22:49,920 --> 01:22:54,340
+MUSIC
 I believe.
 
 1250
 01:22:56,760 --> 01:22:59,020
+DONKEY
 Oh, that's funny. Oh. Oh.
 
 1251
 01:22:59,100 --> 01:23:01,730
-<i>I can't breathe.
-I can't breathe.</i>
-
-1252
-01:23:02,640 --> 01:23:04,940
-<i>I believe in self-assertion.</i>
-
-1253
-01:23:05,020 --> 01:23:07,190
-<i>Destiny or as light diversion.</i>
-
-1254
-01:23:07,270 --> 01:23:11,570
-<i>Now it seems I've got
-my head on straight.</i>
-
-1255
-01:23:11,650 --> 01:23:13,780
-<i>I'm a freak an apparition.</i>
-
-1256
-01:23:13,860 --> 01:23:15,990
-<i>Seems I've made the
-right decision.</i>
-
-1257
-01:23:16,070 --> 01:23:19,700
-<i>To try to turn back now
-it might be too late.</i>
-
-1258
-01:23:19,790 --> 01:23:24,120
-<i>- I want to stay home today.
-- Don't wanna go out.</i>
-
-1259
-01:23:24,210 --> 01:23:28,550
-<i>- If anyone comes to play.
-- Gonna get thrown out.</i>
-
-1260
-01:23:28,630 --> 01:23:32,970
-<i>- I wanna stay home today.
-- Don't want no company.</i>
-
-1261
-01:23:33,050 --> 01:23:35,510
-<i>No way.</i>
-
-1262
-01:23:35,590 --> 01:23:38,260
-<i>Yeah, yeah, yeah.</i>
-
-1263
-01:23:38,350 --> 01:23:40,560
-<i>I wanna be a
-millionaire some day.</i>
-
-1264
-01:23:40,640 --> 01:23:42,810
-<i>But know what it feels
-like to give it away.</i>
-
-1265
-01:23:42,890 --> 01:23:46,310
-<i>Watch me march to the
-beat of my own drum.</i>
-
-1266
-01:23:46,400 --> 01:23:48,980
-<i>And it's off to the moon
-and then back again.</i>
-
-1267
-01:23:49,070 --> 01:23:51,150
-<i>Same old day Same situation.</i>
-
-1268
-01:23:51,240 --> 01:23:55,410
-<i>My happiness rears
-back as if to say.</i>
-
-1269
-01:23:55,490 --> 01:23:59,790
-<i>- I wanna stay home today.
-- Don't wanna go out.</i>
-
-1270
-01:23:59,870 --> 01:24:04,250
-<i>- If anyone comes my way.
-- Gonna get thrown out.</i>
-
-1271
-01:24:04,330 --> 01:24:08,750
-<i>- I wanna stay home today.
-- Don't want no company.</i>
-
-1272
-01:24:08,840 --> 01:24:11,300
-<i>No way.</i>
-
-1273
-01:24:11,380 --> 01:24:14,010
-<i>Yeah, yeah, yeah.</i>
-
-1274
-01:24:17,850 --> 01:24:22,680
-<i>I wanna stay home
-stay home, stay home.</i>
-
-1275
-01:24:22,770 --> 01:24:27,810
-<i>- I wanna stay home today.
-- Don't wanna go out.</i>
-
-1276
-01:24:27,900 --> 01:24:32,190
-<i>- If anyone comes to play.
-- Gonna get thrown out.</i>
-
-1277
-01:24:32,280 --> 01:24:35,110
-<i>I wanna stay home today.</i>
-
-1278
-01:24:35,200 --> 01:24:39,200
-<i>Don't want no company No way.</i>
-
-1279
-01:24:39,280 --> 01:24:42,120
-<i>Yeah, yeah, yeah.</i>
-
-1280
-01:24:55,920 --> 01:24:59,890
-<i>I get such a thrill when
-you looking my eyes.</i>
-
-1281
-01:24:59,970 --> 01:25:04,140
-<i>My heart skips a beat
-Girl, I feel so alive.</i>
-
-1282
-01:25:04,220 --> 01:25:07,980
-<i>Please tell me, baby
-if all this is true.</i>
-
-1283
-01:25:08,060 --> 01:25:12,150
-<i>'Cause deep down inside
-all I wanted was you.</i>
-
-1284
-01:25:12,230 --> 01:25:16,150
-<i>Oh-oh-oh Makes me wanna dance.</i>
-
-1285
-01:25:16,240 --> 01:25:20,120
-<i>Oh-oh-oh It's a new romance.</i>
-
-1286
-01:25:20,200 --> 01:25:24,160
-<i>Oh-oh-oh I look
-into your eyes.</i>
-
-1287
-01:25:24,240 --> 01:25:28,120
-<i>Oh-oh-oh The best
-years of our lives.</i>
-
-1288
-01:25:28,210 --> 01:25:32,000
-<i>When we first met I
-could hardly believe.</i>
-
-1289
-01:25:32,090 --> 01:25:36,050
-<i>The things that would happen
-and we could achieve.</i>
-
-1290
-01:25:36,130 --> 01:25:39,840
-<i>So let's be together
-for all of our time.</i>
-
-1291
-01:25:39,930 --> 01:25:43,810
-<i>Oh, girl, I'm so thankful
-that you are still mine.</i>
-
-1292
-01:25:43,890 --> 01:25:45,970
-<i>You always consider me
-like an ugly duckling.</i>
-
-1293
-01:25:46,060 --> 01:25:48,599
-<i>And treat me like a Nostradamus
-was why I had to get my shine on.</i>
-
-1294
-01:25:48,600 --> 01:25:50,650
-<i>I break a little something
-to keep my mind on.</i>
-
-1295
-01:25:50,730 --> 01:25:53,150
-<i>'Cause you had my mind
-gone Eh-eh, eh-eh, eh-eh.</i>
-
-1296
-01:25:53,230 --> 01:25:56,070
-<i>Turn the lights on, Come on,
-baby Let's just rewind the song.</i>
-
-1297
-01:25:56,150 --> 01:25:58,280
-<i>'Cause all I want to do is make
-the rest years the best years.</i>
-
-1298
-01:25:58,360 --> 01:26:00,360
-<i>All night long.</i>
-
-1299
-01:26:00,450 --> 01:26:04,160
-<i>- Oh-oh-oh, makes me wanna dance.
-- Makes me wanna dance.</i>
-
-1300
-01:26:04,240 --> 01:26:08,160
-<i>- Oh-oh-oh, it's a new romance.
-- It's a new romance.</i>
-
-1301
-01:26:08,250 --> 01:26:11,420
-<i>- Oh-oh-oh, I look into your eyes.
-- Oh, yeah, yeah.</i>
-
-1302
-01:26:11,500 --> 01:26:14,170
-<i>- Look into your eyes.
-- Oh-oh-oh.</i>
-
-1303
-01:26:14,250 --> 01:26:16,459
-<i>- The best years of our lives.
-- Yeah, yeah, yeah, yeah.</i>
-
-1304
-01:26:16,460 --> 01:26:20,180
-<i>- Oh-oh-oh, makes me wanna dance.
-- Whoa-oh-oh, dance, yeah.</i>
-
-1305
-01:26:20,260 --> 01:26:24,180
-<i>Oh-oh-oh It's a new romance.</i>
-
-1306
-01:26:24,260 --> 01:26:28,230
-<i>- Oh-oh-oh, I look into your eyes.
-- Look into your eyes, yeah.</i>
-
-1307
-01:26:28,310 --> 01:26:32,940
-<i>Oh-oh-oh The best
-years of our lives.</i>
-
-1308
-01:26:33,020 --> 01:26:35,860
-<i>Everything looks bright.</i>
-
-1309
-01:26:35,940 --> 01:26:38,190
-<i>Standing in your light.</i>
-
-1310
-01:26:38,280 --> 01:26:40,610
-<i>Everything feels right.</i>
-
-1311
-01:26:40,700 --> 01:26:43,780
-<i>What's left is out of sight.</i>
-
-1312
-01:26:43,870 --> 01:26:48,450
-<i>What's a girl to do I'm telling
-you, you're on my mind.</i>
-
-1313
-01:26:48,540 --> 01:26:51,120
-<i>I wanna be with you.</i>
-
-1314
-01:26:51,210 --> 01:26:53,500
-<i>'Cause when you're
-standing next to me.</i>
-
-1315
-01:26:53,580 --> 01:26:55,500
-<i>It's like wow.</i>
-
-1316
-01:26:55,590 --> 01:26:58,710
-<i>And all your kisses
-seem to set me free.</i>
-
-1317
-01:26:58,800 --> 01:27:00,630
-<i>It's like wow.</i>
-
-1318
-01:27:00,720 --> 01:27:04,050
-<i>And when we touch it's such
-a rush, I can't get enough.</i>
-
-1319
-01:27:04,140 --> 01:27:06,810
-<i>It's like... It's
-like Ooh-ooh.</i>
-
-1320
-01:27:06,890 --> 01:27:09,430
-<i>Hey, what.</i>
-
-1321
-01:27:09,520 --> 01:27:12,810
-<i>It's like wow Ooh-ooh, hey.</i>
-
-1322
-01:27:12,900 --> 01:27:16,150
-<i>Hey, yeah It's like wow.</i>
-
-1323
-01:27:16,230 --> 01:27:19,860
-<i>Everything is looking
-right now, right now.</i>
-
-1324
-01:27:19,940 --> 01:27:23,160
-<i>- It's like wow.
-- And I got this feeling.</i>
-
-1325
-01:27:23,240 --> 01:27:26,120
-<i>This feeling it's
-just like wow.</i>
-
-1326
-01:27:26,200 --> 01:27:28,450
-<i>It's just like wow.</i>
-
-1327
-01:27:28,540 --> 01:27:30,500
-<i>- You are all I'm thinking of.
-- Like wow.</i>
-
-1328
-01:27:30,580 --> 01:27:34,960
-<i>Everything feels right
-Everything feels right.</i>
-
-1329
-01:27:35,040 --> 01:27:37,460
-<i>- Like wow.
-- Everything looks bright.</i>
-
-1330
-01:27:37,540 --> 01:27:40,130
-<i>All my senses are right.</i>
-
-1331
-01:27:40,210 --> 01:27:42,590
-<i>- Like wow.
-- Everything feels right.</i>
-
-1332
-01:27:42,670 --> 01:27:46,010
-<i>Baby, baby, baby the
-way I'm feeling you.</i>
-
-1333
-01:27:46,090 --> 01:27:48,010
-<i>Is like wow</i>
-
-1334
-01:28:08,620 --> 01:28:12,160
-<i>There is something that I see.</i>
-
-1335
-01:28:12,250 --> 01:28:15,670
-<i>In the way you look at me.</i>
-
-1336
-01:28:15,750 --> 01:28:19,170
-<i>There's a smile
-There's a truth.</i>
-
-1337
-01:28:19,250 --> 01:28:22,670
-<i>In your eyes.</i>
-
-1338
-01:28:22,760 --> 01:28:26,090
-<i>What an unexpected way.</i>
-
-1339
-01:28:26,180 --> 01:28:29,560
-<i>On this unexpected day.</i>
-
-1340
-01:28:29,640 --> 01:28:31,560
-<i>Could it be.</i>
-
-1341
-01:28:31,640 --> 01:28:36,560
-<i>This is where I belong.</i>
-
-1342
-01:28:36,650 --> 01:28:40,020
-<i>It is you I have loved.</i>
-
-1343
-01:28:40,110 --> 01:28:43,110
-<i>All along.</i>
-
-1344
-01:28:43,190 --> 01:28:46,910
-<i>There's no more mystery.</i>
-
-1345
-01:28:46,990 --> 01:28:50,450
-<i>It is finally clear to me.</i>
-
-1346
-01:28:50,530 --> 01:28:54,200
-<i>You're the home my
-heart's searched for.</i>
-
-1347
-01:28:54,290 --> 01:28:57,290
-<i>So long.</i>
-
-1348
-01:28:57,370 --> 01:29:00,960
-<i>It is you I have loved.</i>
-
-1349
-01:29:01,040 --> 01:29:04,970
-<i>All along.</i>
-
-1350
-01:29:32,160 --> 01:29:36,000
-<i>Whoa, over and over.</i>
-
-1351
-01:29:36,080 --> 01:29:41,170
-<i>I'm filled with emotion.</i>
-
-1352
-01:29:41,250 --> 01:29:44,210
-<i>As I look.</i>
-
-1353
-01:29:44,300 --> 01:29:48,930
-<i>Into your perfect face</i>
-
+DONKEY
+I can't breathe.
+I can't breathe.

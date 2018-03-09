@@ -10,7 +10,7 @@ lines[0] = '1' # Unicode-type error for some reason
 
 # Only convert up to the end of the first act
 # (That's all that's been manually tagged so far)
-lines = lines[:2270]
+# lines = lines[:2270]
 
 def timestamp_to_sec(ts):
     """ Timestamp is a string of the form
@@ -27,7 +27,7 @@ def timestamp_to_sec(ts):
         time += float(tsi[3]) / 1000
     return time/2
 
-letters_only = re.compile(r'[A-z].')
+letters_only = re.compile(r'[A-z ]+$')
 
 def is_name(line):
     """Returns if the line is a properly formatted (uppercase all letters) name
