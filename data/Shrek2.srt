@@ -3552,234 +3552,288 @@ SHREK
 
 624
 00:38:07,189 --> 00:38:10,429
+DONKEY
 Lighten up? I should lighten up? Look
 who's telling who to lighten up!
 
 625
 00:38:12,821 --> 00:38:15,415
+FIONA
 (GIGGLES) Shrek!
 
 626
 00:38:15,615 --> 00:38:17,287
+SOUND FX
 (BARKS)
 
 627
 00:38:17,450 --> 00:38:18,678
+SOUND FX
 (BARKS)
 
 628
 00:38:20,286 --> 00:38:21,241
+FIONA
 Shrek?
 
 629
 00:38:32,255 --> 00:38:34,610
+QUEEN
 They're both festive,
 aren't they?
 
 630
 00:38:34,800 --> 00:38:36,597
+QUEEN
 What do you think, Harold?
 
 631
 00:38:36,760 --> 00:38:38,955
+KING
 Um... Yes, yes. Fine. Fine.
 
 632
 00:38:39,138 --> 00:38:40,093
+SOUND FX
 (SIGHS)
 
 633
 00:38:41,098 --> 00:38:44,568
+QUEEN
 Try to at least pretend you're interested
 in your daughter's wedding ball.
 
 634
 00:38:44,810 --> 00:38:47,085
+KING
 Honestly, Lillian, I
 don't think it matters.
 
 635
 00:38:47,270 --> 00:38:49,500
+KING
 How do we know there
 will even be a ball?
 
 636
 00:38:49,689 --> 00:38:51,520
+FIONA
 Mom. Dad.
 
 637
 00:38:51,691 --> 00:38:55,161
+QUEEN
 - Oh, hello, dear.
+KING
 - What's that, Cedric? Right! Coming.
 
 638
 00:38:55,946 --> 00:38:57,937
+FIONA
 Mom, have you seen Shrek?
 
 639
 00:38:58,115 --> 00:39:00,834
+QUEEN
 I haven't. You should
 ask your father.
 
 640
 00:39:01,076 --> 00:39:05,467
+QUEEN
 Be sure and use small words, dear.
 He's a little slow this morning.
 
 641
 00:39:05,747 --> 00:39:08,056
+CEDRIC
 - Can I help you, Your Majesty?
+KING
 - Ah, yes! Um...
 
 642
 00:39:09,166 --> 00:39:11,680
+KING
 Mmm! Exquisite. What
 do you call this dish?
 
 643
 00:39:11,877 --> 00:39:14,869
+CEDRIC
 That would be the dog's
 breakfast, Your Majesty.
 
 644
 00:39:15,089 --> 00:39:18,684
+KING
 Ah, yes. Very good, then.
 Carry on, Cedric.
 
 645
 00:39:18,926 --> 00:39:22,839
+FIONA
 - Dad? Dad, have you seen Shrek?
+KING
 - No, I haven't, dear.
 
 646
 00:39:23,097 --> 00:39:24,952
+KING
 I'm sure he just went off
 to look for a nice...
 
 647
 00:39:24,953 --> 00:39:26,806
+KING
 mud hole to cool down in.
 
 648
 00:39:27,059 --> 00:39:29,175
+KING
 You know, after your
 little spat last night.
 
 649
 00:39:29,353 --> 00:39:31,548
+FIONA
 Oh. You heard that, huh?
 
 650
 00:39:31,730 --> 00:39:33,322
+KING
 The whole kingdom heard you.
 
 651
 00:39:33,482 --> 00:39:36,201
+KING
 I mean, after all, it is
 in his nature to be...
 
 652
 00:39:36,402 --> 00:39:37,835
+KING
 well, a bit of a brute.
 
 653
 00:39:37,987 --> 00:39:41,980
+FIONA
 Him? You know, you didn't exactly
 roll out the Welcome Wagon.
 
 654
 00:39:42,241 --> 00:39:45,551
+KING
 Well, what did you expect?
 Look at what he's done to you.
 
 655
 00:39:46,411 --> 00:39:49,289
+FIONA
 Shrek loves me for who I am.
 
 656
 00:39:49,497 --> 00:39:52,011
+FIONA
 I would think you'd
 be happy for me.
 
 657
 00:39:52,208 --> 00:39:55,439
+KING
 Darling, I'm just thinking
 about what's best for you.
 
 658
 00:39:55,670 --> 00:39:58,867
+KING
 Maybe you should do the same.
 
 659
 00:40:04,387 --> 00:40:05,786
+SOUND FX
 (BOTH WHISPER)
 
 660
 00:40:12,520 --> 00:40:14,078
+SHREK
 No, really?
 
 661
 00:40:14,230 --> 00:40:15,185
+SOUND FX
 (BOTH LAUGH)
 
 662
 00:40:16,231 --> 00:40:18,028
+SHREK
 (Shrek) Shh...
 
 663
 00:40:19,819 --> 00:40:21,491
+SHREK
 Oh...
 
 664
 00:40:23,614 --> 00:40:25,013
+SOUND FX
 (HOOTER BLASTS)
 
 665
 00:40:25,157 --> 00:40:29,230
+DONKEY
 Oh, no. That's the old Keebler's place.
 Let's back away slowly.
 
 666
 00:40:29,495 --> 00:40:31,326
+PUSS
 That's the Fairy
 Godmother's cottage.
 
 667
 00:40:31,497 --> 00:40:34,807
+PUSS
 She's the largest producer of hexes
 and potions in the whole kingdom.
 
 668
 00:40:35,042 --> 00:40:38,512
+SHREK
 Then why don't we pop in there for a spell?
 Ha-ha! Spell!
 
 669
 00:40:38,753 --> 00:40:40,983
+PUSS
 (PUSS IN BOOTS SHRIEKS
 WITH LAUGHTER)
 
 670
 00:40:43,842 --> 00:40:45,514
+PUSS
 (PUSS IN BOOTS) He
 makes me laugh.
 
 671
 00:40:51,016 --> 00:40:53,211
+SHREK
 Hi. I'm here to see the...
 
 672
 00:40:53,393 --> 00:40:56,271
+RECEPTIONIST
 The Fairy Godmother. I'm sorry.
 She is not in.
 
 673
 00:40:56,479 --> 00:40:59,312
+FAIRY GODMOTHER
 <i>Jerome! Coffee and a Monte Cristo.
 Now!</i>
 
 674
 00:40:59,523 --> 00:41:00,672
+SOUND FX
 (SIGHS)
 
 675
