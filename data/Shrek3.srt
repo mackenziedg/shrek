@@ -784,65 +784,65 @@ Do your thing, man.
 150
 00:12:55,554 --> 00:12:59,422
 MUSIC
-~ When you were young and your heart ~ 
+~ When you were young and your heart ~
 
 151
 00:12:59,558 --> 00:13:01,719
 MUSIC
-~ Was an open book ~ 
+~ Was an open book ~
 
 152
 00:13:03,729 --> 00:13:07,859
 MUSIC
-~ You used to say live and let live ~ 
+~ You used to say live and let live ~
 
 153
 00:13:08,000 --> 00:13:11,333
 MUSIC
 ~ You know you did, you know you did
-You know you did ~ 
+You know you did ~
 
 154
 00:13:12,137 --> 00:13:17,200
 MUSIC
 ~ But if this ever changing world
-In which we live in ~ 
+In which we live in ~
 
 155
 00:13:18,077 --> 00:13:22,241
 MUSIC
-~ Makes you give in and cry ~ 
+~ Makes you give in and cry ~
 
 156
 00:13:24,750 --> 00:13:26,911
 MUSIC
-~ Say live and let die ~ 
+~ Say live and let die ~
 
 157
 00:13:30,356 --> 00:13:32,017
 MUSIC
-~ Live and let die ~ 
+~ Live and let die ~
 
 158
 00:14:08,527 --> 00:14:12,293
 MUSIC
 ~ Hey, lady
-You, lady ~ 
+You, lady ~
 
 159
 00:14:13,299 --> 00:14:15,460
 MUSIC
-~ Cursing at your life ~ 
+~ Cursing at your life ~
 
 160
 00:14:16,135 --> 00:14:18,797
 MUSIC
-~ You're a discontented mother ~ 
+~ You're a discontented mother ~
 
 161
 00:14:20,472 --> 00:14:23,134
 MUSIC
-And a regimented wife ~ 
+And a regimented wife ~
 
 162
 00:14:48,834 --> 00:14:51,997
@@ -932,7 +932,7 @@ Oh, what's it to you?
 
 178
 00:15:48,494 --> 00:15:50,758
-PRINE CHARMING
+PRINCE CHARMING
 They left you the unfairest of them all.
 
 179
@@ -1397,18 +1397,18 @@ How does it happen?
 00:23:57,749 --> 00:24:03,016
 MUSIC
 ~ And the cat's in the cradle
-and the silver spoon ~ 
+and the silver spoon ~
 
 267
 00:24:03,154 --> 00:24:05,782
 MUSIC
-~ Little Boy Blue and the Man in the Moon ~ 
+~ Little Boy Blue and the Man in the Moon ~
 
 268
 00:24:05,924 --> 00:24:08,518
 MUSIC
 ~ When you coming home, son?
-I don't know when ~ 
+I don't know when ~
 
 269
 00:24:08,660 --> 00:24:10,958
@@ -1532,7 +1532,7 @@ Like the sauce? Hmmmmmm!
 291
 00:25:24,669 --> 00:25:26,000
 DONKEY
-It's spicy! 
+It's spicy!
 
 292
 00:25:28,000 --> 00:25:31,672
@@ -4397,32 +4397,32 @@ with children, Shrek.
 822
 01:02:34,463 --> 01:02:38,263
 MUSIC
-~ Leave me out with the waste ~ 
+~ Leave me out with the waste ~
 
 823
 01:02:38,401 --> 01:02:41,336
 MUSIC
-~ This is not what I do ~ 
+~ This is not what I do ~
 
 824
 01:02:41,470 --> 01:02:45,167
 MUSIC
-~ It's the wrong time ~ 
+~ It's the wrong time ~
 
 825
 01:02:45,308 --> 01:02:48,004
 MUSIC
-~ She's pulling me through ~ 
+~ She's pulling me through ~
 
 826
 01:02:48,144 --> 01:02:51,841
 MUSIC
-~ It's a small crime ~ 
+~ It's a small crime ~
 
 827
 01:02:51,981 --> 01:02:54,609
 MUSIC
-~ And I got no excuse ~ 
+~ And I got no excuse ~
 
 828
 01:02:54,750 --> 01:02:57,150
@@ -4742,22 +4742,22 @@ me deserved something as special as you?
 886
 01:07:37,066 --> 01:07:40,092
 SNOW WHITE
-~ Little birdies, take wing ~ 
+~ Little birdies, take wing ~
 
 887
 01:07:40,936 --> 01:07:43,564
 SNOW WHITE
-~ Flitting down from the trees they appear ~ 
+~ Flitting down from the trees they appear ~
 
 888
 01:07:43,706 --> 01:07:46,174
 SNOW WHITE
-~ And to chirp in my ear ~ 
+~ And to chirp in my ear ~
 
 889
 01:07:47,443 --> 01:07:50,435
 SNOW WHITE
-~ All because I sing ~ 
+~ All because I sing ~
 
 890
 01:08:20,075 --> 01:08:21,133
@@ -4890,32 +4890,32 @@ Cue the spot!
 914
 01:10:40,215 --> 01:10:42,740
 RAPUNZEL
-~ I wait alone up here ~ 
+~ I wait alone up here ~
 
 915
 01:10:42,885 --> 01:10:45,581
 RAPUNZEL
-~ I'm trapped another day ~ 
+~ I'm trapped another day ~
 
 916
 01:10:45,721 --> 01:10:48,918
 RAPUNZEL
-~ Locked up here, please set me free ~ 
+~ Locked up here, please set me free ~
 
 917
 01:10:49,058 --> 01:10:52,084
 RAPUNZEL
-~ My new life I almost see ~ 
+~ My new life I almost see ~
 
 918
 01:10:52,227 --> 01:10:54,923
 RAPUNZEL
-~ A castle, you and me ~ 
+~ A castle, you and me ~
 
 919
 01:10:55,064 --> 01:11:00,161
 RAPUNZEL
-~ Yes, a castle, you and me ~ 
+~ Yes, a castle, you and me ~
 
 920
 01:11:02,237 --> 01:11:03,295
@@ -4926,24 +4926,24 @@ Cherubs!
 01:11:07,242 --> 01:11:11,042
 PRINCE CHARMING
 ~ Tis I, Tis I
-Upon my regal steed ~ 
+Upon my regal steed ~
 
 922
 01:11:11,180 --> 01:11:12,807
 PRINCE CHARMING
-~ Princess, my love ~ 
+~ Princess, my love ~
 
 923
 01:11:12,948 --> 01:11:15,712
 PRINCE CHARMING
 ~ At last you shall be freed
-I'm strong ~ 
+I'm strong ~
 
 924
 01:11:15,851 --> 01:11:17,819
 PRINCE CHARMING
 ~ And brave
-And dashing my way there ~ 
+And dashing my way there ~
 
 925
 01:11:18,253 --> 01:11:23,919
@@ -4966,7 +4966,7 @@ PRINCE CHARMING
 928
 01:11:31,967 --> 01:11:33,958
 PRINCE CHARMING
-~ Facing creatures so vile ~ 
+~ Facing creatures so vile ~
 
 929
 01:11:34,103 --> 01:11:35,229
@@ -4981,22 +4981,22 @@ PRINCE CHARMING
 931
 01:11:40,809 --> 01:11:43,141
 RAPUNZEL
-~ I knew you'd come for me ~ 
+~ I knew you'd come for me ~
 
 932
 01:11:43,278 --> 01:11:47,112
 RAPUNZEL
-~ And now we finally meet ~ 
+~ And now we finally meet ~
 
 933
 01:11:47,249 --> 01:11:48,716
 PRINCE CHARMING
-~ I knew you'd wait ~ 
+~ I knew you'd wait ~
 
 934
 01:11:48,851 --> 01:11:53,379
 PRINCE CHARMING
-~ And from my plate of love you'd eat ~ 
+~ And from my plate of love you'd eat ~
 
 935
 01:12:13,308 --> 01:12:16,641
@@ -5033,7 +5033,7 @@ Oh, boy.
 941
 01:12:29,591 --> 01:12:33,186
 PRINCE CHARMING
-~ You are about to enter a world of pain ~ 
+~ You are about to enter a world of pain ~
 
 942
 01:12:33,328 --> 01:12:37,662
@@ -5478,7 +5478,7 @@ Dada.
 01:20:33,241 --> 01:20:37,610
 MUSIC
 ~ Was I wrong about the world?
-It's a beautiful new place ~ 
+It's a beautiful new place ~
 
 1025
 01:20:37,746 --> 01:20:40,237
@@ -5488,27 +5488,27 @@ I smell Shrek Junior!
 1026
 01:20:40,382 --> 01:20:43,044
 MUSIC
-~ Where else could a creep like me ~ 
+~ Where else could a creep like me ~
 
 1027
 01:20:43,184 --> 01:20:45,914
 MUSIC
-~ Meet such a pretty face ~ 
+~ Meet such a pretty face ~
 
 1028
 01:20:46,054 --> 01:20:49,990
 MUSIC
-~ Meeting every day with the rising sun ~ 
+~ Meeting every day with the rising sun ~
 
 1029
 01:20:52,794 --> 01:20:55,695
 MUSIC
-~ Looking up, it's looking like ~ 
+~ Looking up, it's looking like ~
 
 1030
 01:20:55,830 --> 01:20:58,492
 MUSIC
-~ My losing streak is done ~ 
+~ My losing streak is done ~
 
 1031
 01:20:59,401 --> 01:21:00,698
@@ -5528,12 +5528,12 @@ A bouncy, bouncy, boy!
 1034
 01:21:07,342 --> 01:21:10,038
 MUSIC
-~ Used to always feel like ~ 
+~ Used to always feel like ~
 
 1035
 01:21:10,178 --> 01:21:12,840
 MUSIC
-~ Wished that I was dressed better ~ 
+~ Wished that I was dressed better ~
 
 1036
 01:21:13,848 --> 01:21:15,509
@@ -5544,27 +5544,27 @@ Where's the baby?
 01:21:15,650 --> 01:21:20,019
 MUSIC
 ~ Never had a lot of luck
-Until I finally met her ~ 
+Until I finally met her ~
 
 1038
 01:21:29,531 --> 01:21:33,524
 MUSIC
-~ Meeting every day with the rising sun ~ 
+~ Meeting every day with the rising sun ~
 
 1039
 01:21:36,204 --> 01:21:38,365
 MUSIC
-~ Looking up, it's looking like ~ 
+~ Looking up, it's looking like ~
 
 1040
 01:21:39,040 --> 01:21:41,873
 MUSIC
-~ My losing streak is done ~ 
+~ My losing streak is done ~
 
 1041
 01:21:44,045 --> 01:21:46,377
 MUSIC
-~ My losing streak is done ~ 
+~ My losing streak is done ~
 
 1042
 01:21:57,225 --> 01:21:59,887
@@ -5586,7 +5586,7 @@ Once again, come on!
 01:22:28,590 --> 01:22:33,220
 MUSIC
 ~ I want to thank you for letting me
-be myself ~ 
+be myself ~
 
 1046
 01:22:33,361 --> 01:22:34,453
@@ -5602,7 +5602,7 @@ MUSIC
 01:22:36,598 --> 01:22:41,797
 MUSIC
 ~ I want to thank you for letting me
-be myself ~ 
+be myself ~
 
 1049
 01:22:41,936 --> 01:22:43,426
@@ -5618,32 +5618,32 @@ MUSIC
 1051
 01:22:50,378 --> 01:22:52,778
 MUSIC
-~ Stiff all in the collar ~ 
+~ Stiff all in the collar ~
 
 1052
 01:22:54,616 --> 01:22:56,777
 MUSIC
-~ Fluffy in the face ~ 
+~ Fluffy in the face ~
 
 1053
 01:22:58,953 --> 01:23:01,444
 MUSIC
-~ Chit chat chatter trying ~ 
+~ Chit chat chatter trying ~
 
 1054
 01:23:02,791 --> 01:23:04,952
 MUSIC
-~ Stuffy in the place ~ 
+~ Stuffy in the place ~
 
 1055
 01:23:07,128 --> 01:23:09,961
 MUSIC
-~ Thank you for the par-tay ~ 
+~ Thank you for the par-tay ~
 
 1056
 01:23:11,132 --> 01:23:12,997
 MUSIC
-~ But I could never stay ~ 
+~ But I could never stay ~
 
 1057
 01:23:13,134 --> 01:23:14,465
@@ -5653,38 +5653,38 @@ MUSIC
 1058
 01:23:15,136 --> 01:23:18,128
 MUSIC
-~ I got many things on my mind ~ 
+~ I got many things on my mind ~
 
 1059
 01:23:19,474 --> 01:23:21,635
 MUSIC
-~ But the word's in the way ~ 
+~ But the word's in the way ~
 
 1060
 01:23:22,644 --> 01:23:27,843
 MUSIC
 ~ And I want to thank you for letting me
-be myself ~ 
+be myself ~
 
 1061
 01:23:27,982 --> 01:23:29,313
 MUSIC
-~ Again ~ 
+~ Again ~
 
 1062
 01:23:30,318 --> 01:23:32,286
 MUSIC
-~ Different strokes for different folks ~ 
+~ Different strokes for different folks ~
 
 1063
 01:23:32,420 --> 01:23:36,015
 MUSIC
-~ Thank you for letting me be myself ~ 
+~ Thank you for letting me be myself ~
 
 1064
 01:23:36,157 --> 01:23:37,647
 MUSIC
-~ Again ~ 
+~ Again ~
 
 1065
 01:23:39,828 --> 01:23:41,318
