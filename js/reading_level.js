@@ -1,9 +1,9 @@
 
 d3.csv("../data/reading_level/shrek3_reading.csv").then(function(data) {
 
-    var width = 600; //width of canvas
+    var width = 500; //width of canvas
     var height = 300; //height of canvas
-    var padding = 20;
+    var padding = 40;
     
     const color = {
         "hero" : "green",
@@ -16,7 +16,6 @@ d3.csv("../data/reading_level/shrek3_reading.csv").then(function(data) {
     var svg = d3.select("body").append("svg")
         .attr("width", width)
         .attr("height", height)
-      .append("g");
     
     // add the tooltip area to the webpage
     var tooltip = d3.select("body").append("div")
