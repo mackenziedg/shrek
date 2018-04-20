@@ -1,7 +1,7 @@
 
 d3.csv("../data/reading_level/shrek3_reading.csv").then(function(data) {
 
-    var width = 500; //width of canvas
+    var width = 700; //width of canvas
     var height = 300; //height of canvas
     var padding = 40;
     
@@ -34,6 +34,20 @@ d3.csv("../data/reading_level/shrek3_reading.csv").then(function(data) {
     var aScale = d3.scaleSqrt()
         .domain([0, d3.max(data, function(d) { return d.vocab; })])
         .range([0, 10]);
+
+    //Define X axis
+	var xAxis = d3.axisBottom()
+        .scale(xScale)
+        .ticks(8)
+        .tickFormat(formatAsPercentage);
+
+    //Define Y axis
+    var yAxis = d3.axisLeft()
+        .scale(yScale)
+        .ticks(5)
+        .tickFormat(formatAsPercentage);
+    
+    var formatAsPercentage = d3.format(".1%");
 
   // draw dots
   svg.selectAll(".dot")
@@ -69,4 +83,16 @@ d3.csv("../data/reading_level/shrek3_reading.csv").then(function(data) {
                .duration(500)
                .style("opacity", 0);
       });
+
+    //Create X axis
+	svg.append("g")
+        .attr("class", "axis")
+        .attr("transform", "translate(0," + (height - padding) + ")")
+        .call(xAxis);
+
+    //Create Y axis
+    svg.append("g")
+        .attr("class", "axis")
+        .attr("transform", "translate(" + padding + ",0)")
+        .call(yAxis);
 });
