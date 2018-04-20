@@ -13,7 +13,7 @@ var margin = {top: 20, right: 20, bottom: 30, left: 40},
 var xValue = function(d) { return d.num_lines;}, // data -> value
     xScale = d3.scaleLinear().range([0, width]), // value -> display
     xMap = function(d) { return xScale(xValue(d));}, // data -> display
-    xAxis = d3.axisBottom()
+    xAxis = d3.axisBottom();
 
 // setup y
 var yValue = function(d) { return d.reading_level;}, // data -> value
@@ -38,7 +38,7 @@ var tooltip = d3.select("body").append("div")
     .attr("class", "tooltip")
     .style("opacity", 0);
 
-d3.csv("../data/reading_level/shrek3_reading.csv", function(data) {
+d3.csv("../data/reading_level/shrek3_reading.csv").then(function(data) {
 
   // don't want dots overlapping axis, so add in buffer to data domain
 xScale.domain([d3.min(data, xValue)-1, d3.max(data, xValue)+1]);
@@ -46,8 +46,6 @@ yScale.domain([d3.min(data, yValue)-1, d3.max(data, yValue)+1]);
 
   // x-axis
   svg.append("g")
-      .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
       .call(xAxis)
     .append("text")
       .attr("class", "label")
@@ -58,7 +56,6 @@ yScale.domain([d3.min(data, yValue)-1, d3.max(data, yValue)+1]);
 
   // y-axis
   svg.append("g")
-      .attr("class", "y axis")
       .call(yAxis)
     .append("text")
       .attr("class", "label")
