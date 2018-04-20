@@ -57,8 +57,10 @@ d3.csv("../data/reading_level/shrek3_reading.csv").then(function(data) {
           tooltip.transition()
                .duration(200)
                .style("opacity", .9);
-          tooltip.html(d.name + "<br/> (" + d.num_lines
-	        + ", " + d.reading_level + ")")
+        
+          tooltip.html(d.name + "<br/> READING LEVEL:" + d.reading_level + "<br/>"
+            + "VOCAB: " + d.vocab + " UNIQUE WORDS"
+            + '<img style="width:100px;height:150px;" src="img/original/' + d.name.toLowerCase().split(' ').join('') + '.jpg" alt="' + d.name + '">')
                .style("left", (d3.event.pageX + 5) + "px")
                .style("top", (d3.event.pageY - 28) + "px");
       })
