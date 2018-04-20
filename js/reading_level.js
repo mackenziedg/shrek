@@ -1,8 +1,12 @@
 
 d3.csv("../data/reading_level/shrek_trilogy_reading.csv").then(function(data) {
 
-    var width = 700; //width of canvas
-    var height = 300; //height of canvas
+    var margin = {top: 20, right: 20, bottom: 50, left: 70},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+    //var width = 700; //width of canvas
+    //var height = 300; //height of canvas
     var padding = 40;
     
     const color = {
@@ -90,9 +94,26 @@ d3.csv("../data/reading_level/shrek_trilogy_reading.csv").then(function(data) {
         .attr("transform", "translate(0," + (height - padding) + ")")
         .call(xAxis);
 
+  // text label for the x axis
+    svg.append("text")             
+      .attr("transform",
+            "translate(" + (width/2) + " ," + 
+                           (height) + ")")
+      .style("text-anchor", "middle")
+      .text("Number of Lines");
+
     //Create Y axis
     svg.append("g")
         .attr("class", "axis")
         .attr("transform", "translate(" + padding + ",0)")
         .call(yAxis);
+  // text label for the y axis
+    svg.append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 0)
+      .attr("x",-200)
+      .attr("dy", "1em")
+      .style("text-anchor", "middle")
+      .text("Flesch Kincaid Score");      
+
 });
