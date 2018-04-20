@@ -1,17 +1,17 @@
-,name,reading_level,num_lines,group
-0,SHREK,1.4,808,hero
-1,MUSIC,4.6,310,supporting
-3,GUARD,1.3,25,villain
-5,DONKEY,1.6,655,hero
-14,FARQUAAD,1.5,99,villain
-16,MIRROR,4.8,23,villain
-23,FIONA,1.35,362,hero
-0,PRINCE CHARMING,3.25,186,villain
-8,GINGY,0.8,23,supporting
-13,KING,1.4,108,supporting
-14,QUEEN,1.3,33,supporting
-16,FAIRY GODMOTHER,1.3,160,villain
-21,PUSS,2.6,134,hero
-36,ARTIE,1.5,106,supporting
-41,SNOW WHITE,2.6,29,supporting
-51,MERLIN,4.2,48,supporting
+,name,reading_level,num_lines,group,vocab
+0,SHREK,1.4,808,hero,200
+1,MUSIC,4.6,310,supporting,300
+3,GUARD,1.3,25,villain,100
+5,DONKEY,1.6,655,hero,400
+14,FARQUAAD,1.5,99,villain,1100
+16,MIRROR,4.8,23,villain,200
+23,FIONA,1.35,362,hero,899
+0,PRINCE CHARMING,3.25,186,villain,349
+8,GINGY,0.8,23,supporting,340
+13,KING,1.4,108,supporting,120
+14,QUEEN,1.3,33,supporting,115
+16,FAIRY GODMOTHER,1.3,160,villain,334
+21,PUSS,2.6,134,hero,450
+36,ARTIE,1.5,106,supporting,102
+41,SNOW WHITE,2.6,29,supporting,231
+51,MERLIN,4.2,48,supporting,392

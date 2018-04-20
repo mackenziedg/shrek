@@ -1,5 +1,5 @@
 
-d3.csv("../data/reading_level/shrek3_reading.csv").then(function(data) {
+d3.csv("../data/reading_level/shrek_trilogy_reading.csv").then(function(data) {
 
     var width = 700; //width of canvas
     var height = 300; //height of canvas
