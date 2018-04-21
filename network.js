@@ -3,7 +3,7 @@ var section = d3.select("#content")
               .attr("class", "section center black tk-futura-pt")
               .attr("style", "position:relative; background-color:#F7F7F7;");
 
-var w = 500;
+var w = section.node().getBoundingClientRect().width;
 var h = 500;
 
 var svg = section.append("svg")
@@ -53,19 +53,27 @@ d3.json("./data/shrek_all_network.json", function(err, data){
 
     var r = 5;
 
-    var links = svg.selectAll("line")
+    var links = svg.append("g")
+        .attr("class", "link")
+        .selectAll("line")
         .data(edges)
         .enter()
         .append("line")
         .attr("stroke", "#000000");
 
-    var circles = svg.selectAll("circle")
+    var circles = svg.append("g")
+       .attr("class", "node")
+       .selectAll("circle")
        .data(nodes)
        .enter()
        .append("circle")
        .attr("fill", function(d) {return evil_colors[char_desc[d.id].evil]})
        // .attr("fill", function(d) {return first_app_colors[char_desc[d.id].first_app]})
-       .attr("r", function(d) {return 2*Math.log(parseInt(d.word_count))});
+       .attr("r", function(d) {return 2*Math.log(parseInt(d.word_count))})
+       .call(d3.drag()
+               .on("start", dragstarted)
+               .on("drag", dragged)
+               .on("end", dragended));
 
     simulation.on("tick", ticked);
 
@@ -79,4 +87,21 @@ d3.json("./data/shrek_all_network.json", function(err, data){
            .attr("y2", function(d){return d.target.y});
     };
 
+    function dragstarted(d) {
+      if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+      d.fx = d.x;
+      d.fy = d.y;
+    }
+
+    function dragged(d) {
+        d.fx = d3.event.x;
+        d.fy = d3.event.y;
+    }
+
+
+    function dragended(d) {
+      if (!d3.event.active) simulation.alphaTarget(0);
+      d.fx = null;
+      d.fy = null;
+    }
 });
