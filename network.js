@@ -15,7 +15,7 @@ var main_colors = {"0": "#f7c0bb", "1": "#acd0f4"};
 var first_app_colors = {"1": "#f7c0bb", "2": "#8690ff", "3": "#7fd4c1"};
 
 var char_desc = {
-    "GINGY": {"evil": "0", "main": "0", "first_app": "1", "visible": "0"},
+    "GINGY": {"evil": "0", "main": "0", "first_app": "1", "visible": "1"},
     "RAPUNZEL": {"evil": "1", "main": "1", "first_app": "3", "visible": "1"},
     "PRINCE CHARMING": {"evil": "1", "main": "1", "first_app": "2", "visible": "1"},
     "MIRROR": {"evil": "1", "main": "0", "first_app": "1", "visible": "1"},
@@ -51,7 +51,9 @@ d3.json("./data/shrek_all_network.json", function(err, data){
                            .strength(-800))
         .force("center", d3.forceCenter(w/2, h/2));
 
-    var r = 5;
+    var textColor = "#333";
+    var highlightColor = "#000";
+    var linkColor = "#000";
 
     var links = svg.append("g")
         .attr("class", "link")
@@ -59,7 +61,7 @@ d3.json("./data/shrek_all_network.json", function(err, data){
         .data(edges)
         .enter()
         .append("line")
-        .attr("stroke", "#000000");
+        .attr("stroke", linkColor);
 
     var circles = svg.append("g")
        .attr("class", "node")
@@ -69,11 +71,22 @@ d3.json("./data/shrek_all_network.json", function(err, data){
        .append("circle")
        .attr("fill", function(d) {return evil_colors[char_desc[d.id].evil]})
        // .attr("fill", function(d) {return first_app_colors[char_desc[d.id].first_app]})
-       .attr("r", function(d) {return 2*Math.log(parseInt(d.word_count))})
+       .attr("r", function(d) {return scaleCounts(d.word_count)})
+       .attr("id", function(d){return "circle"+d.id.replace(" ", "-");}) 
        .call(d3.drag()
                .on("start", dragstarted)
                .on("drag", dragged)
-               .on("end", dragended));
+               .on("end", dragended))
+        .on("mouseover", function(d){
+            var name = d3.select(this).attr("id").slice(6);
+            var textObj = d3.select("#text"+name);
+            highlightText(textObj);
+        })
+        .on("mouseout", function(d){
+            var name = d3.select(this).attr("id").slice(6);
+            var textObj = d3.select("#text"+name);
+            dehighlightText(textObj);
+        });
 
     var names = svg.append("g")
        .attr("class", "names")
@@ -84,18 +97,25 @@ d3.json("./data/shrek_all_network.json", function(err, data){
        .text(function(d, i){return d;})
        .attr("x", 20)
        .attr("y", function(d, i){return 20+i*18;})
+       .attr("fill", textColor)
        .attr("style", function(d){return "opacity:"+(char_desc[d].visible==="1"?"1.0":"0.5")+";";})
-       .attr("id", function(d){return "name"+d.replace(" ", "-");})
+       .attr("id", function(d){return "text"+d.replace(" ", "-");})
+       .on("mouseover", function(d){
+          var name = d3.select(this).attr("id").slice(4);
+          var circleObj = d3.select("#circle"+name);
+          highlightCircle(circleObj);
+       })
+       .on("mouseout", function(d){
+          var name = d3.select(this).attr("id").slice(4);
+          var circleObj = d3.select("#circle"+name);
+          dehighlightCircle(circleObj);
+       })
        .on("click", function(d){
            char_desc[d].visible = (char_desc[d].visible==="1"?"0":"1");
-           swapTextOpacity(d);
+           var textObj = d3.select("#text"+d.replace(" ", "-"));
+           var circleObj = d3.select("#circle"+d.replace(" ", "-"));
+           swapTextOpacity(textObj);
        });
-
-    function swapTextOpacity(d){
-        console.log("#name"+d);
-        d3.select("#name"+d.replace(" ", "-"))
-          .attr("style", function(d){return "opacity:"+(char_desc[d].visible==="1"?"1.0":"0.5")+";";})
-    }
 
     simulation.on("tick", ticked);
 
@@ -108,6 +128,33 @@ d3.json("./data/shrek_all_network.json", function(err, data){
            .attr("y1", function(d){return d.source.y})
            .attr("y2", function(d){return d.target.y});
     };
+
+    function highlightCircle(d){
+        d.attr("stroke-width", "5")
+        .attr("stroke", "#000");
+    }
+
+    function dehighlightCircle(d){
+        d.attr("stroke-width", "0");
+    }
+
+    function swapTextOpacity(d){
+        d.attr("style", function(d){return "opacity:"+(char_desc[d].visible==="1"?"1.0":"0.5")+";";})
+    }
+    
+    function highlightText(d){
+        d.attr("fill", highlightColor)
+         .attr("style", "font-weight: bold;");
+    }
+
+    function dehighlightText(d){
+        d.attr("fill", textColor)
+         .attr("style", "font-weight: normal");
+    }
+
+    function scaleCounts(n){
+        return 2*Math.log(+n);
+    }
 
     function dragstarted(d) {
       if (!d3.event.active) simulation.alphaTarget(0.3).restart();
