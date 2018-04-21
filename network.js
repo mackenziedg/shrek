@@ -15,24 +15,24 @@ var main_colors = {"0": "#f7c0bb", "1": "#acd0f4"};
 var first_app_colors = {"1": "#f7c0bb", "2": "#8690ff", "3": "#7fd4c1"};
 
 var char_desc = {
-    "GINGY": {"evil": "0", "main": "0", "first_app": "1"},
-    "RAPUNZEL": {"evil": "1", "main": "1", "first_app": "3"},
-    "PRINCE CHARMING": {"evil": "1", "main": "1", "first_app": "2"},
-    "MIRROR": {"evil": "1", "main": "0", "first_app": "1"},
-    "PUSS": {"evil": "0", "main": "1", "first_app": "2"},
-    "GUARD": {"evil": "1", "main": "0", "first_app": "1"},
-    "MERLIN": {"evil": "0", "main": "0", "first_app": "3"},
-    "QUEEN": {"evil": "0", "main": "0", "first_app": "2"},
-    "KING HAROLD": {"evil": "0", "main": "0", "first_app": "2"},
-    "FIONA": {"evil": "0", "main": "1", "first_app": "1"},
-    "DONKEY": {"evil": "0", "main": "1", "first_app": "1"},
-    "ARTIE": {"evil": "0", "main": "1", "first_app": "2"},
-    "SNOW WHITE": {"evil": "0", "main": "0", "first_app": "1"},
-    "SHREK": {"evil": "0", "main": "1", "first_app": "1"},
-    "ROBIN HOOD": {"evil": "1", "main": "0", "first_app": "1"},
-    "FARQUAAD": {"evil": "1", "main": "1", "first_app": "1"},
-    "FAIRY GODMOTHER": {"evil": "1", "main": "1", "first_app": "2"},
-    "PINOCCHIO": {"evil": "0", "main": "0", "first_app": "1"}
+    "GINGY": {"evil": "0", "main": "0", "first_app": "1", "visible": "0"},
+    "RAPUNZEL": {"evil": "1", "main": "1", "first_app": "3", "visible": "1"},
+    "PRINCE CHARMING": {"evil": "1", "main": "1", "first_app": "2", "visible": "1"},
+    "MIRROR": {"evil": "1", "main": "0", "first_app": "1", "visible": "1"},
+    "PUSS": {"evil": "0", "main": "1", "first_app": "2", "visible": "1"},
+    "GUARD": {"evil": "1", "main": "0", "first_app": "1", "visible": "1"},
+    "MERLIN": {"evil": "0", "main": "0", "first_app": "3", "visible": "1"},
+    "QUEEN": {"evil": "0", "main": "0", "first_app": "2", "visible": "1"},
+    "KING HAROLD": {"evil": "0", "main": "0", "first_app": "2", "visible": "1"},
+    "FIONA": {"evil": "0", "main": "1", "first_app": "1", "visible": "1"},
+    "DONKEY": {"evil": "0", "main": "1", "first_app": "1", "visible": "1"},
+    "ARTIE": {"evil": "0", "main": "1", "first_app": "2", "visible": "1"},
+    "SNOW WHITE": {"evil": "0", "main": "0", "first_app": "1", "visible": "1"},
+    "SHREK": {"evil": "0", "main": "1", "first_app": "1", "visible": "1"},
+    "ROBIN HOOD": {"evil": "1", "main": "0", "first_app": "1", "visible": "1"},
+    "FARQUAAD": {"evil": "1", "main": "1", "first_app": "1", "visible": "1"},
+    "FAIRY GODMOTHER": {"evil": "1", "main": "1", "first_app": "2", "visible": "1"},
+    "PINOCCHIO": {"evil": "0", "main": "0", "first_app": "1", "visible": "1"}
 };
 
 
@@ -74,6 +74,28 @@ d3.json("./data/shrek_all_network.json", function(err, data){
                .on("start", dragstarted)
                .on("drag", dragged)
                .on("end", dragended));
+
+    var names = svg.append("g")
+       .attr("class", "names")
+       .selectAll("text")
+       .data(Object.keys(char_desc))
+       .enter()
+       .append("text")
+       .text(function(d, i){return d;})
+       .attr("x", 20)
+       .attr("y", function(d, i){return 20+i*18;})
+       .attr("style", function(d){return "opacity:"+(char_desc[d].visible==="1"?"1.0":"0.5")+";";})
+       .attr("id", function(d){return "name"+d.replace(" ", "-");})
+       .on("click", function(d){
+           char_desc[d].visible = (char_desc[d].visible==="1"?"0":"1");
+           swapTextOpacity(d);
+       });
+
+    function swapTextOpacity(d){
+        console.log("#name"+d);
+        d3.select("#name"+d.replace(" ", "-"))
+          .attr("style", function(d){return "opacity:"+(char_desc[d].visible==="1"?"1.0":"0.5")+";";})
+    }
 
     simulation.on("tick", ticked);
 
