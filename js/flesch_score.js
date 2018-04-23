@@ -10,10 +10,25 @@ function updateScore() {
 // calculate sentences
 // Calculate words
 // Calculate syllables
+
+function countSentences(text){
+    var re = /\w[.?!](\s|$)/g;
+    return ((text || '').match(re) || []).length
+}
+
+function countWords(text){
+    var re = /\S+/g;
+    return (( text || '').match(re) || []).length
+}
+
+function countSyllables(text){
+
+}
+
 function createCounts(text){
-    var sentences = 1.0;
-    var words = 10.0;
-    var syllables = 10.0;
+    var sentences = countSentences(text);
+    var words = countWords(text);
+    var syllables = countSyllables(text);
 
     return {"word": words,
             "sentence": sentences,
