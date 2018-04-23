@@ -17,12 +17,12 @@ d3.csv("../data/reading_level/shrek_trilogy_reading.csv").then(function(data) {
     
     console.log("RUNNIN");
     // add the graph canvas to the body of the webpage
-    var svg = d3.select("body").append("svg")
+    var svg = d3.select("#read_chart").append("svg")
         .attr("width", width)
         .attr("height", height)
     
     // add the tooltip area to the webpage
-    var tooltip = d3.select("body").append("div")
+    var tooltip = d3.select("#read_chart").append("div")
         .attr("class", "tooltip")
         .style("opacity", 0);
 
