@@ -1,7 +1,7 @@
 function updateScore() {
     console.log("RUNNIN");
     var text = document.getElementById('reading_level').value
-    console.log(text);
+    text = text + " ";
     var counts = createCounts(text);
     var reading_level = calculateReadingLevel(counts);
     return reading_level;

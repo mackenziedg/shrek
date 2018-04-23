@@ -53,7 +53,18 @@ button.is-selected {
     margin-right: .5em;
 }
 
-.flesch--test input{
-    position: relative;
-    margin-top: 50px; 
+.flesch--test textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Publico Text Web',Georgia,Times,serif;
+    font-size: 16px; 
+}
+
+.flesch--test #flesch_num{
+    font-family: 'Publico Text Web',Georgia,Times,serif;
+    font-size: 28px; 
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
