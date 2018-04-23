@@ -52,3 +52,8 @@ button.is-selected {
     vertical-align: middle;
     margin-right: .5em;
 }
+
+.flesch--test input{
+    position: relative;
+    margin-top: 50px; 
+}
