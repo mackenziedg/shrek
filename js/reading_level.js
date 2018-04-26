@@ -117,3 +117,55 @@ d3.csv("../data/reading_level/shrek_trilogy_reading.csv").then(function(data) {
       .text("Flesch Kincaid Score");      
 
 });
+
+d3.select("button#trilogy")
+    .on("click", function(){
+        d3.select(".is-selected")
+            .attr("class", "small")
+        d3.select("button#trilogy")
+            .attr("class", "small is-selected")
+        d3.csv("../data/reading_level/shrek_trilogy_reading.csv").then(function(data) {
+            //do redrawing here
+        });
+        console.log("dankdank");
+    });
+
+d3.select("button#shrek")
+    .on("click", function(){
+        d3.select(".is-selected")
+            .attr("class", "small")
+        d3.select("button#shrek")
+            .attr("class", "small is-selected")
+        d3.csv("../data/reading_level/shrek_reading.csv").then(function(data){
+            //do redrawing here
+
+    });
+        console.log("shrek 1");
+    });
+
+d3.select("button#shrek2")
+    .on("click", function(){
+        //first, make sure the button is selected
+        d3.select(".is-selected")
+            .attr("class", "small")
+        d3.select("button#shrek2")
+            .attr("class", "small is-selected")
+        d3.csv("../data/reading_level/shrek2_reading.csv").then(function(data){
+            //do redrawing here
+
+        });
+        console.log("shrek 2");
+    });
+
+d3.select("button#shrek3")
+    .on("click", function(){
+        d3.select(".is-selected")
+            .attr("class", "small")
+        d3.select("button#shrek3")
+            .attr("class", "small is-selected")
+        d3.csv("../data/reading_level/shrek2_reading.csv").then(function(data){
+            //do redrawing here
+
+        });
+        console.log("shrek 3");
+    });

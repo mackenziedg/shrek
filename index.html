@@ -1,35 +1,53 @@
+
 <!doctype html>
-<html lang='en' data-version='1517590327349'>
+<html lang='en' data-version='1505310653197'>
 
 <head>
 	<script src='js/d3.js'></script>
-	<script src='js/reading_level.js' async></script>
-	<script src='js/flesch_score.js'  async></script>
+
+	
 	<title>Shrek Dialogue in 3 Charts</title>
 	<meta charset='utf-8'>
 	<meta name='viewport' content='width=device-width, initial-scale=1'>
 	<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
-	<meta name='description' content='A retrospective on what your favorite characters contributed to the trilogy.' />	
-	<link rel='canonical' href='https://pudding.cool/year/month/name/' />
-	<!-- smoosh -->
+	<meta name='description' content='Analyzing gender tropes in film with screen direction from 2,000 scripts.' />
+	<meta name='news_keywords' content='Film, gender, screen, direction, script, acting, male, female, data, analysis' />
 	
-	<!-- endsmoosh -->
-
-	<link rel="stylesheet" href="critical.css" />
-	<link rel="stylesheet" href="bundle.css" />
-	<link rel="stylesheet" href="shrek.css"/>
+	<meta property='og:title' content='She Giggles, He Gallops' />
+	<meta property='og:site_name' content='The Pudding' />
+	<meta property='og:url' content='https://pudding.cool/2017/08/screen-direction' />
+	<meta property='og:description' content='Analyzing gender tropes in film with screen direction from 2,000 scripts.' />
+	<meta property='og:type' content='article' />
+	<meta property='og:locale' content='en_US' />
+	
+	<meta property='og:image' content='https://pudding.cool/2017/08/screen-direction/assets/img/og-img.png' />
+	<meta property='og:image:type' content='image/jpeg' />
+	<meta property='og:image:width' content='1200' />
+	<meta property='og:image:height' content='600' />
+	
+	<meta name='twitter:card' content='summary_large_image'>
+	<meta name='twitter:site' content='https://pudding.cool'>
+	<meta name='twitter:creator' content='@juliasilge'>
+	<meta name='twitter:title' content='She Giggles, He Gallops'>
+	<meta name='twitter:description' content='Analyzing gender tropes in film with screen direction from 2,000 scripts.'>
+	<meta name='twitter:image:src' content='https://pudding.cool/2017/08/screen-direction/assets/img/og-img.png'>
 		
+	<link rel="stylesheet" href="shrek.css"/>
+	<!-- boilerplate.css -->
 
 	<style>
-
-		@font-face {
-			font-family: 'Canela Web';
-			src: url('https://pudding.cool/assets/fonts/canela/Canela-Light-Web.woff2') format('woff2'),
-			url('https://pudding.cool/assets/fonts/canela/Canela-Light-Web.woff') format('woff');
-			font-weight: 300;
-			font-style: normal;
-			font-stretch: normal;
-		}
+		/*
+	        This font software is the property of Commercial Type.
+	
+	        You may not modify the font software, use it on another website, or install it on a computer.
+	
+	        License information is available at http://commercialtype.com/eula
+	        For more information please visit Commercial Type at http://commercialtype.com or email us at info[at]commercialtype.com
+	
+	        Copyright (C) 2017 Schwartzco Inc.
+	        License: 1704-GNCLGK     
+	*/
+		/* Canela */
 	
 		@font-face {
 			font-family: 'Canela Web';
@@ -67,7 +85,7 @@
 			font-style: italic;
 			font-stretch: normal;
 		}
-		
+
 		@font-face {
 			font-family: 'Atlas Grotesk Web';
 			src: url('https://pudding.cool/assets/fonts/atlas/AtlasGrotesk-Regular-Web.woff2') format('woff2'),
@@ -95,118 +113,130 @@
 			font-stretch: normal;
 		}
 	</style>
-	<!-- smoosh -->
-	<script src='critical.js'></script>
-	<!-- endsmoosh -->
-
-	<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-	
-		ga('create', 'UA-90567923-1', 'auto');
-		ga('send', 'pageview');
-	</script>
 </head>
 
 <body class='tk-publico'>
 
 	<a href='#content' class='skip-to-main'>Skip to main content</a>
-	
 	<header>
-		<a href='http://trashmission.com' target='_blank' class='logo'>
-<svg width="350.91px" height="47.52px" viewBox="0 0 881 339" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <rect id="path-1" x="0" y="0" width="881" height="339"></rect>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="log2">
-            <g id="Rectangle">
-                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
-                <rect stroke="#FFFFFF" stroke-width="1" x="0.5" y="0.5" width="880" height="338"></rect>
-            </g>
-            <g id="logo" transform="translate(70.000000, 27.000000)" fill="#000000">
-                <g>
-                    <g>
-                        <g id="trash_eye" transform="translate(0.000000, 14.000000)" fill-rule="evenodd" stroke-width="1">
-                            <g id="noun_534211_cc">
-                                <g>
-                                    <g id="Group" transform="translate(33.000000, 0.000000)" fill-rule="nonzero">
-                                        <path d="M222.148438,234.890391 C225.005688,237.041578 229.657312,237.041578 232.514562,234.890391 C235.382812,232.739203 235.382812,229.258734 232.514562,227.115797 C229.657312,224.956359 225.005687,224.956359 222.148438,227.115797 C219.280188,229.258734 219.280188,232.739203 222.148438,234.890391 Z" id="Shape"></path>
-                                        <path d="M285.225188,41.5408125 L270.552563,19.5421875 C269.317125,17.6771719 266.771313,16.5010312 264,16.5010312 L227.326,16.5010312 L220,16.5010312 L154,16.5010312 L154,5.49965625 C154,2.46210937 150.713063,0.00103125 146.663,0.00103125 L88.0006875,0.00103125 C83.9513125,0.00103125 80.664375,2.46210937 80.664375,5.49965625 L80.664375,16.5010312 L7.327375,16.5010312 C3.278,16.5010312 0.001375,18.9621094 0.001375,21.9996562 L0.001375,44.0018906 L0.001375,66.0005156 C0.001375,66.8543906 0.2591875,67.6964062 0.7748125,68.4615937 L29.327375,111.298687 L29.327375,203.4945 C29.327375,204.107062 29.4243125,218.479078 37.191,233.045484 C47.9868125,253.29975 68.0961875,263.998969 95.327375,263.998969 L227.326688,263.998969 C251.593375,263.998969 271.326688,249.190734 271.326688,230.998969 C271.326688,214.676344 255.449563,201.0855 234.663688,198.459422 L234.663688,44.0018906 L234.663688,27.5018906 L259.467313,27.5018906 L272.100125,46.4588437 C273.389188,48.3883125 275.978313,49.5 278.674,49.5 C279.769875,49.5 280.887063,49.3148906 281.939625,48.9199219 C285.568938,47.5633125 287.029875,44.2560937 285.225188,41.5408125 Z M95.3266875,11.0024063 L139.326687,11.0024063 L139.326687,16.5010313 L95.3266875,16.5010313 L95.3266875,11.0024063 Z M50.9403125,229.210266 C44.119625,216.593437 44.001375,203.623406 44.001375,203.4945 L44.001375,110.001375 C44.001375,109.1475 43.7325625,108.305484 43.2279375,107.540297 L14.664375,64.7032031 L14.664375,49.5005156 L220,49.5005156 L220,198.458906 C199.214125,201.0855 183.326,214.675828 183.326,230.998453 C183.326,239.441812 187.58025,247.160203 194.5625,252.992953 L95.3266875,252.992953 C74.41225,252.993469 59.4804375,245.001281 50.9403125,229.210266 Z M256.663,230.998969 C256.663,243.132141 243.503562,252.993469 227.326,252.993469 C211.15875,252.993469 198,243.132141 198,230.998969 C198,218.865797 211.159437,209.004469 227.326,209.004469 C243.50425,209.004469 256.663,218.865797 256.663,230.998969 Z M220,38.4996562 L14.664375,38.4996562 L14.664375,27.5024063 L88.0006875,27.5024063 L146.663,27.5024063 L220,27.5024063 L220,38.4996562 Z" id="Shape"></path>
-                                    </g>
-                                    <text id="Created-by-lastspark" font-family="Helvetica-Bold, Helvetica" font-size="5" font-weight="bold">
-                                    </text>
-                                    <text id="from-the-Noun-Project" font-family="Helvetica-Bold, Helvetica" font-size="5" font-weight="bold">
-                                    </text>
-                                </g>
-                            </g>
-                            <g id="noun_1672463_cc" transform="translate(100.000000, 103.000000)">
-                                <path d="M4.30510225,43.7001286 C11.9423673,53.6000935 34.6608139,80 61.5362528,80 C88.4116918,80 111.130138,53.6000935 118.767403,43.7001286 C120.410866,41.5001363 120.410866,38.4001473 118.767403,36.3001548 C111.130138,26.4001898 88.4116918,0.000283307359 61.5362528,0.000283307359 C34.6608139,-0.0997163385 11.9423673,26.3001902 4.30510225,36.2001551 C2.56496592,38.4001473 2.56496592,41.5001363 4.30510225,43.7001286 Z M61.5362528,15.900227 C74.3939269,15.900227 84.7380706,26.6001891 84.7380706,39.900142 C84.7380706,53.2000949 74.3939269,63.900057 61.5362528,63.900057 C48.6785788,63.900057 38.334435,53.2000949 38.334435,39.900142 C38.334435,26.6001891 48.6785788,15.900227 61.5362528,15.900227 Z" id="Shape" fill-rule="nonzero"></path>
-                                <text id="Created-by-Andrey" font-family="Helvetica-Bold, Helvetica" font-size="5" font-weight="bold">
-                                </text>
-                                <text id="from-the-Noun-Project" font-family="Helvetica-Bold, Helvetica" font-size="5" font-weight="bold">
-                                </text>
-                            </g>
-                        </g>
-                        <g id="noun_771497_cc" stroke-width="1" fill-rule="evenodd" transform="translate(145.000000, 146.000000)">
-                            <g id="Group" transform="translate(5.000000, 0.000000)" fill-rule="nonzero">
-                                <path d="M1.80964286,1.9757623 C-0.604392857,4.43594656 -0.602035714,8.39472033 1.80964286,10.8572885 L12.4933214,21.7699738 C16.0586786,18.1366197 19.6240714,14.5032656 23.1893929,10.8699115 C25.6035357,8.40972361 25.6035357,4.44855869 23.1893929,1.98837443 C20.7752857,-0.471809836 16.8882857,-0.471842295 14.4741429,1.98837443 L12.5057143,3.99429475 L10.5249643,1.9757623 C8.11082143,-0.484421967 4.22382143,-0.484421967 1.80964286,1.9757623 Z" id="Shape"></path>
-                            </g>
-                            <text id="Created-by-Alfa-Design" font-family="Helvetica-Bold, Helvetica" font-size="5" font-weight="bold">
-                            </text>
-                            <text id="from-the-Noun-Project" font-family="Helvetica-Bold, Helvetica" font-size="5" font-weight="bold">
-                            </text>
-                        </g>
-                        <g id="trashmission" transform="translate(254.000000, 0.000000)" font-family="Superclarendon-Regular, Superclarendon" font-size="86" font-weight="normal" text-decoration="underline">
-                            <text id="Mission">
-                                <tspan x="49" y="214.020455">Mission</tspan>
-                            </text>
-                        </g>
-                    </g>
-                </g>
-                <text id="Trash" font-family="Krungthep" font-size="70" font-weight="bold">
-                    <tspan x="300" y="134">Trash</tspan>
-                </text>
-            </g>
-        </g>
-    </g>
-</svg>
+		<a href='trashmission.com' target='_blank' class='logo'>
+				<svg width="350.91px" height="47.52px" viewBox="0 0 881 339" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+					<!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+					<desc>Created with Sketch.</desc>
+					<defs>
+						<rect id="path-1" x="0" y="0" width="881" height="339"></rect>
+					</defs>
+					<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+						<g id="log2">
+							<g id="Rectangle">
+								<use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+								<rect stroke="#FFFFFF" stroke-width="1" x="0.5" y="0.5" width="880" height="338"></rect>
+							</g>
+							<g id="logo" transform="translate(70.000000, 27.000000)" fill="#000000">
+								<g>
+									<g>
+										<g id="trash_eye" transform="translate(0.000000, 14.000000)" fill-rule="evenodd" stroke-width="1">
+											<g id="noun_534211_cc">
+												<g>
+													<g id="Group" transform="translate(33.000000, 0.000000)" fill-rule="nonzero">
+														<path d="M222.148438,234.890391 C225.005688,237.041578 229.657312,237.041578 232.514562,234.890391 C235.382812,232.739203 235.382812,229.258734 232.514562,227.115797 C229.657312,224.956359 225.005687,224.956359 222.148438,227.115797 C219.280188,229.258734 219.280188,232.739203 222.148438,234.890391 Z" id="Shape"></path>
+														<path d="M285.225188,41.5408125 L270.552563,19.5421875 C269.317125,17.6771719 266.771313,16.5010312 264,16.5010312 L227.326,16.5010312 L220,16.5010312 L154,16.5010312 L154,5.49965625 C154,2.46210937 150.713063,0.00103125 146.663,0.00103125 L88.0006875,0.00103125 C83.9513125,0.00103125 80.664375,2.46210937 80.664375,5.49965625 L80.664375,16.5010312 L7.327375,16.5010312 C3.278,16.5010312 0.001375,18.9621094 0.001375,21.9996562 L0.001375,44.0018906 L0.001375,66.0005156 C0.001375,66.8543906 0.2591875,67.6964062 0.7748125,68.4615937 L29.327375,111.298687 L29.327375,203.4945 C29.327375,204.107062 29.4243125,218.479078 37.191,233.045484 C47.9868125,253.29975 68.0961875,263.998969 95.327375,263.998969 L227.326688,263.998969 C251.593375,263.998969 271.326688,249.190734 271.326688,230.998969 C271.326688,214.676344 255.449563,201.0855 234.663688,198.459422 L234.663688,44.0018906 L234.663688,27.5018906 L259.467313,27.5018906 L272.100125,46.4588437 C273.389188,48.3883125 275.978313,49.5 278.674,49.5 C279.769875,49.5 280.887063,49.3148906 281.939625,48.9199219 C285.568938,47.5633125 287.029875,44.2560937 285.225188,41.5408125 Z M95.3266875,11.0024063 L139.326687,11.0024063 L139.326687,16.5010313 L95.3266875,16.5010313 L95.3266875,11.0024063 Z M50.9403125,229.210266 C44.119625,216.593437 44.001375,203.623406 44.001375,203.4945 L44.001375,110.001375 C44.001375,109.1475 43.7325625,108.305484 43.2279375,107.540297 L14.664375,64.7032031 L14.664375,49.5005156 L220,49.5005156 L220,198.458906 C199.214125,201.0855 183.326,214.675828 183.326,230.998453 C183.326,239.441812 187.58025,247.160203 194.5625,252.992953 L95.3266875,252.992953 C74.41225,252.993469 59.4804375,245.001281 50.9403125,229.210266 Z M256.663,230.998969 C256.663,243.132141 243.503562,252.993469 227.326,252.993469 C211.15875,252.993469 198,243.132141 198,230.998969 C198,218.865797 211.159437,209.004469 227.326,209.004469 C243.50425,209.004469 256.663,218.865797 256.663,230.998969 Z M220,38.4996562 L14.664375,38.4996562 L14.664375,27.5024063 L88.0006875,27.5024063 L146.663,27.5024063 L220,27.5024063 L220,38.4996562 Z" id="Shape"></path>
+													</g>
+													<text id="Created-by-lastspark" font-family="Helvetica-Bold, Helvetica" font-size="5" font-weight="bold">
+													</text>
+													<text id="from-the-Noun-Project" font-family="Helvetica-Bold, Helvetica" font-size="5" font-weight="bold">
+													</text>
+												</g>
+											</g>
+											<g id="noun_1672463_cc" transform="translate(100.000000, 103.000000)">
+												<path d="M4.30510225,43.7001286 C11.9423673,53.6000935 34.6608139,80 61.5362528,80 C88.4116918,80 111.130138,53.6000935 118.767403,43.7001286 C120.410866,41.5001363 120.410866,38.4001473 118.767403,36.3001548 C111.130138,26.4001898 88.4116918,0.000283307359 61.5362528,0.000283307359 C34.6608139,-0.0997163385 11.9423673,26.3001902 4.30510225,36.2001551 C2.56496592,38.4001473 2.56496592,41.5001363 4.30510225,43.7001286 Z M61.5362528,15.900227 C74.3939269,15.900227 84.7380706,26.6001891 84.7380706,39.900142 C84.7380706,53.2000949 74.3939269,63.900057 61.5362528,63.900057 C48.6785788,63.900057 38.334435,53.2000949 38.334435,39.900142 C38.334435,26.6001891 48.6785788,15.900227 61.5362528,15.900227 Z" id="Shape" fill-rule="nonzero"></path>
+												<text id="Created-by-Andrey" font-family="Helvetica-Bold, Helvetica" font-size="5" font-weight="bold">
+												</text>
+												<text id="from-the-Noun-Project" font-family="Helvetica-Bold, Helvetica" font-size="5" font-weight="bold">
+												</text>
+											</g>
+										</g>
+										<g id="noun_771497_cc" stroke-width="1" fill-rule="evenodd" transform="translate(145.000000, 146.000000)">
+											<g id="Group" transform="translate(5.000000, 0.000000)" fill-rule="nonzero">
+												<path d="M1.80964286,1.9757623 C-0.604392857,4.43594656 -0.602035714,8.39472033 1.80964286,10.8572885 L12.4933214,21.7699738 C16.0586786,18.1366197 19.6240714,14.5032656 23.1893929,10.8699115 C25.6035357,8.40972361 25.6035357,4.44855869 23.1893929,1.98837443 C20.7752857,-0.471809836 16.8882857,-0.471842295 14.4741429,1.98837443 L12.5057143,3.99429475 L10.5249643,1.9757623 C8.11082143,-0.484421967 4.22382143,-0.484421967 1.80964286,1.9757623 Z" id="Shape"></path>
+											</g>
+											<text id="Created-by-Alfa-Design" font-family="Helvetica-Bold, Helvetica" font-size="5" font-weight="bold">
+											</text>
+											<text id="from-the-Noun-Project" font-family="Helvetica-Bold, Helvetica" font-size="5" font-weight="bold">
+											</text>
+										</g>
+										<g id="trashmission" transform="translate(254.000000, 0.000000)" font-family="Superclarendon-Regular, Superclarendon" font-size="86" font-weight="normal" text-decoration="underline">
+											<text id="Mission">
+												<tspan x="49" y="214.020455">Mission</tspan>
+											</text>
+										</g>
+									</g>
+								</g>
+								<text id="Trash" font-family="Krungthep" font-size="70" font-weight="bold">
+									<tspan x="300" y="134">Trash</tspan>
+								</text>
+							</g>
+						</g>
+					</g>
+				</svg>
+
 		</a>
 	</header>
 	<main id='content'>
-
-			<div class='intro'>
-		
-					<div class='intro__bg'>
-						<video src='assets/shrek_dark.mp4' poster='video/shrek_dark.png' muted preload autoplay loop playsinline></video>
-						<div class='intro__overlay'></div>
-					</div>
-				
-					<div class='intro__content'>
-				
-						<h1 class='intro__hed'>Shrek Dialogue in 3 Charts</h1>
-						<p class='intro__dek'>A retrospective on what your favorite characters contributed to the trilogy.</p>
-						<p class='intro__byline'>By
-							<a href='https://github.com/SJCaldwell' target='_blank' style='color:white;'>
-								<strong>Shane Caldwell, Mac Gray, and David Duffrin</strong>
-							</a>
-						</p>
-					</div>
-				</div>
-				<div class='intro__prose'>
-				<div class='intro__video'>
-					<video src='assets/shrek_dark.mp4' poster='video/shrek_dark.png' muted preload autoplay loop playsinline></video>
-					<div class='intro__overlay'></div>
-				</div>
-					
-
+		<div class='intro'>
+			<div class='intro__video'>
+				<video src='/video/shrek_dark.mp4' preload autoplay muted loop></video>
+				<div class='intro__overlay'></div>
+			</div>
+			<div class='intro__content'>
+				<h1 class='intro__hed tk-canela'>Shrek Dialogue in 3 Charts</h1>
+				<p class='intro__dek tk-atlas'>A breakdown of which each character contributes to the trilogy.</p>
+				<p class='intro__byline tk-atlas'>By <a href='https://twitter.com/juliasilge' target='_blank'><strong>Shane Caldwell, Mac Gray, and David Duffrin</strong></a>
+				</p>
+			</div>
+		</div>
+		<div class='prose prelude'>
 		<div class='prose'>
+			<p>Creating numbers you can crunch from a movie isn't obvious, and gaining information about the narrative from those numbers is more challenging still. 
+				However, perhaps there are things we can learn from a data-driven exploration of our film that we can't learn anywhere else. 
+			</p>
+			<p>
+				The Pudding (who we love) did a piece called <a href="https://pudding.cool/2017/03/film-dialogue/">The Largest Ever Analysis of Film Dialogue by Gender: 2,000 scripts, 25,000 actors, 4 million lines</a>, 
+				which ended up looking at over 2,000 different films looking at the gender of characters. They used the same dataset to come up with <a href="https://pudding.cool/2017/08/screen-direction/">She Giggles, He Gallops</a>, an analysis of stage direction. It was (and is) really dope.
+			</p>
+			<p>
+				While both those analyses are impressive in their scope, it loses some of the personality in the film. That makes sense, of course, their interest is largely in how much of the script is dedicated to male vs 
+				female roles. The actual stories there aren't relevant to the question they're trying to answer.
+			</p>
+			<p>
+				Is that all that can be done with the textual data from scripts? Or is it possible to learn something about the movies narrative structure and character relationships through data analysis and visualization?
+			</p>
+			<p>
+				To answer this question, we knew one movie wouldn't be enough. More lines means more data, after all. But to focus on character analysis we need the same characters to show up from multiple movies. So we needed a franchise, then. 
+				With that decided, there was no question about which to choose. 
+			</p>
+			<p>
+				Shrek is something of a pop culture icon. Originally based off of a 30 page children's book written by William Steig, it became a box office smash hit that's spawned multiple sequels, a really weird internet precense, and it's own annual festival. 
+				As Shrek celebrates his 17th birthday, we here at Trashmission wanted to peak under the hood and see what exactly gave the Dreamworks reviving franchise such staying power, and see if our visualization techniques could result in any interesting statements about the narrative or character relationship's from the Shrek films. 
+				Maybe even films in general? 
+			</p>
+			<h2 class='prose__hed tk-canela'>Methodology</h2>
+			<p>
+				We tracked down the scripts to the first three Shrek movies (hereby referred to as "the trilogy"*). 
+				We considered just using the per-character lines from each movie, but we wanted to experiment with time a little bit. 
+				To do that, we ended up downloading subtitle files for each film.
+			</p>
+			<p>
+				Subtitle files are structured with the dialogue to be put on screen, and when to put it on screen, but don't have the character's name. 
+				Thus began the painstaking process of adding the character name to each line spoken by each character, and then transforming the .srt into a filetype we could do further data processing on. 
+				Beauty requires sacrifice. 
+			</p>
+			<p>
+				For some of the analysis on per-character dialogue, the choice was made to filter out characters who didn't have a certain number of lines. 
+			</p>
+
 			<h2 class='prose__hed tk-canela'>How smart is everyone?</h2>
-			<p>Reading level of each character in <button class='small is-selected' data-state='average'>the trilogy</button><button class='small' data-state='count'>Shrek</button><button class='small' data-state='count'>Shrek 2 </button><button class='small' data-state='count'>Shrek The Third</button> for each character who had over 20 lines.</p>
+			<p>Reading level of each character in <button id = "trilogy" class='small is-selected' data-state='average'>the trilogy</button><button id = "shrek" class='small' data-state='count'>Shrek</button><button id = "shrek2" class='small' data-state='count'>Shrek 2 </button><button id="shrek3" class='small' data-state='count'>Shrek The Third</button> for each character who had over 20 lines.</p>
 		</div>	
 		<!-- PUT ALL YOUR HTML HERE-->
 		<div id="read_chart"></div>
@@ -263,8 +293,7 @@
 					<p>Develop an intuitive feeling for the Flesch–Kincaid.</p>
 				</div>
 				<div class="text-input">
-						<textarea id = "reading_level" rows="4" cols="80" onkeypress="updateScore()">At w3schools.com you will learn how to make a website. We offer free tutorials in all web development technologies.
-						</textarea>
+						<textarea id = "reading_level" rows="4" cols="60" onkeypress="updateScore()">Enter text here: </textarea>
 					  </div>
 				<div class="flesch-result">
 					<p id="flesch_num"></p>
@@ -275,7 +304,8 @@
 			</section>
 	</main>
 
-
+	<script src='js/reading_level.js'></script>
+	<script src='js/flesch_score.js'></script>
 	<script src='https://pudding.cool/assets/scripts/d3.v4.10.2+jetpack.min.js'></script>
 	<script src='bundle.js?version=1517590327349' async></script>
 </body>
