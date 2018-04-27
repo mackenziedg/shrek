@@ -234,7 +234,38 @@
 			<p>
 				For some of the analysis on per-character dialogue, the choice was made to filter out characters who didn't have a certain number of lines. 
 			</p>
+		</section>		<!-- container = ".scroll" -->
+		<section id='scroll'>
+			<div class='scroll__graphic'>
+			</div>
+			<div class='scroll__text'>
+				<div class='step' data-step='1'>
+					<img src="img/scroll/fiveminutes_screenshot.png">
+					<p>
+						So this...
+					</p>
+				</div>
+				<div class='step' data-step='2'>
+					<p>
+						Looks like this...
+					</p>
+					<p id="srt_layout"> 
 
+					</p>
+				</div>
+				<div class='step' data-step='3'>
+					<p> And we added this...</p>
+					<p id = "srt_layout"> srt here</p>
+					<p id = "srt_name_highlight">SHREK</p>
+					<p id = "srt_layout"> end srt here</p>
+				</div>
+				<div class='step' data-step='4'>
+
+					<p>Show csv here.</p>
+					<p id ="csv_layout"></p>
+				</div>
+			</div>
+		</section>
 			<h2 class='prose__hed tk-canela'>How smart is everyone?</h2>
 			<p>Reading level of each character in <button id = "trilogy" class='small is-selected' data-state='average'>the trilogy</button><button id = "shrek" class='small' data-state='count'>Shrek</button><button id = "shrek2" class='small' data-state='count'>Shrek 2 </button><button id="shrek3" class='small' data-state='count'>Shrek The Third</button> for each character who had over 20 lines.</p>
 		</div>	
@@ -303,11 +334,103 @@
 				</div>
 			</section>
 	</main>
-
+	<script src='https://unpkg.com/intersection-observer'></script>
+	<script src='https://unpkg.com/scrollama'></script>	
 	<script src='js/reading_level.js'></script>
 	<script src='js/flesch_score.js'></script>
 	<script src='https://pudding.cool/assets/scripts/d3.v4.10.2+jetpack.min.js'></script>
 	<script src='bundle.js?version=1517590327349' async></script>
+	<script>
+		// using d3 for convenience
+		var container = d3.select('#scroll');
+		var graphic = container.select('.scroll__graphic');
+		var chart = graphic.select('.chart');
+		var text = container.select('.scroll__text');
+		var step = text.selectAll('.step');
+
+		// initialize the scrollama
+		var scroller = scrollama();
+
+		// generic window resize listener event
+		function handleResize() {
+			// 1. update height of step elements
+			var stepHeight = Math.floor(window.innerHeight * 0.75);
+			step.style('height', stepHeight + 'px');
+
+			// 2. update width/height of graphic element
+			var bodyWidth = d3.select('body').node().offsetWidth;
+
+			graphic
+				.style('width', bodyWidth + 'px')
+				.style('height', window.innerHeight + 'px');
+
+			var chartMargin = 32;
+			var textWidth = text.node().offsetWidth;
+			var chartWidth = graphic.node().offsetWidth - textWidth - chartMargin;
+
+			chart
+				.style('width', chartWidth + 'px')
+				.style('height', Math.floor(window.innerHeight / 2) + 'px');
+
+
+			// 3. tell scrollama to update new element dimensions
+			scroller.resize();
+		}
+
+		// scrollama event handlers
+		function handleStepEnter(response) {
+			// response = { element, direction, index }
+
+			// add color to current step only
+			step.classed('is-active', function (d, i) {
+				return i === response.index;
+			})
+
+			// update graphic based on step
+			chart.select('p').text(response.index + 1)
+		}
+
+		function handleContainerEnter(response) {
+			// response = { direction }
+
+			// sticky the graphic (old school)
+			graphic.classed('is-fixed', true);
+			graphic.classed('is-bottom', false);
+		}
+
+		function handleContainerExit(response) {
+			// response = { direction }
+
+			// un-sticky the graphic, and pin to top/bottom of container
+			graphic.classed('is-fixed', false);
+			graphic.classed('is-bottom', response.direction === 'down');
+		}
+
+		function init() {
+			// 1. force a resize on load to ensure proper dimensions are sent to scrollama
+			handleResize();
+
+			// 2. setup the scroller passing options
+			// this will also initialize trigger observations
+			// 3. bind scrollama event handlers (this can be chained like below)
+			scroller.setup({
+				container: '#scroll',
+				graphic: '.scroll__graphic',
+				text: '.scroll__text',
+				step: '.scroll__text .step',
+				debug: false,
+			})
+				.onStepEnter(handleStepEnter)
+				.onContainerEnter(handleContainerEnter)
+				.onContainerExit(handleContainerExit);
+
+			// setup resize event
+			window.addEventListener('resize', handleResize);
+		}
+
+		// kick things off
+		init();
+	</script>
 </body>
 
 </html>
