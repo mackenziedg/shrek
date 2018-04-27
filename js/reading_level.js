@@ -114,7 +114,81 @@ d3.csv("../data/reading_level/shrek_trilogy_reading.csv").then(function(data) {
       .attr("x",-200)
       .attr("dy", "1em")
       .style("text-anchor", "middle")
-      .text("Flesch Kincaid Score");      
+      .text("Flesch Kincaid Score");
+      
+    // create legend for vocabulary size
+    var circle_scale = svg.append("g")
+      .attr("class", "circle scale")
+      .attr("transform", "translate(120, 300)");
+
+    circle_scale.append("text")
+      .attr("class", "gia-axisLabel")
+      .attr("x", 0)
+      .attr("y", -44)
+      .style("text-anchor", "middle")
+      .text("Vocabulary size");
+
+    var circle_key_big = circle_scale.append("g")
+      .attr("class", "circleKey")
+      .attr("transform", "translate(0, -18.9866421)")
+      
+    circle_key_big.append("circle")
+      .attr("cx", 0)
+      .attr("cy", 0)
+      .attr("r" ,18.96866);
+
+    circle_key_big.append("line")
+      .attr("x1", -18.986)
+      .attr("x2" , -23.986)
+      .attr("y1", 0)
+      .attr("y2", 0)
+      .attr("stroke", "#000")
+      .attr("stroke-width", 2)
+
+    circle_key_big.append("text")
+      .attr("transform", "translate(-26.986, 0)")
+      .attr("dy", ".35em")
+      .style("text-anchor", "end")
+      .text("30,000")
+
+    var circle_key_small = circle_scale.append("g")
+      .attr("class", "circleKey")
+      .attr("transform", "translate(0, -6.00417)")
+
+    circle_key_small.append("circle")
+      .attr("cx", 0)
+      .attr("cy", 0)
+      .attr("r", 6.00417)
+    
+    circle_key_small.append("line")
+      .attr("x1", -6.00417)
+      .attr("x2", -23.986)
+      .attr("y1", 0)
+      .attr("y2", 0)
+      .attr("stroke", "#000")
+      .attr("stroke-width", 2)
+    
+    circle_key_small.append("text")
+      .attr("transform", "translate(-26.98686, 0)")
+      .attr("dy", ".35em")
+      .style("text-anchor", "end")
+      .text("3,000")
+
+/*
+<g class="circle scale" transform="translate(120, 300)">
+
+<text class="gia-axisLabel" x="0" y="-44" style="text-anchor: middle;">Number of words</text>
+<g class="circleKey" transform="translate(0,-18.986866421928834)">
+<circle cx="0" cy="0" r="18.986866421928834"></circle>
+<line x1="-18.986866421928834" x2="-23.986866421928834" y1="0" y2="0" stroke="#000">30000</line>
+<text transform="translate(-26.986866421928834, 0)" dy=".35em" style="text-anchor: end;">30,000</text>
+</g><g class="circleKey" transform="translate(0,-6.004174352266669)">
+<circle cx="0" cy="0" r="6.004174352266669"></circle>
+<line x1="-6.004174352266669" x2="-23.986866421928834" y1="0" y2="0" stroke="#000">3000</line>
+<text transform="translate(-26.986866421928834, 0)" dy=".35em" style="text-anchor: end;">3,000</text>
+</g>
+</g>
+*/
 
 });
 
