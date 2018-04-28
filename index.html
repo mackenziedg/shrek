@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang='en' data-version='1517590327349'>
+
+<head>
+
+	<title>Shrek Dialogue in 3 Charts</title>
+	<meta charset='utf-8'>
+	<meta name='viewport' content='width=device-width, initial-scale=1'>
+	<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+	<meta name='description' content='A retrospective on what your favorite characters contributed to the trilogy.' />
+	<meta name='news_keywords' content='tk' />
+
+	<!-- smoosh -->
+
+	<!-- endsmoosh -->
+
+	<link rel="stylesheet" href="critical.css" />
+  <link rel="stylesheet" href="bundle.css" />
+	<link rel="stylesheet" href="assets/styles/dialogue.css" />
+</head>
+
+<body class='tk-publico'>
+
+	<a href='#content' class='skip-to-main'>Skip to main content</a>
+	<header>
+		<a href='#' target='_blank' class='logo'>
+
+		</a>
+	</header>
+	<main id='content'>
+
+		<div class='intro'>
+			<h1 class='intro__hed tk-canela'>Shrek Dialogue in 3 Charts</h1>
+			<p class='intro__dek tk-atlas'>A retrospective on what your favorite characters contributed to the trilogy.</p>
+			<p class='intro__byline tk-atlas'>By <a href='https://github.com/SJCaldwell' target='_blank'><strong>Shane Caldwell</strong></a>, <a href='https://github.com/mackenziedg' target='_blank'><strong>Mackenzie Gray</strong></a>, <a href='https://github.com/duffrind' target='_blank'><strong>David Duffrin</strong></a></p>
+		</div>
+
+		<!-- PUT ALL YOUR HTML HERE-->
+		<p class="chart-title">What happens when I make it a chart.</p>
+
+
+
+		<div style="overflow-x:auto;">
+  		<table align="center" style="margin: 0px auto;">
+				<tr>
+					<td>
+						<p align="center">Select a movie: <select onchange="changeViz()" id="movie">
+						  <option value="tri"> Trilogy<br>
+						  <option value="1"> First<br>
+						  <option value="2"> Second<br>
+							<option value="3"> Third
+						</select></p>
+					</td>
+				</tr>
+    		<tr>
+					<td>
+						<svg class="char" width=600 height=210></svg>
+						<svg class="gender" width=600 height=210></svg>
+					</td>
+				</tr>
+  		</table>
+		</div>
+
+	</main>
+
+
+	<!--<script src='https://pudding.cool/assets/scripts/d3.v4.10.2+jetpack.min.js'></script>
+	<script src='bundle.js?version=1517590327349' async></script>
+	<script src='https://pudding.cool/assets/scripts/pudding-footer.js' async></script>  -->
+	<script src="assets/scripts/d3.v4.min.js" charset="utf-8"></script>
+	<!-- <script src="https://d3js.org/d3.v4.js"></script>
+  <script src='assets/scripts/d3.v4.10.2.min.js'></script> -->
+	<script src='assets/scripts/dialogue.js'></script>
+</body>
+
+</html>
