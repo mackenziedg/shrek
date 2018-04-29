@@ -1,4 +1,4 @@
-
+var real_data;
 d3.csv("../data/reading_level/shrek_trilogy_reading.csv").then(function(data) {
 
     var margin = {top: 10, right: 20, bottom: 50, left: 70},
@@ -24,6 +24,7 @@ d3.csv("../data/reading_level/shrek_trilogy_reading.csv").then(function(data) {
         .style("opacity", 0);
 
     //Create scale functions
+    real_data = data
     var xScale = d3.scaleLinear()
         .domain([0, d3.max(data, function(d) { return d.num_lines; })])
         .range([padding, width - padding * 2]);
