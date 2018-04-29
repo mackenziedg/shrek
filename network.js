@@ -30,7 +30,7 @@ var char_desc = {
     "SNOW WHITE": {"evil": "0", "main": "0", "first_app": "1", "visible": "1"},
     "SHREK": {"evil": "0", "main": "1", "first_app": "1", "visible": "1"},
     "ROBIN HOOD": {"evil": "1", "main": "0", "first_app": "1", "visible": "1"},
-    "FARQUAAD": {"evil": "1", "main": "1", "first_app": "1", "visible": "1"},
+    "FARQUAAD": {"evil": "1", "main": "1", "first_app": "1", "visible": "0"},
     "FAIRY GODMOTHER": {"evil": "1", "main": "1", "first_app": "2", "visible": "1"},
     "PINOCCHIO": {"evil": "0", "main": "0", "first_app": "1", "visible": "1"}
 };
@@ -51,73 +51,101 @@ d3.json("./data/shrek_all_network.json", function(err, data){
                            .strength(-800))
         .force("center", d3.forceCenter(w/2, h/2));
 
+    console.log(data["nodes"]);
+    nodes = data["nodes"]
+        .filter(function(d) { return char_desc[d.id].visible=="1"});
+    edges = data["edges"]
+        .filter(function(d) { return (char_desc[d.source.id].visible=="1"&&char_desc[d.target.id].visible=="1")});
+
+
     var textColor = "#333";
     var highlightColor = "#000";
     var linkColor = "#000";
+    var links;
+    var circles;
+    var names;
 
-    var links = svg.append("g")
-        .attr("class", "link")
-        .selectAll("line")
-        .data(edges)
-        .enter()
-        .append("line")
-        .attr("stroke", linkColor);
+    function drawNetwork(cur_nodes, cur_edges){
+        svg.selectAll("*").remove();
 
-    var circles = svg.append("g")
-       .attr("class", "node")
-       .selectAll("circle")
-       .data(nodes)
-       .enter()
-       .append("circle")
-       .attr("fill", function(d) {return evil_colors[char_desc[d.id].evil]})
-       // .attr("fill", function(d) {return first_app_colors[char_desc[d.id].first_app]})
-       .attr("r", function(d) {return scaleCounts(d.word_count)})
-       .attr("id", function(d){return "circle"+d.id.replace(" ", "-");}) 
-       .call(d3.drag()
-               .on("start", dragstarted)
-               .on("drag", dragged)
-               .on("end", dragended))
-        .on("mouseover", function(d){
-            var name = d3.select(this).attr("id").slice(6);
-            var textObj = d3.select("#text"+name);
-            highlightText(textObj);
-        })
-        .on("mouseout", function(d){
-            var name = d3.select(this).attr("id").slice(6);
-            var textObj = d3.select("#text"+name);
-            dehighlightText(textObj);
-        });
+        links = svg.append("g")
+            .attr("class", "link")
+            .selectAll("line")
+            .data(cur_edges)
+            .enter()
+            .append("line")
+            .attr("stroke", linkColor);
 
-    var names = svg.append("g")
-       .attr("class", "names")
-       .selectAll("text")
-       .data(Object.keys(char_desc))
-       .enter()
-       .append("text")
-       .text(function(d, i){return d;})
-       .attr("x", 20)
-       .attr("y", function(d, i){return 20+i*18;})
-       .attr("fill", textColor)
-       .attr("style", function(d){return "opacity:"+(char_desc[d].visible==="1"?"1.0":"0.5")+";";})
-       .attr("id", function(d){return "text"+d.replace(" ", "-");})
-       .on("mouseover", function(d){
-          var name = d3.select(this).attr("id").slice(4);
-          var circleObj = d3.select("#circle"+name);
-          highlightCircle(circleObj);
-       })
-       .on("mouseout", function(d){
-          var name = d3.select(this).attr("id").slice(4);
-          var circleObj = d3.select("#circle"+name);
-          dehighlightCircle(circleObj);
-       })
-       .on("click", function(d){
-           char_desc[d].visible = (char_desc[d].visible==="1"?"0":"1");
-           var textObj = d3.select("#text"+d.replace(" ", "-"));
-           var circleObj = d3.select("#circle"+d.replace(" ", "-"));
-           swapTextOpacity(textObj);
-       });
+        circles = svg.append("g")
+            .attr("class", "node")
+            .selectAll("circle")
+            .data(cur_nodes)
+            .enter()
+            .append("circle")
+            .attr("fill", function(d) {return evil_colors[char_desc[d.id].evil]})
+            .attr("r", function(d) {return scaleCounts(d.word_count)})
+            .attr("id", function(d){return "circle"+d.id.replace(" ", "-");}) 
+            .call(d3.drag()
+                    .on("start", dragstarted)
+                    .on("drag", dragged)
+                    .on("end", dragended))
+             .on("mouseover", function(d){
+                 var name = d3.select(this).attr("id").slice(6);
+                 var textObj = d3.select("#text"+name);
+                 highlightText(textObj);
+             })
+             .on("mouseout", function(d){
+                 var name = d3.select(this).attr("id").slice(6);
+                 var textObj = d3.select("#text"+name);
+                 dehighlightText(textObj);
+             });
+
+        names = svg.append("g")
+           .attr("class", "names")
+           .selectAll("text")
+           .data(Object.keys(char_desc))
+           .enter()
+           .append("text")
+           .text(function(d, i){return d;})
+           .attr("x", 20)
+           .attr("y", function(d, i){return 20+i*18;})
+           .attr("fill", textColor)
+           .attr("style", function(d){return "opacity:"+(char_desc[d].visible==="1"?"1.0":"0.5")+";";})
+           .attr("id", function(d){return "text"+d.replace(" ", "-");})
+           .on("mouseover", function(d){
+              var name = d3.select(this).attr("id").slice(4);
+              var circleObj = d3.select("#circle"+name);
+              highlightCircle(circleObj);
+           })
+           .on("mouseout", function(d){
+              var name = d3.select(this).attr("id").slice(4);
+              var circleObj = d3.select("#circle"+name);
+              dehighlightCircle(circleObj);
+           })
+           .on("click", function(d){
+               char_desc[d].visible = (char_desc[d].visible==="1"?"0":"1");
+               var textObj = d3.select("#text"+d.replace(" ", "-"));
+               var circleObj = d3.select("#circle"+d.replace(" ", "-"));
+               swapTextOpacity(textObj);
+
+               nodes = data["nodes"]
+                       .filter(function(d) { return char_desc[d.id].visible=="1"});
+               edges = data["edges"]
+                       .filter(function(d) {
+                           return (char_desc[d.source.id].visible=="1"&&
+                                   char_desc[d.target.id].visible=="1")});
+
+               drawNetwork(nodes, edges);
+               simulation.nodes(nodes).force("link", d3.forceLink(edges));
+               simulation.alpha(1).restart();
+           });
+
+    }
+    drawNetwork(nodes, edges);
 
     simulation.on("tick", ticked);
+    simulation.nodes(nodes).force("link", d3.forceLink(edges));
+    simulation.alpha(1).restart();
 
     function ticked(){
       circles.attr("cx", function(d) { return d.x; })
