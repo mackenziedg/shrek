@@ -333,11 +333,34 @@
 					<p>In the box above, you can write any text you want and the reading level will be evaluted in real time.</p>
 				</div>
 			</section>
+			<section class='graphic--gender'>
+				<div style="overflow-x:auto;">
+				  <table align="center" style="margin: 0px auto;">
+						<tr>
+							<td>
+								<p align="center">Select a movie: <select onchange="changeViz()" id="movie">
+								  <option value="tri"> Trilogy<br>
+								  <option value="1"> First<br>
+								  <option value="2"> Second<br>
+									<option value="3"> Third
+								</select></p>
+							</td>
+						</tr>
+					<tr>
+							<td>
+								<svg class="char" width=600 height=210></svg>
+								<svg class="gender" width=600 height=210></svg>
+							</td>
+						</tr>
+				  </table>
+				</div>
+		</section>
 	</main>
 	<script src='https://unpkg.com/intersection-observer'></script>
 	<script src='https://unpkg.com/scrollama'></script>	
 	<script src='js/reading_level.js'></script>
 	<script src='js/flesch_score.js'></script>
+	<script src='js/dialogue.js'></script>
 	<script src='https://pudding.cool/assets/scripts/d3.v4.10.2+jetpack.min.js'></script>
 	<script src='bundle.js?version=1517590327349' async></script>
 	<script>
