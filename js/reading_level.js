@@ -1,7 +1,7 @@
 
 d3.csv("../data/reading_level/shrek_trilogy_reading.csv").then(function(data) {
 
-    var margin = {top: 20, right: 20, bottom: 50, left: 70},
+    var margin = {top: 10, right: 20, bottom: 50, left: 70},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
@@ -9,12 +9,9 @@ d3.csv("../data/reading_level/shrek_trilogy_reading.csv").then(function(data) {
     //var height = 300; //height of canvas
     var padding = 40;
     
-    const color = {
-        "hero" : "green",
-        "villain": "purple",
-        "supporting": "brown"
-    };
-    
+    // again scaleOrdinal
+	var color = d3.scaleOrdinal(d3.schemeCategory20);
+
     console.log("RUNNIN");
     // add the graph canvas to the body of the webpage
     var svg = d3.select("#read_chart").append("svg")
@@ -69,7 +66,7 @@ d3.csv("../data/reading_level/shrek_trilogy_reading.csv").then(function(data) {
         })
       .style("opacity", 0.3)
       .style("fill", function(d) { 
-          return color[d.group];
+          return color(d.group);
         }) 
       .on("mouseover", function(d) {
           tooltip.transition()
@@ -115,7 +112,32 @@ d3.csv("../data/reading_level/shrek_trilogy_reading.csv").then(function(data) {
       .attr("dy", "1em")
       .style("text-anchor", "middle")
       .text("Flesch Kincaid Score");
-      
+
+    var legend = svg.selectAll('legend')
+      .data(color.domain())
+      .enter().append('g')
+      .attr('class', 'legend')
+      .attr('transform', function(d,i){ return 'translate(0,' + i * 20 + ')'; });
+
+  // give x value equal to the legend elements. 
+  // no need to define a function for fill, this is automatically fill by color.
+  legend.append('rect')
+      .attr('x', width - 18)
+      .attr('width', 18)
+      .attr('height', 18)
+      .style('fill', color);
+
+  // add text to the legend elements.
+  // rects are defined at x value equal to width, we define text at width - 6, this will print name of the legends before the rects.
+  legend.append('text')
+      .attr('x', width - 24)
+      .attr('y', 9)
+      .attr('dy', '.35em')
+      .style('text-anchor', 'end')
+      .text(function(d){
+          return d; 
+        });
+  
     // create legend for vocabulary size
     var circle_scale = svg.append("g")
       .attr("class", "circle scale")

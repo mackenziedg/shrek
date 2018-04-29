@@ -607,7 +607,6 @@ header a.logo svg{
     justify-content:center;
     height:90vh;
     background-color:#2a2a2a;
-    background-image:url(assets/img/flings.jpg);
     background-size:cover;
     background-position:center center;
     background-repeat:no-repeat
@@ -695,7 +694,6 @@ header a.logo svg{
     left:0;
     width:100%;
     height:100%;
-    background:url(assets/img/bg-pattern-dark.png);
     opacity:.5
 }
 .prose.prelude{
@@ -1179,4 +1177,12 @@ button.is-selected {
     pointer-events: none;
     font-family: verdana;
     font-size: 9px;
+}
+
+.legend rect{
+    fill-opacity: 0.25;
+}
+
+.legeng:hover rect{
+    fill-opacity:1;
 }
