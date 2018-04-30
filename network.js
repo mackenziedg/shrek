@@ -1,5 +1,6 @@
 var section = d3.select("#content")
               .append("div")
+              .attr("id", "interactions-div")
               .attr("class", "section center black tk-futura-pt")
               .attr("style", "position:relative; background-color:#F7F7F7;");
 
@@ -10,29 +11,31 @@ var svg = section.append("svg")
           .attr("width", w)
           .attr("height", h);
 
+var highlight_color_link = "#5c452d";
+var highlight_color_node = "#7a9244";
 var evil_colors = {"0": "#f7c0bb", "1": "#8690ff"};
 var main_colors = {"0": "#f7c0bb", "1": "#acd0f4"};
 var first_app_colors = {"1": "#f7c0bb", "2": "#8690ff", "3": "#7fd4c1"};
 
 var char_desc = {
-    "GINGY": {"evil": "0", "main": "0", "first_app": "1", "visible": "1"},
-    "RAPUNZEL": {"evil": "1", "main": "1", "first_app": "3", "visible": "1"},
-    "PRINCE CHARMING": {"evil": "1", "main": "1", "first_app": "2", "visible": "1"},
+    "GINGY": {"evil": "0", "main": "0", "first_app": "1", "visible": "0"},
+    "RAPUNZEL": {"evil": "1", "main": "1", "first_app": "3", "visible": "0"},
+    "PRINCE CHARMING": {"evil": "1", "main": "1", "first_app": "2", "visible": "0"},
     "MIRROR": {"evil": "1", "main": "0", "first_app": "1", "visible": "1"},
-    "PUSS": {"evil": "0", "main": "1", "first_app": "2", "visible": "1"},
-    "GUARD": {"evil": "1", "main": "0", "first_app": "1", "visible": "1"},
-    "MERLIN": {"evil": "0", "main": "0", "first_app": "3", "visible": "1"},
-    "QUEEN": {"evil": "0", "main": "0", "first_app": "2", "visible": "1"},
-    "KING HAROLD": {"evil": "0", "main": "0", "first_app": "2", "visible": "1"},
+    "PUSS": {"evil": "0", "main": "1", "first_app": "2", "visible": "0"},
+    "GUARD": {"evil": "1", "main": "0", "first_app": "1", "visible": "0"},
+    "MERLIN": {"evil": "0", "main": "0", "first_app": "3", "visible": "0"},
+    "QUEEN": {"evil": "0", "main": "0", "first_app": "2", "visible": "0"},
+    "KING HAROLD": {"evil": "0", "main": "0", "first_app": "2", "visible": "0"},
     "FIONA": {"evil": "0", "main": "1", "first_app": "1", "visible": "1"},
     "DONKEY": {"evil": "0", "main": "1", "first_app": "1", "visible": "1"},
-    "ARTIE": {"evil": "0", "main": "1", "first_app": "2", "visible": "1"},
-    "SNOW WHITE": {"evil": "0", "main": "0", "first_app": "1", "visible": "1"},
+    "ARTIE": {"evil": "0", "main": "1", "first_app": "2", "visible": "0"},
+    "SNOW WHITE": {"evil": "0", "main": "0", "first_app": "1", "visible": "0"},
     "SHREK": {"evil": "0", "main": "1", "first_app": "1", "visible": "1"},
     "ROBIN HOOD": {"evil": "1", "main": "0", "first_app": "1", "visible": "1"},
     "FARQUAAD": {"evil": "1", "main": "1", "first_app": "1", "visible": "1"},
-    "FAIRY GODMOTHER": {"evil": "1", "main": "1", "first_app": "2", "visible": "1"},
-    "PINOCCHIO": {"evil": "0", "main": "0", "first_app": "1", "visible": "1"}
+    "FAIRY GODMOTHER": {"evil": "1", "main": "1", "first_app": "2", "visible": "0"},
+    "PINOCCHIO": {"evil": "0", "main": "0", "first_app": "1", "visible": "0"}
 };
 
 
@@ -72,6 +75,7 @@ d3.json("./data/shrek_all_network.json", function(err, data){
             .data(cur_edges)
             .enter()
             .append("line")
+            .attr("class", function(d){return "link"+d.source.id.replace(" ", "-")+" "+"link"+d.target.id.replace(" ", "-")})
             .attr("stroke", linkColor);
 
         circles = svg.append("g")
@@ -91,12 +95,31 @@ d3.json("./data/shrek_all_network.json", function(err, data){
                  var name = d3.select(this).attr("id").slice(6);
                  var textObj = d3.select("#text"+name);
                  highlightText(textObj);
+                 highlightConnections(name);
              })
              .on("mouseout", function(d){
                  var name = d3.select(this).attr("id").slice(6);
                  var textObj = d3.select("#text"+name);
                  dehighlightText(textObj);
+                 dehighlightConnections(name);
              });
+
+        function highlightConnections(name){
+            dc = d3.select("#circle"+name);
+            dc.attr("fill", highlight_color_node);
+
+            d3.selectAll(".link"+name)
+              .attr("stroke-width", 5)
+              .attr("stroke", highlight_color_link);
+        }
+
+        function dehighlightConnections(name){
+            d3.select("#circle"+name)
+              .attr("fill", evil_colors[char_desc[name.replace("-", " ")].evil]);
+
+            d3.selectAll(".link"+name)
+              .attr("stroke-width", 1);
+        }
 
         names = svg.append("g")
            .attr("class", "names")
