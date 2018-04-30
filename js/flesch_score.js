@@ -1,5 +1,5 @@
 function updateScore() {
-    console.log("RUNNIN");
+
     var text = document.getElementById('reading_level').value
     text = text + " ";
     var counts = createCounts(text);
@@ -61,7 +61,6 @@ function precisionRound(number, precision) {
   }
   
 function calculateReadingLevel(counts){
-    console.log(counts)
     var SENTENCE_WEIGHT = 0.39;
     var WORD_WEIGHT = 11.8;
     var ADJUSTMENT = 15.59;

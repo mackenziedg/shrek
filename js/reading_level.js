@@ -25,7 +25,6 @@ d3.csv("data/reading_level/shrek_trilogy_reading.csv", rowConverter, function(da
     // again scaleOrdinal
 	var color = d3.scaleOrdinal(d3.schemeCategory20);
 
-    console.log("RUNNIN");
     // add the graph canvas to the body of the webpage
     svg = d3.select("#read_chart").append("svg")
         .attr("width", width)
@@ -224,7 +223,6 @@ d3.select("button#trilogy")
             .attr("class", "small is-selected")
         d3.csv("data/reading_level/shrek_trilogy_reading.csv", rowConverter, function(data) {
             svg.selectAll(".dot").remove();
-            console.log("uhhhh nothing removed???");
             var margin = {top: 10, right: 20, bottom: 50, left: 70},
             width = 960 - margin.left - margin.right,
             height = 500 - margin.top - margin.bottom;
@@ -236,7 +234,6 @@ d3.select("button#trilogy")
             // again scaleOrdinal
             var color = d3.scaleOrdinal(d3.schemeCategory20);
         
-            console.log("RUNNIN");
             // add the graph canvas to the body of the webpage
             //Create scale functions
             var formatAsPercentage = d3.format(".1%");
@@ -279,7 +276,6 @@ d3.select("button#trilogy")
                     .style("opacity", 0);
             });            //do redrawing here
         });
-        console.log("dankdank");
     });
 
 d3.select("button#shrek")
@@ -289,7 +285,6 @@ d3.select("button#shrek")
         d3.select("button#shrek")
             .attr("class", "small is-selected")
     d3.csv("data/reading_level/shrek_reading.csv", rowConverter, function(data) {
-        console.log("shrek 1");
         // draw dots
         svg.selectAll(".dot").remove();
 
@@ -304,7 +299,6 @@ d3.select("button#shrek")
         // again scaleOrdinal
         var color = d3.scaleOrdinal(d3.schemeCategory20);
     
-        console.log("RUNNIN");
         // add the graph canvas to the body of the webpage
         //Create scale functions
         var formatAsPercentage = d3.format(".1%");
@@ -371,7 +365,6 @@ d3.select("button#shrek2")
             // again scaleOrdinal
             var color = d3.scaleOrdinal(d3.schemeCategory20);
         
-            console.log("RUNNIN");
             // add the graph canvas to the body of the webpage
             //Create scale functions
             var formatAsPercentage = d3.format(".1%");
@@ -414,7 +407,6 @@ d3.select("button#shrek2")
                     .style("opacity", 0);
             });
         });
-        console.log("shrek 2");
     });
 
 d3.select("button#shrek3")
@@ -437,7 +429,6 @@ d3.select("button#shrek3")
             // again scaleOrdinal
             var color = d3.scaleOrdinal(d3.schemeCategory20);
         
-            console.log("RUNNIN");
             // add the graph canvas to the body of the webpage
             //Create scale functions
             var formatAsPercentage = d3.format(".1%");
@@ -481,5 +472,4 @@ d3.select("button#shrek3")
             });            //do redrawing here
 
         });
-        console.log("shrek 3");
     });
