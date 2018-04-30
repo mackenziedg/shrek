@@ -14,55 +14,65 @@ var svg = section.append("svg")
 var evil_colors = {"0": "#f7c0bb", "1": "#8690ff"};
 var main_colors = {"0": "#f7c0bb", "1": "#acd0f4"};
 var first_app_colors = {"1": "#f7c0bb", "2": "#8690ff", "3": "#7fd4c1"};
-var highlightColorNode = "#8cb04e";
-var highlightColorLink = "#5c452d";
+var highlightColorNode = "#c5ee7d";
+var highlightColorLink = "#7a9244";
 var highlightColorNodeOutline = "#7a9244";
 var textColor = "#333";
 var highlightColor = "#000";
 var linkColor = "#000";
 
 var char_desc = {
-    "GINGY": {"evil": "0", "main": "0", "1": "1", "2": "1", "3": "1", "visible": "0"},
-    "RAPUNZEL": {"evil": "1", "main": "1", "1": "0", "2": "0", "3": "1", "visible": "0"},
-    "PRINCE CHARMING": {"evil": "1", "main": "1", "1": "0", "2": "1", "3": "1", "first_app": "2", "visible": "0"},
+    "GINGY": {"evil": "0", "main": "0", "1": "1", "2": "1", "3": "1", "visible": "1"},
+    "RAPUNZEL": {"evil": "1", "main": "1", "1": "0", "2": "0", "3": "1", "visible": "1"},
+    "PRINCE CHARMING": {"evil": "1", "main": "1", "1": "0", "2": "1", "3": "1", "visible": "1"},
     "MIRROR": {"evil": "1", "main": "0", "1": "1", "2": "0", "3": "0", "visible": "1"},
-    "PUSS": {"evil": "0", "main": "1", "1": "0", "2": "1", "3": "1", "visible": "0"},
-    "GUARD": {"evil": "1", "main": "0", "1": "1", "2": "1", "3": "1", "visible": "0"},
-    "MERLIN": {"evil": "0", "main": "0", "1": "0", "2": "0", "3": "1", "visible": "0"},
-    "QUEEN LILLIAN": {"evil": "0", "main": "0", "1": "0", "2": "1", "3": "1", "visible": "0"},
-    "KING HAROLD": {"evil": "0", "main": "0", "1": "0", "2": "1", "3": "1", "visible": "0"},
+    "PUSS": {"evil": "0", "main": "1", "1": "0", "2": "1", "3": "1", "visible": "1"},
+    "GUARD": {"evil": "1", "main": "0", "1": "1", "2": "1", "3": "1", "visible": "1"},
+    "MERLIN": {"evil": "0", "main": "0", "1": "0", "2": "0", "3": "1", "visible": "1"},
+    "QUEEN LILLIAN": {"evil": "0", "main": "0", "1": "0", "2": "1", "3": "1", "visible": "1"},
+    "KING HAROLD": {"evil": "0", "main": "0", "1": "0", "2": "1", "3": "1", "visible": "1"},
     "FIONA": {"evil": "0", "main": "1", "1": "1", "2": "1", "3": "1", "visible": "1"},
     "DONKEY": {"evil": "0", "main": "1", "1": "1", "2": "1", "3": "1", "visible": "1"},
-    "ARTIE": {"evil": "0", "main": "1", "1": "0", "2": "0", "3": "1", "visible": "0"},
-    "SNOW WHITE": {"evil": "0", "main": "0", "1": "0", "2": "0", "3": "1", "visible": "0"},
+    "ARTIE": {"evil": "0", "main": "1", "1": "0", "2": "0", "3": "1", "visible": "1"},
+    "SNOW WHITE": {"evil": "0", "main": "0", "1": "0", "2": "0", "3": "1", "visible": "1"},
     "SHREK": {"evil": "0", "main": "1", "1": "1", "2": "1", "3": "1", "visible": "1"},
     "ROBIN HOOD": {"evil": "1", "main": "0", "1": "1", "2": "0", "3": "0", "visible": "1"},
     "FARQUAAD": {"evil": "1", "main": "1", "1": "1", "2": "0", "3": "0", "visible": "1"},
-    "FAIRY GODMOTHER": {"evil": "1", "main": "1", "1": "0", "2": "1", "3": "0", "visible": "0"},
-    "PINOCCHIO": {"evil": "0", "main": "0", "1": "1", "2": "1", "3": "1", "visible": "0"}
+    "FAIRY GODMOTHER": {"evil": "1", "main": "1", "1": "0", "2": "1", "3": "0", "visible": "1"},
+    "PINOCCHIO": {"evil": "0", "main": "0", "1": "1", "2": "1", "3": "1", "visible": "1"}
 };
 
-d3.json("./data/shrek_all_network.json", function(err, data){
+d3.queue()
+.defer(d3.json, "./data/shrek_all_network.json")
+.defer(d3.json, "./data/shrek_1_network.json")
+.defer(d3.json, "./data/shrek_2_network.json")
+.defer(d3.json, "./data/shrek_3_network.json")
+.await(function(err, data_all, data_1, data_2, data_3){
     if (err){throw err};
 
-    var nodes = data["nodes"];
-    var edges = data["edges"];
-    var charge = -800;
+    var data;
+    datas = [data_1, data_2, data_3, data_all]
+    for(var i in datas){
+        data = datas[i];
+        var nodes = data["nodes"];
+        var edges = data["edges"];
+        var charge = -800;
 
-    var simulation = d3.forceSimulation(nodes)
-        .force("link", d3.forceLink(edges)
-                         .id(function(d,i) {
-                             return d.id
-                         }))
-        .force("charge", d3.forceManyBody().strength(charge))
-        .force("center", d3.forceCenter(w/2, h/2));
+        var simulation = d3.forceSimulation(nodes)
+            .force("link", d3.forceLink(edges)
+                             .id(function(d,i) {
+                                 return d.id
+                             }))
+            .force("charge", d3.forceManyBody().strength(charge))
+            .force("center", d3.forceCenter(w/2, h/2));
 
-    nodes = data["nodes"]
-        .filter(function(d) { return char_desc[d.id].visible=="1"});
-    edges = data["edges"]
-        .filter(function(d) { return (char_desc[d.source.id].visible=="1"&&char_desc[d.target.id].visible=="1")});
+        nodes = data["nodes"]
+            .filter(function(d) { return char_desc[d.id].visible=="1"});
+        edges = data["edges"]
+            .filter(function(d) { return (char_desc[d.source.id].visible=="1"&&char_desc[d.target.id].visible=="1")});
+    }
 
-    var film_names = ["All", "1", "2", "3"];
+    var film_names = ["1", "2", "3", "All"];
     var links;
     var circles;
     var films;
@@ -120,12 +130,15 @@ d3.json("./data/shrek_all_network.json", function(err, data){
            .on("click", function(d){
 
                var film_sel = d3.select(this).attr("id").slice(4);
+               var chars = {};
                if (film_sel != "All"){
-                   var chars = {};
-                   for (var k in char_desc){
-                       if (char_desc[k][film_sel] == "1") chars[k]=char_desc[k];
-                   };
+                   data = datas[+film_sel-1]
+                   for(var i in data["nodes"]){
+                       var c = data["nodes"][i].id;
+                       chars[c] = char_desc[c];
+                   }
                }else{
+                   data = datas[3];
                    chars=char_desc;
                }
 
@@ -243,6 +256,7 @@ d3.json("./data/shrek_all_network.json", function(err, data){
           .attr("stroke-width", 0);
 
         d3.selectAll(".link"+name)
+          .attr("stroke", linkColor)
           .attr("stroke-width", 1);
     }
 
