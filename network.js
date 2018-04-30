@@ -11,31 +11,35 @@ var svg = section.append("svg")
           .attr("width", w)
           .attr("height", h);
 
-var highlight_color_link = "#5c452d";
-var highlight_color_node = "#7a9244";
 var evil_colors = {"0": "#f7c0bb", "1": "#8690ff"};
 var main_colors = {"0": "#f7c0bb", "1": "#acd0f4"};
 var first_app_colors = {"1": "#f7c0bb", "2": "#8690ff", "3": "#7fd4c1"};
+var highlightColorNode = "#8cb04e";
+var highlightColorLink = "#5c452d";
+var highlightColorNodeOutline = "#7a9244";
+var textColor = "#333";
+var highlightColor = "#000";
+var linkColor = "#000";
 
 var char_desc = {
-    "GINGY": {"evil": "0", "main": "0", "first_app": "1", "visible": "0"},
-    "RAPUNZEL": {"evil": "1", "main": "1", "first_app": "3", "visible": "0"},
-    "PRINCE CHARMING": {"evil": "1", "main": "1", "first_app": "2", "visible": "0"},
-    "MIRROR": {"evil": "1", "main": "0", "first_app": "1", "visible": "1"},
-    "PUSS": {"evil": "0", "main": "1", "first_app": "2", "visible": "0"},
-    "GUARD": {"evil": "1", "main": "0", "first_app": "1", "visible": "0"},
-    "MERLIN": {"evil": "0", "main": "0", "first_app": "3", "visible": "0"},
-    "QUEEN": {"evil": "0", "main": "0", "first_app": "2", "visible": "0"},
-    "KING HAROLD": {"evil": "0", "main": "0", "first_app": "2", "visible": "0"},
-    "FIONA": {"evil": "0", "main": "1", "first_app": "1", "visible": "1"},
-    "DONKEY": {"evil": "0", "main": "1", "first_app": "1", "visible": "1"},
-    "ARTIE": {"evil": "0", "main": "1", "first_app": "3", "visible": "0"},
-    "SNOW WHITE": {"evil": "0", "main": "0", "first_app": "1", "visible": "0"},
-    "SHREK": {"evil": "0", "main": "1", "first_app": "1", "visible": "1"},
-    "ROBIN HOOD": {"evil": "1", "main": "0", "first_app": "1", "visible": "1"},
-    "FARQUAAD": {"evil": "1", "main": "1", "first_app": "1", "visible": "1"},
-    "FAIRY GODMOTHER": {"evil": "1", "main": "1", "first_app": "2", "visible": "0"},
-    "PINOCCHIO": {"evil": "0", "main": "0", "first_app": "1", "visible": "0"}
+    "GINGY": {"evil": "0", "main": "0", "1": "1", "2": "1", "3": "1", "visible": "0"},
+    "RAPUNZEL": {"evil": "1", "main": "1", "1": "0", "2": "0", "3": "1", "visible": "0"},
+    "PRINCE CHARMING": {"evil": "1", "main": "1", "1": "0", "2": "1", "3": "1", "first_app": "2", "visible": "0"},
+    "MIRROR": {"evil": "1", "main": "0", "1": "1", "2": "0", "3": "0", "visible": "1"},
+    "PUSS": {"evil": "0", "main": "1", "1": "0", "2": "1", "3": "1", "visible": "0"},
+    "GUARD": {"evil": "1", "main": "0", "1": "1", "2": "1", "3": "1", "visible": "0"},
+    "MERLIN": {"evil": "0", "main": "0", "1": "0", "2": "0", "3": "1", "visible": "0"},
+    "QUEEN LILLIAN": {"evil": "0", "main": "0", "1": "0", "2": "1", "3": "1", "visible": "0"},
+    "KING HAROLD": {"evil": "0", "main": "0", "1": "0", "2": "1", "3": "1", "visible": "0"},
+    "FIONA": {"evil": "0", "main": "1", "1": "1", "2": "1", "3": "1", "visible": "1"},
+    "DONKEY": {"evil": "0", "main": "1", "1": "1", "2": "1", "3": "1", "visible": "1"},
+    "ARTIE": {"evil": "0", "main": "1", "1": "0", "2": "0", "3": "1", "visible": "0"},
+    "SNOW WHITE": {"evil": "0", "main": "0", "1": "0", "2": "0", "3": "1", "visible": "0"},
+    "SHREK": {"evil": "0", "main": "1", "1": "1", "2": "1", "3": "1", "visible": "1"},
+    "ROBIN HOOD": {"evil": "1", "main": "0", "1": "1", "2": "0", "3": "0", "visible": "1"},
+    "FARQUAAD": {"evil": "1", "main": "1", "1": "1", "2": "0", "3": "0", "visible": "1"},
+    "FAIRY GODMOTHER": {"evil": "1", "main": "1", "1": "0", "2": "1", "3": "0", "visible": "0"},
+    "PINOCCHIO": {"evil": "0", "main": "0", "1": "1", "2": "1", "3": "1", "visible": "0"}
 };
 
 d3.json("./data/shrek_all_network.json", function(err, data){
@@ -58,9 +62,6 @@ d3.json("./data/shrek_all_network.json", function(err, data){
     edges = data["edges"]
         .filter(function(d) { return (char_desc[d.source.id].visible=="1"&&char_desc[d.target.id].visible=="1")});
 
-    var textColor = "#333";
-    var highlightColor = "#000";
-    var linkColor = "#000";
     var film_names = ["All", "1", "2", "3"];
     var links;
     var circles;
@@ -122,7 +123,7 @@ d3.json("./data/shrek_all_network.json", function(err, data){
                if (film_sel != "All"){
                    var chars = {};
                    for (var k in char_desc){
-                       if (char_desc[k].first_app == film_sel) chars[k]=char_desc[k];
+                       if (char_desc[k][film_sel] == "1") chars[k]=char_desc[k];
                    };
                }else{
                    chars=char_desc;
@@ -173,13 +174,15 @@ d3.json("./data/shrek_all_network.json", function(err, data){
            .attr("id", function(d){return "text"+d.replace(" ", "-");})
            .on("mouseover", function(d){
               var name = d3.select(this).attr("id").slice(4);
-              var circleObj = d3.select("#circle"+name);
-              highlightCircle(circleObj);
+              // var circleObj = d3.select("#circle"+name);
+              // highlightCircle(circleObj);
+              highlightConnections(name);
            })
            .on("mouseout", function(d){
               var name = d3.select(this).attr("id").slice(4);
-              var circleObj = d3.select("#circle"+name);
-              dehighlightCircle(circleObj);
+              // var circleObj = d3.select("#circle"+name);
+              // dehighlightCircle(circleObj);
+              dehighlightConnections(name);
            })
            .on("click", function(d){
                char_desc[d].visible = (char_desc[d].visible==="1"?"0":"1");
@@ -223,27 +226,21 @@ d3.json("./data/shrek_all_network.json", function(err, data){
            .attr("y2", function(d){return Math.max(0, Math.min(d.target.y, h))});
     };
 
-    function highlightCircle(d){
-        d.attr("stroke-width", "5")
-        .attr("stroke", "#000");
-    }
-
-    function dehighlightCircle(d){
-        d.attr("stroke-width", "0");
-    }
-
     function highlightConnections(name){
         dc = d3.select("#circle"+name);
-        dc.attr("fill", highlight_color_node);
+        dc.attr("fill", highlightColorNode)
+          .attr("stroke", highlightColorNodeOutline)
+          .attr("stroke-width", 3);
 
         d3.selectAll(".link"+name)
-          .attr("stroke-width", 5)
-          .attr("stroke", highlight_color_link);
+          .attr("stroke-width", 3)
+          .attr("stroke", highlightColorLink);
     }
 
     function dehighlightConnections(name){
         d3.select("#circle"+name)
-          .attr("fill", evil_colors[char_desc[name.replace("-", " ")].evil]);
+          .attr("fill", evil_colors[char_desc[name.replace("-", " ")].evil])
+          .attr("stroke-width", 0);
 
         d3.selectAll(".link"+name)
           .attr("stroke-width", 1);
