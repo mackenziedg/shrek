@@ -154,8 +154,9 @@ function createGenderViz(file) {
 createGenderViz("data/gender/wc_gender_tri.csv");
 
 function changeViz() {
-  var char_file = "data/gender/wc_char_" + document.getElementById("movie").value + ".csv";
-  var gender_file = "data/gender/wc_gender_" + document.getElementById("movie").value + ".csv";
+  movie_name = document.getElementById("movie").value
+  var char_file = "data/gender/wc_char_" + movie_name + ".csv";
+  var gender_file = "data/gender/wc_gender_" + movie_name + ".csv";
   d3.select(".char").selectAll("*").remove();
   d3.select(".gender").selectAll("*").remove();
   createViz(char_file);
