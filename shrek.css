@@ -1102,12 +1102,12 @@ button.is-selected {
     margin-left: auto;
     margin-right: auto;
     font-family: 'Publico Text Web',Georgia,Times,serif;
-    font-size: 16px; 
+    font-size: 16px;
 }
 
 .flesch--test #flesch_num{
     font-family: 'Publico Text Web',Georgia,Times,serif;
-    font-size: 28px; 
+    font-size: 28px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -1127,11 +1127,11 @@ button.is-selected {
     -moz-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
   }
-  
+
   .scroll__graphic.is-fixed {
     position: fixed;
   }
-  
+
   .scroll__graphic.is-bottom {
     bottom: 0;
     top: auto;
@@ -1150,12 +1150,12 @@ button.is-selected {
     padding: 0 1rem;
     max-width: 30rem;
   }
-  
+
   .step {
     opacity: 0;
     padding: 1rem;
   }
-  
+
   .step.is-active {
     opacity: 1;
   }
@@ -1197,7 +1197,7 @@ button.is-selected {
 .graphic--gender path {
 	display: none;
 }
-.graphic--gender .toolTip {
+.gender_toolTip {
 	position: absolute;
   display: none;
   min-width: 80px;

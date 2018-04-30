@@ -4,7 +4,7 @@ function createViz(file) {
       width = +svg.attr("width") - margin.left - margin.right,
       height = +svg.attr("height") - margin.top - margin.bottom;
 
-  var tooltip = d3.select("body").append("div").attr("class", "toolTip");
+  var tooltip = d3.select("body").append("div").attr("class", "gender_toolTip");
 
   var x = d3.scaleLinear().range([0, width]);
   var y = d3.scaleBand().range([height, 0]);
@@ -85,7 +85,7 @@ function createGenderViz(file) {
       width = +svg.attr("width") - margin.left - margin.right,
       height = +svg.attr("height") - margin.top - margin.bottom;
 
-  var tooltip = d3.select("body").append("div").attr("class", "toolTip");
+  var tooltip = d3.select("body").append("div").attr("class", "gender_toolTip");
 
   var x = d3.scaleLinear().range([0, width]);
   var y = d3.scaleBand().range([height, 0]);
