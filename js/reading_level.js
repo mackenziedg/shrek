@@ -12,7 +12,7 @@ var xScale = null;
 var yScale = null;
 var aScale = null;
 var tooltip = null;
-d3.csv("../data/reading_level/shrek_trilogy_reading.csv", rowConverter, function(data) {
+d3.csv("data/reading_level/shrek_trilogy_reading.csv", rowConverter, function(data) {
 
     var margin = {top: 10, right: 20, bottom: 50, left: 70},
     width = 960 - margin.left - margin.right,
@@ -222,7 +222,7 @@ d3.select("button#trilogy")
             .attr("class", "small")
         d3.select("button#trilogy")
             .attr("class", "small is-selected")
-        d3.csv("../data/reading_level/shrek_trilogy_reading.csv", rowConverter, function(data) {
+        d3.csv("data/reading_level/shrek_trilogy_reading.csv", rowConverter, function(data) {
             svg.selectAll(".dot").remove();
             console.log("uhhhh nothing removed???");
             var margin = {top: 10, right: 20, bottom: 50, left: 70},
@@ -288,7 +288,7 @@ d3.select("button#shrek")
             .attr("class", "small")
         d3.select("button#shrek")
             .attr("class", "small is-selected")
-    d3.csv("../data/reading_level/shrek_reading.csv", rowConverter, function(data) {
+    d3.csv("data/reading_level/shrek_reading.csv", rowConverter, function(data) {
         console.log("shrek 1");
         // draw dots
         svg.selectAll(".dot").remove();
@@ -356,7 +356,7 @@ d3.select("button#shrek2")
             .attr("class", "small")
         d3.select("button#shrek2")
             .attr("class", "small is-selected")
-        d3.csv("../data/reading_level/shrek2_reading.csv", rowConverter, function(data){
+        d3.csv("data/reading_level/shrek2_reading.csv", rowConverter, function(data){
             //do redrawing here
             svg.selectAll(".dot").remove();
 
@@ -423,7 +423,7 @@ d3.select("button#shrek3")
             .attr("class", "small")
         d3.select("button#shrek3")
             .attr("class", "small is-selected")
-        d3.csv("../data/reading_level/shrek3_reading.csv", rowConverter, function(data){
+        d3.csv("data/reading_level/shrek3_reading.csv", rowConverter, function(data){
             svg.selectAll(".dot").remove();
 
             var margin = {top: 10, right: 20, bottom: 50, left: 70},
