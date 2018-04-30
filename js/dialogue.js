@@ -153,12 +153,46 @@ function createGenderViz(file) {
 
 createGenderViz("data/gender/wc_gender_tri.csv");
 
-function changeViz() {
-  movie_name = document.getElementById("movie").value
-  var char_file = "data/gender/wc_char_" + movie_name + ".csv";
-  var gender_file = "data/gender/wc_gender_" + movie_name + ".csv";
+function changeViz(char_file, gender_file) {
   d3.select(".char").selectAll("*").remove();
   d3.select(".gender").selectAll("*").remove();
   createViz(char_file);
   createGenderViz(gender_file);
 }
+
+var gender_tri = document.getElementById('gender_tri');
+var gender_1 = document.getElementById('gender_1');
+var gender_2 = document.getElementById('gender_2');
+var gender_3 = document.getElementById('gender_3');
+
+gender_tri.onclick = function(){
+  document.getElementsByClassName("movie-selected")[0].classList.remove("movie-selected")
+  gender_tri.classList.add("movie-selected")
+  var char_file = "data/gender/wc_char_tri.csv";
+  var gender_file = "data/gender/wc_gender_tri.csv";
+  changeViz(char_file, gender_file);
+};
+
+gender_1.onclick = function(){
+  document.getElementsByClassName("movie-selected")[0].classList.remove("movie-selected")
+  gender_1.classList.add("movie-selected")
+  var char_file = "data/gender/wc_char_1.csv";
+  var gender_file = "data/gender/wc_gender_1.csv";
+  changeViz(char_file, gender_file);
+};
+
+gender_2.onclick = function(){
+  var char_file = "data/gender/wc_char_2.csv";
+  document.getElementsByClassName("movie-selected")[0].classList.remove("movie-selected")
+  gender_2.classList.add("movie-selected")
+  var gender_file = "data/gender/wc_gender_2.csv";
+  changeViz(char_file, gender_file);
+};
+
+gender_3.onclick = function(){
+  document.getElementsByClassName("movie-selected")[0].classList.remove("movie-selected")
+  gender_3.classList.add("movie-selected")
+  var char_file = "data/gender/wc_char_3.csv";
+  var gender_file = "data/gender/wc_gender_3.csv";
+  changeViz(char_file, gender_file);
+};

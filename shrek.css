@@ -981,6 +981,11 @@ section{
     box-shadow:0 0 3px 1px #666 inset;
     background-color:#ccc
 }
+.movie-selected{
+    -webkit-box-shadow:0 0 3px 1px #666 inset;
+    box-shadow:0 0 3px 1px #666 inset;
+    background-color:#ccc
+}
 .bar--male{
     fill:#0991db
 }
