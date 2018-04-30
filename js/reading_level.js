@@ -1,5 +1,14 @@
-var real_data;
-d3.csv("../data/reading_level/shrek_trilogy_reading.csv").then(function(data) {
+var rowConverter = function(d) {
+    return{
+        name: d.name,
+        reading_level: parseFloat(d.reading_level),
+        num_lines: parseInt(d.num_lines),
+        group: d.group,
+        vocab: parseInt(d.vocab)
+    };
+}
+
+d3.csv("../data/reading_level/shrek_trilogy_reading.csv", rowConverter, function(data) {
 
     var margin = {top: 10, right: 20, bottom: 50, left: 70},
     width = 960 - margin.left - margin.right,
@@ -24,7 +33,6 @@ d3.csv("../data/reading_level/shrek_trilogy_reading.csv").then(function(data) {
         .style("opacity", 0);
 
     //Create scale functions
-    real_data = data
     var xScale = d3.scaleLinear()
         .domain([0, d3.max(data, function(d) { return d.num_lines; })])
         .range([padding, width - padding * 2]);
@@ -202,22 +210,6 @@ d3.csv("../data/reading_level/shrek_trilogy_reading.csv").then(function(data) {
       .style("text-anchor", "end")
       .text("3,000")
 
-/*
-<g class="circle scale" transform="translate(120, 300)">
-
-<text class="gia-axisLabel" x="0" y="-44" style="text-anchor: middle;">Number of words</text>
-<g class="circleKey" transform="translate(0,-18.986866421928834)">
-<circle cx="0" cy="0" r="18.986866421928834"></circle>
-<line x1="-18.986866421928834" x2="-23.986866421928834" y1="0" y2="0" stroke="#000">30000</line>
-<text transform="translate(-26.986866421928834, 0)" dy=".35em" style="text-anchor: end;">30,000</text>
-</g><g class="circleKey" transform="translate(0,-6.004174352266669)">
-<circle cx="0" cy="0" r="6.004174352266669"></circle>
-<line x1="-6.004174352266669" x2="-23.986866421928834" y1="0" y2="0" stroke="#000">3000</line>
-<text transform="translate(-26.986866421928834, 0)" dy=".35em" style="text-anchor: end;">3,000</text>
-</g>
-</g>
-*/
-
 });
 
 d3.select("button#trilogy")
@@ -238,12 +230,10 @@ d3.select("button#shrek")
             .attr("class", "small")
         d3.select("button#shrek")
             .attr("class", "small is-selected")
-        d3.csv("../data/reading_level/shrek_reading.csv").then(function(data){
-            //do redrawing here
-
-    });
+    d3.csv("../data/reading_level/shrek_reading.csv", function(data) {
         console.log("shrek 1");
     });
+});
 
 d3.select("button#shrek2")
     .on("click", function(){
