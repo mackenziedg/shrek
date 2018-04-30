@@ -77,6 +77,7 @@ d3.queue()
     var circles;
     var films;
     var names;
+    var chars = char_desc;
 
     function drawNetwork(cur_nodes, cur_edges){
         svg.selectAll("*").remove();
@@ -130,7 +131,7 @@ d3.queue()
            .on("click", function(d){
 
                var film_sel = d3.select(this).attr("id").slice(4);
-               var chars = {};
+               chars = {};
                if (film_sel != "All"){
                    data = datas[+film_sel-1]
                    for(var i in data["nodes"]){
@@ -176,7 +177,7 @@ d3.queue()
         names = svg.append("g")
            .attr("class", "names")
            .selectAll("text")
-           .data(Object.keys(char_desc))
+           .data(Object.keys(chars))
            .enter()
            .append("text")
            .text(function(d, i){return d;})
