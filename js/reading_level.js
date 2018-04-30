@@ -223,7 +223,61 @@ d3.select("button#trilogy")
         d3.select("button#trilogy")
             .attr("class", "small is-selected")
         d3.csv("../data/reading_level/shrek_trilogy_reading.csv", rowConverter, function(data) {
-            //do redrawing here
+            svg.selectAll(".dot").remove();
+            console.log("uhhhh nothing removed???");
+            var margin = {top: 10, right: 20, bottom: 50, left: 70},
+            width = 960 - margin.left - margin.right,
+            height = 500 - margin.top - margin.bottom;
+        
+            //var width = 700; //width of canvas
+            //var height = 300; //height of canvas
+            var padding = 40;
+            
+            // again scaleOrdinal
+            var color = d3.scaleOrdinal(d3.schemeCategory20);
+        
+            console.log("RUNNIN");
+            // add the graph canvas to the body of the webpage
+            //Create scale functions
+            var formatAsPercentage = d3.format(".1%");
+            svg.selectAll(".dot")
+            .data(data)
+            .enter().append("circle")
+            .attr("class", "dot")
+            .attr("r", function(d){
+                return aScale(d.vocab)
+            })
+            .attr("cx", function(d){
+                return xScale(d.num_lines)
+                })
+            .attr("cy", function(d){
+                return yScale(d.reading_level)
+                })
+            .style("opacity", 0.3)
+            .style("fill", function(d) { 
+                return color(d.group);
+                }) 
+            .style('stroke-width', '2px')
+            .style('stroke', 'none')
+            .on("mouseover", function(d) {
+                d3.select(this).style('stroke', 'black')
+                tooltip.transition()
+                    .duration(200)
+                    .style("opacity", .9);
+                
+                tooltip.html(d.name + "<br/> READING LEVEL:" + d.reading_level + "<br/>"
+                    + "VOCAB: " + d.vocab + " UNIQUE WORDS"
+                    + '<img style="width:100px;height:150px;" src="img/original/' + d.name.toLowerCase().split(' ').join('') + '.jpg" alt="' + d.name + '">')
+                    .style("left", (d3.event.pageX + 5) + "px")
+                    .style("top", (d3.event.pageY - 28) + "px");
+            })
+    
+            .on("mouseout", function(d) {
+                d3.select(this).style('stroke', 'none')
+                tooltip.transition()
+                    .duration(500)
+                    .style("opacity", 0);
+            });            //do redrawing here
         });
         console.log("dankdank");
     });
