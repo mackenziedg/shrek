@@ -69,7 +69,10 @@ d3.csv("../data/reading_level/shrek_trilogy_reading.csv").then(function(data) {
       .style("fill", function(d) { 
           return color(d.group);
         }) 
+      .style('stroke-width', '2px')
+      .style('stroke', 'none')
       .on("mouseover", function(d) {
+        d3.select(this).style('stroke', 'black')
           tooltip.transition()
                .duration(200)
                .style("opacity", .9);
@@ -80,7 +83,9 @@ d3.csv("../data/reading_level/shrek_trilogy_reading.csv").then(function(data) {
                .style("left", (d3.event.pageX + 5) + "px")
                .style("top", (d3.event.pageY - 28) + "px");
       })
+
       .on("mouseout", function(d) {
+        d3.select(this).style('stroke', 'none')
           tooltip.transition()
                .duration(500)
                .style("opacity", 0);
