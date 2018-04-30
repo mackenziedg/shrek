@@ -142,23 +142,24 @@ d3.json("./data/shrek_all_network.json", function(err, data){
     function restartSimulationWithNewNodes(nodes, edges){
         simulation.nodes(nodes)
                   .force("link", d3.forceLink(edges)
-                                   .strength(function(d){return Math.max(0.5, 0.1*Math.sqrt(d.weight))}))
+                                   .strength(function(d){return Math.max(0.1, 0.1*Math.sqrt(d.weight))}))
                   .force("charge", d3.forceManyBody().strength(charge))
                   .force("center", d3.forceCenter(w/2, h/2));
         simulation.alpha(1).restart();
     }
+
     drawNetwork(nodes, edges);
     simulation.on("tick", ticked);
     restartSimulationWithNewNodes(nodes, edges);
 
     function ticked(){
-      circles.attr("cx", function(d) { return d.x; })
-             .attr("cy", function(d) { return d.y; })
+      circles.attr("cx", function(d) { return Math.max(1/4*w, Math.min(d.x, 3/4*w)); })
+             .attr("cy", function(d) { return Math.max(0, Math.min(d.y, h)); })
 
-      links.attr("x1", function(d){return d.source.x})
-           .attr("x2", function(d){return d.target.x})
-           .attr("y1", function(d){return d.source.y})
-           .attr("y2", function(d){return d.target.y});
+      links.attr("x1", function(d){return Math.max(1/4*w, Math.min(d.source.x, 3/4*w))})
+           .attr("x2", function(d){return Math.max(1/4*w, Math.min(d.target.x, 3/4*w))})
+           .attr("y1", function(d){return Math.max(0, Math.min(d.source.y, h))})
+           .attr("y2", function(d){return Math.max(0, Math.min(d.target.y, h))});
     };
 
     function highlightCircle(d){
