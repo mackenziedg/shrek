@@ -322,6 +322,56 @@
 				  </table>
 				</div>
 		</section>
+        <section class="interactions-content commentary">
+            <h2 class="prose__hed tk-canela">Character interactions</h2>
+
+            <p>To get a better idea of how the major characters across the <cite>Shrek</cite> trilogy interact with one another, we can use <a href="https://en.wikipedia.org/wiki/Force-directed_graph_drawing">force-directed graphs</a>.
+            This kind of graph consists of a set of nodes (characters) and edges between nodes (interactions within the films.)
+            The length of the edge between two characters depends on how frequently they interact&mdash;characters who interact a lot are closer together than unrelated characters.
+            For a great example of this concept, a dataset of character interactions in Victor Hugo&apos;s <cite>Les Miserables</cite> has been <a href="https://bl.ocks.org/mbostock/4062045">frequently used</a> to construct this kind of graph.</p>
+
+            <p>From the linked graph, it is easy to pick out groups of characters who interact frequently, as well as characters who bridge different groups.
+            Of course, Hugo&apos;s novel is much longer and has many more characters than the <cite>Shrek</cite> films, but we still may be able to find some interesting relationships for <cite>Shrek</cite>.
+            To filter out the large number of incidental characters who appear in passing and don&apos;t really contribute to the film, we selected only the top eighteen characters by most words spoken in total over all three films.
+            Then, the interactions for those characters were extracted for each film as well as the trilogy as a whole.</p>
+
+            <p>The radius of each circle is proportional to the number of lines of dialog spoken by each character over the selected film(s), and the closeness of two nodes depends on how many times those two characters interacted (judged to be when two characters speak after one another.)
+            For a more technical understanding of how this graph works, check out <a href="https://github.com/d3/d3-force">the documentation</a> for the tool used to create it.</p>
+        </section>
+            <div id="graphic--interactions"></div>
+        <section class="interactions-content commentary">
+            <p>Looking at the graph for the trilogy as a whole (the default view), the density of the graph is striking.
+            It seems that the characters all talk to one another, with no obvious groupings for good vs. evil, or main vs. secondary characters.
+            In fact, we can quantify exactly how connected this graph is by measuring the average <b>degree centrality</b> of the graph.
+            The degree centrality is simply the fraction of nodes which a node is connected to.
+            For instance, Robin Hood is barely connected to the rest of the graph with only two edges&mdash;to Shrek and Fiona&mdash;giving a degree centrality of 2/18 = 0.11.
+            In comparison, Donkey connects to fourteen of the 18 nodes, giving a degree centrality of 0.78.
+            If we find the average degree centrality for each film, as well as the trilogy as a whole, we find that <cite>Shrek</cite> has a mean degree centrality of 0.47, <cite>Shrek 2</cite> 0.80, <cite>Shrek 3</cite> 0.54, and the trilogy 0.51.</p>
+
+            <p>Looking at each graph, these numbers make sense.
+            The first <cite>Shrek</cite> film has by far the fewest characters, and even though they mostly interact with one another the two barely connected nodes weigh down the average heavily.
+            The second film is very densely connected, with many characters interacting with every other main character.
+            The third film is still fairly densely connected but has a few characters (Merlin being a prime example) who interact with only a few of the other main characters, bringing down the average.
+            </p>
+
+            <p>Why is this?
+            Why does <cite>Les Miserables</cite> have an intricate network of character interactions with well-defined groups while <cite>Shrek</cite> just has an ugly, muddy&hellip; swamp?
+            It&apos;s hard to say for certain, but it likely comes down to the nature of films vs. novels and comedy vs. drama.
+            </p>
+
+            <p>Hugo&apos;s novel is about 1,500 pages in English or a whopping 1,900 in French, while the <cite>Shrek</cite> trilogy clocks in at just under 300 minutes&mdash;which equates to about 300 pages given the standard &quot;one screenplay page equals one minute of film.&quot;
+            Films are just inherently unable to create and utilize a cast of characters as large as those in long novels.
+            Can you imagine enjoying an epic twenty-five hour/1,500 minute <cite>Shrek</cite> trilogy?
+            (Ok, you&apos;re reading this article, so maybe you can. But can you imagine the average movie-goer sitting down to watch three children&apos;s movies for over a day straight?)
+            The running length of the extended editions of the <cite>Lord of the Rings</cite> trilogy only comes to less than half of that time.
+            </p>
+            
+            <p>In addition, it is possible that drama can function with characters interacting relatively infrequently.
+            For instance, famously in <cite>Heat</cite>, Al Pacino and Robert De Niro&apos;s characters, the two main characters of the film, really only talk with one another for one scene and otherwise interact at a distance.
+            Comedies, however, often tend to have the cast interact more heavily with one another.
+            An analysis of this idea, that different forms of media tend to have different character interaction characteristics, <a href="http://web.stanford.edu/~cysuen/projects/Extraction%20and%20Analysis%20of%20Character%20Interaction%20Networks%20From%20Plays%20and%20Movies.pdf">has been performed to a degree</a>, but is an interesting topic that could be further investigated in depth.
+            </p>
+        </section>
 	</main>
 	<script src='https://unpkg.com/intersection-observer'></script>
 	<script src='https://unpkg.com/scrollama'></script>
@@ -421,6 +471,7 @@
 	<script src='js/reading_level.js'></script>
 	<script src='js/flesch_score.js'></script>	
 	<script src='js/dialogue.js'></script>
+	<script src='js/network.js'></script>
 </body>
 
 </html>
