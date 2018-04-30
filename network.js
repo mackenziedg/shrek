@@ -30,7 +30,7 @@ var char_desc = {
     "SNOW WHITE": {"evil": "0", "main": "0", "first_app": "1", "visible": "1"},
     "SHREK": {"evil": "0", "main": "1", "first_app": "1", "visible": "1"},
     "ROBIN HOOD": {"evil": "1", "main": "0", "first_app": "1", "visible": "1"},
-    "FARQUAAD": {"evil": "1", "main": "1", "first_app": "1", "visible": "0"},
+    "FARQUAAD": {"evil": "1", "main": "1", "first_app": "1", "visible": "1"},
     "FAIRY GODMOTHER": {"evil": "1", "main": "1", "first_app": "2", "visible": "1"},
     "PINOCCHIO": {"evil": "0", "main": "0", "first_app": "1", "visible": "1"}
 };
@@ -41,22 +41,20 @@ d3.json("./data/shrek_all_network.json", function(err, data){
 
     var nodes = data["nodes"];
     var edges = data["edges"];
+    var charge = -800;
 
     var simulation = d3.forceSimulation(nodes)
         .force("link", d3.forceLink(edges)
                          .id(function(d,i) {
                              return d.id
                          }))
-        .force("charge", d3.forceManyBody()
-                           .strength(-800))
+        .force("charge", d3.forceManyBody().strength(charge))
         .force("center", d3.forceCenter(w/2, h/2));
 
-    console.log(data["nodes"]);
     nodes = data["nodes"]
         .filter(function(d) { return char_desc[d.id].visible=="1"});
     edges = data["edges"]
         .filter(function(d) { return (char_desc[d.source.id].visible=="1"&&char_desc[d.target.id].visible=="1")});
-
 
     var textColor = "#333";
     var highlightColor = "#000";
@@ -136,16 +134,22 @@ d3.json("./data/shrek_all_network.json", function(err, data){
                                    char_desc[d.target.id].visible=="1")});
 
                drawNetwork(nodes, edges);
-               simulation.nodes(nodes).force("link", d3.forceLink(edges));
-               simulation.alpha(1).restart();
+               restartSimulationWithNewNodes(nodes, edges);
            });
 
     }
-    drawNetwork(nodes, edges);
 
+    function restartSimulationWithNewNodes(nodes, edges){
+        simulation.nodes(nodes)
+                  .force("link", d3.forceLink(edges)
+                                   .strength(function(d){return Math.max(0.5, 0.1*Math.sqrt(d.weight))}))
+                  .force("charge", d3.forceManyBody().strength(charge))
+                  .force("center", d3.forceCenter(w/2, h/2));
+        simulation.alpha(1).restart();
+    }
+    drawNetwork(nodes, edges);
     simulation.on("tick", ticked);
-    simulation.nodes(nodes).force("link", d3.forceLink(edges));
-    simulation.alpha(1).restart();
+    restartSimulationWithNewNodes(nodes, edges);
 
     function ticked(){
       circles.attr("cx", function(d) { return d.x; })
