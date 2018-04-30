@@ -35,7 +35,7 @@ function createViz(file) {
           .attr("x", 0)
           .attr("height", y.bandwidth())
           .attr("y", function(d) { return y(d.name); })
-          .attr("fill", function(d) {return d.gender == "male" ? "blue" : "red";})
+          .attr("fill", function(d) {return d.gender == "male" ? "#0d6596" : "#c6445e";})
           .attr("width", function(d) { return +d.wc / max_val * width; })
           .on("mousemove", function(d){
               tooltip
@@ -116,7 +116,7 @@ function createGenderViz(file) {
           .attr("x", 0)
           .attr("height", y.bandwidth())
           .attr("y", function(d) { return y(d.gender); })
-          .attr("fill", function(d) {return d.gender == "M" ? "blue" : "red";})
+          .attr("fill", function(d) {return d.gender == "M" ? "#0d6596" : "#c6445e";})
           .attr("width", function(d) { return +d.wc / max_val * width; })
           .on("mousemove", function(d){
               tooltip
