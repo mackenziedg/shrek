@@ -188,7 +188,7 @@ d3.csv("data/reading_level/shrek_trilogy_reading.csv", rowConverter, function(da
       .attr("transform", "translate(-26.986, 0)")
       .attr("dy", ".35em")
       .style("text-anchor", "end")
-      .text("30,000")
+      .text("3,000")
 
     var circle_key_small = circle_scale.append("g")
       .attr("class", "circleKey")
@@ -211,7 +211,7 @@ d3.csv("data/reading_level/shrek_trilogy_reading.csv", rowConverter, function(da
       .attr("transform", "translate(-26.98686, 0)")
       .attr("dy", ".35em")
       .style("text-anchor", "end")
-      .text("3,000")
+      .text("450")
 
 });
 
