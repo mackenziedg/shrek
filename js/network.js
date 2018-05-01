@@ -10,8 +10,7 @@ var interactionsSVG = section.append("svg")
           .attr("width", w)
           .attr("height", h);
 
-var evil_colors = {"0": "#f7c0bb", "1": "#8690ff"};
-var main_colors = {"0": "#f7c0bb", "1": "#acd0f4"};
+var evil_colors = {"1": "#f7c0bb", "0": "#8690ff"};
 var first_app_colors = {"1": "#f7c0bb", "2": "#8690ff", "3": "#7fd4c1"};
 var highlightColorNode = "#c5ee7d";
 var highlightColorLink = "#7a9244";
