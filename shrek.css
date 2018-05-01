@@ -32,6 +32,9 @@ caption,td,th{
     font-weight:400;
     vertical-align:middle
 }
+cite{
+    font-style:italic;
+}
 .hide-accessible{
     width:1px;
     height:1px;
