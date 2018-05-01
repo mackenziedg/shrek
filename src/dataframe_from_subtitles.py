@@ -2,8 +2,9 @@ import pandas as pd
 import re
 
 lines = []
-with open("../data/Shrek.2001.1080p.BluRay.x264.Ganool.srt") as f:
-      lines = f.readlines()
+# with open("../data/Shrek.2001.1080p.BluRay.x264.Ganool.srt") as f:
+with open("../data/Shrek3.srt") as f:
+    lines = f.readlines()
 
 lines = [line.strip() for line in lines] # Remove trailing newlines
 lines[0] = '1' # Unicode-type error for some reason
@@ -67,4 +68,4 @@ for ix, line in enumerate(lines):
 # Convert the data into a pandas dataframe for writing
 df = pd.DataFrame(m)
 
-df.to_csv("../data/shrek_dialog_w_timestamps.csv", encoding='utf8')
+df.to_csv("../data/shrek3_dialog_w_timestamps.csv", encoding='utf8')
